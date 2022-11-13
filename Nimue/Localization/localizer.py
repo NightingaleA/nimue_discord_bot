@@ -10,34 +10,13 @@ class Localizer:
 
   def __init__(self):
     self.lang = self.LANGUAGES.english
-    self.__load_condtions__()
-    self.__load_labels__()
     self.__load_moves__()
     self.__load_playbooks__()
     self.__load_utils__()
 
-  def __load_condtions__(self):
-    self._condition_dataframe = pd.read_csv(
-      "ThirstySword/Localization/Base/localization_conditions.csv")
-    self._condition_dataframe.set_index("localization_id",
-                                        drop=True,
-                                        inplace=True)
-    self._condition_dataframe.fillna('-', inplace=True)
-    self.dictionary_conditions = self._condition_dataframe.to_dict(
-      orient="index")
-
-  def __load_labels__(self):
-    self._labels_dataframe = pd.read_csv(
-      "ThirstySword/Localization/Base/localization_labels.csv")
-    self._labels_dataframe.set_index("localization_id",
-                                     drop=True,
-                                     inplace=True)
-    self._labels_dataframe.fillna('-', inplace=True)
-    self.dictionary_labels = self._labels_dataframe.to_dict(orient="index")
-
   def __load_moves__(self):
     self._moves_dataframe = pd.read_csv(
-      "ThirstySword/Localization/Base/localization_moves.csv")
+      "Nimue/Localization/Base/localization_moves.csv")
 
     for filename in os.listdir("ThirstySword/Localization/Playbooks"):
       file = os.path.join("ThirstySword/Localization/Playbooks", filename)
@@ -52,7 +31,7 @@ class Localizer:
 
   def __load_playbooks__(self):
     self._playbooks_dataframe = pd.read_csv(
-      "ThirstySword/Localization/Base/localization_playbooks.csv")
+      "Nimue/Localization/Base/localization_playbooks.csv")
     self._playbooks_dataframe.set_index("localization_id",
                                         drop=True,
                                         inplace=True)
@@ -62,7 +41,7 @@ class Localizer:
 
   def __load_utils__(self):
     self._utils_dataframe = pd.read_csv(
-      "ThirstySword/Localization/localization_utils.csv")
+      "Nimue/Localization/localization_utils.csv")
     self._utils_dataframe.set_index("localization_id", drop=True, inplace=True)
     self._utils_dataframe.fillna('-', inplace=True)
     self.dictionary_utils = self._utils_dataframe.to_dict(orient="index")

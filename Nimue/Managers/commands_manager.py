@@ -9,7 +9,7 @@ class Commands_Manager:
   def __init__(self):
     self.formatter = Text_Formatter()
     self._commandsDataframe = pd.read_csv(
-      "ThirstySword/Data/data_commands.csv")
+      "Nimue/Data/data_commands.csv")
     self._commandsDataframe.set_index("localization_id",
                                       drop=True,
                                       inplace=True)

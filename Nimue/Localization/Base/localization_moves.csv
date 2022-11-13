@@ -1,1039 +1,289 @@
 localization_id,english,español
-name_basic_move,Basic Move,Movimiento Básico
-name_special_move,Special Move,Movimiento Especial
-title_basic_moves,Basic Moves,Movimientos Básicos
+title_basic_move,Basic Moves,Movimientos Básicos
 name_just_roll,Just Roll,Solo Tira
-name_fight,Fight,Pelea
-name_defy,Defy Disaster,Desafiar Desastre
-name_stagger,Stagger,Tambalearse
-name_entice,Entice,Atraer
-name_figure,Figure Out A Person,Descifrar a una persona
-name_influence,Influence With A String,Influencia Con Un Hilo
-name_smitten,Smitten,Enamorada
-name_kiss,Finally Kiss In A Dangerous Situation ,Finalmente Nos Besamos En Una Situación Peligrosa
-name_support,Emotional Support ,Soporte Emocional
-title_special_moves,Special Moves,Movimientos Especiales
-name_call,Call On A Toxic Power,Llamado A Un Poder Tóxico
-name_eos,End Of Session,Fin De Sesión
+name_violence,Turn To Violence,
+name_escape,Escape a Situation,
+name_persuade,Persuade an NPC,
+name_figure,Figure Someone Out,
+name_mislead,"Mislead, Distract, or Trick",
+name_cool,Keep your Cool,
+name_let_out,Let it Out,
+name_hand,Lend ad Hand or Get in the Way,
+name_eos_basic,End of Session,
 trigger_just_roll,When you just roll 2d6 with any modifier,Cuando tiras 2d6 con cualquier modificador
-trigger_fight,**When you seek to incapacitate someone with violence.**,**Cuando buscas incapacitar a alguien con violence.**
-trigger_defy,**When you push your limits to achieve something extraordinary.**,**Cuando te empujas sobre tus límites para lograr algo extraordinario.**
-trigger_stagger,**When you suffer a staggering physical or emotional blow.**,**Cuando sufres un impactante golpe físico o emocional.**
-trigger_entice,**When you appeal to someone’s physical or emotional sensibilities.**,**Cuando apelamos a las sensibilidades físicas o emocionales de alguien.**
-trigger_figure,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_influence,,
-trigger_smitten,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_kiss,**When people finally kiss after a period of tension.**,**Cuando la gente finalmente se besan después de un periodo de tension.**
-trigger_support,**When you offer someone support in a way that could be meaningful to them.**,**Cuando ofreces apoyo de una manera que pudiera ser significativa para ellos.**
-trigger_call,**When you parley with a Toxic Power.**,**Cuando negocias con un poder tóxico.**
-trigger_eos,**At the end of every session.**,**Al final de cada sesión.**
+trigger_violence,**When you turn to violence**,
+trigger_escape,**When you take advantage of an opening to escape a situation**,
+trigger_persuade,"**When you persuade an NPC with seduction, promises, or threats,** ",
+trigger_figure,**When you try to figure someone out** ,
+trigger_mislead,"**When you try to mislead, distract, or trick someone** ",
+trigger_cool,**When things get real and you keep your cool** ,
+trigger_let_out,**When you let out the power within you**,
+trigger_hand,**When you lend a hand or get in the way after a PC has rolled**,
+trigger_eos_basic,**At the end of every session**,
 blurb_just_roll,` `,` `
-blurb_fight,"__Roll +Daring or +Grace:__
-**10+:**Choose 3 and your opponent chooses 1 to apply to you in response.
- **7–9:**Choose 2 and your opponent chooses 1.
-
- **•** Flirt with or provoke your opponent and gain a String on them.
- **•** Through violence or cutting words, inflict a Condition.
- **•** Create an opportunity for an ally through prowess or distraction.
- **•** Take an object from your opponent or seize a superior position.","**[Versión en español pendiente]**
-
-__Roll +Daring or +Grace:__
-**10+:**Choose 3 and your opponent chooses 1 to apply to you in response.
- **7–9:**Choose 2 and your opponent chooses 1.
-
- **•** Flirt with or provoke your opponent and gain a String on them.
- **•** Through violence or cutting words, inflict a Condition.
- **•** Create an opportunity for an ally through prowess or distraction.
- **•** Take an object from your opponent or seize a superior position."
-blurb_defy,"__that’s not covered by another move, or to avert an imminent danger__ to yourself or
-someone else, say what you’re willing to sacrifice and pick your approach:
-**•** Might, endurance, or courage +Daring.
-**•** Swiftness or elegance +Grace.
-**•** Charm or social insight +Heart.
-**•** Cleverness or knowledge +Wit.
-**•** Willpower or metaphysical skill +Spirit.
-
-**10+:**Do it with style. At the GM’s discretion, you may also learn new information, discover a new opportunity, or gain a String on someone.
-**7–9:**The GM will offer you a hard choice or success with a sacrifice.","**[Versión en español pendiente]**
-
-__that’s not covered by another move, or to avert an imminent danger__ to yourself or
-someone else, say what you’re willing to sacrifice and pick your approach:
-**•** Might, endurance, or courage +Daring.
-**•** Swiftness or elegance +Grace.
-**•** Charm or social insight +Heart.
-**•** Cleverness or knowledge +Wit.
-**•** Willpower or metaphysical skill +Spirit.
-
-**10+:**Do it with style. At the GM’s discretion, you may also learn new information, discover a new opportunity, or gain a String on someone.
-**7–9:**The GM will offer you a hard choice or success with a sacrifice."
-blurb_stagger,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions."
-blurb_entice,"__roll +Heart:__
-**10+:**Gain a String on them and they choose 1.
-**7–9:**Gain a String on them, unless they decide instead to choose 1.
-
-**•** Get flustered and awkward.
-**•** Promise something they think you want.
-**•** Give in to desire.","**[Versión en español pendiente]**
-
-__roll +Heart:__
-**10+:**Gain a String on them and they choose 1.
-**7–9:**Gain a String on them, unless they decide instead to choose 1.
-
-**•** Get flustered and awkward.
-**•** Promise something they think you want.
-**•** Give in to desire."
-blurb_figure,"__roll +Wit__ (+3 more if you spend a String on them):
-**10+:**You may ask 2 questions, now or later in the scene
-**7–9:**You may ask 2 questions, but they may ask 1 of you
-
-**•** What are your feelings towards _____?
-**•** What do you hope to get from _____?
-**•** How could I get you to _____?
-**•** What do you love most?
-**•** How would you feel if I _____?","**[Versión en español pendiente]**
-
-__roll +Wit__ (+3 more if you spend a String on them):
-**10+:**You may ask 2 questions, now or later in the scene
-**7–9:**You may ask 2 questions, but they may ask 1 of you
-
-**•** What are your feelings towards _____?
-**•** What do you hope to get from _____?
-**•** How could I get you to _____?
-**•** What do you love most?
-**•** How would you feel if I _____?"
-blurb_influence,"At any time, spend a String on someone to do one of the following:
-
-**•** Offer them an XP to do something (don’t spend the String if they refuse the temptation)
-**•** Find out what it will take to get them to do what you want (for an NPC, spending the String means they may simply agree).
-**•** Add 1 to your roll against them (after rolling).
-**•** Add or subtract 1 from any roll they make (after rolling).","**[Versión en español pendiente]**
-
-At any time, spend a String on someone to do one of the following:
-
-**•** Offer them an XP to do something (don’t spend the String if they refuse the temptation)
-**•** Find out what it will take to get them to do what you want (for an NPC, spending the String means they may simply agree).
-**•** Add 1 to your roll against them (after rolling).
-**•** Add or subtract 1 from any roll they make (after rolling)."
-blurb_smitten,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-(The command appears on the list when using the [playbook_name] )
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-(The command appears on the list when using the [playbook_name] )
-"
-blurb_kiss,"each takes +1 ongoing to get to safety and protect the other for the rest of the scene.
-If more than two people finally kiss in these circumstances, they all get the bonus. Each participant must be enthusiastic about kissing to trigger this move.","**[Versión en español pendiente]**
-
-each takes +1 ongoing to get to safety and protect the other for the rest of the scene.
-If more than two people finally kiss in these circumstances, they all get the bonus. Each participant must be enthusiastic about kissing to trigger this move."
-blurb_support,"__roll +Heart or +Spirit__ (+3 more if you spend a String on them):
-**10+:**If they open up to you, they choose 1 and you either choose 1 or take a String on them.
-**7–9:**If they open up to you, they choose 1 a Clear a Condition a Mark XP.
-**•** +1 forward.
-**•** Gain insight from the GM about an obstacle facing one of you.","**[Versión en español pendiente]**
-
-__roll +Heart or +Spirit__ (+3 more if you spend a String on them):
-**10+:**If they open up to you, they choose 1 and you either choose 1 or take a String on them.
-**7–9:**If they open up to you, they choose 1 a Clear a Condition a Mark XP.
-**•** +1 forward.
-**•** Gain insight from the GM about an obstacle facing one of you."
-blurb_call,"ask it your question and __roll +Spirit:__
-**10+:**It answers the question and grants you +1 forward to act on the information.
-**7–9:**It answers the question and the GM chooses 1.
-
-**•** It takes something from you, either knowledge, reputation, or something physical.
-**•** You mark a Condition.
-**•** It gains a String on you.","**[Versión en español pendiente]**
-
-ask it your question and __roll +Spirit:__
-**10+:**It answers the question and grants you +1 forward to act on the information.
-**7–9:**It answers the question and the GM chooses 1.
-
-**•** It takes something from you, either knowledge, reputation, or something physical.
-**•** You mark a Condition.
-**•** It gains a String on you."
-blurb_eos,"each player marks XP if, during the session:
-
-**•** Any PC confessed their love.
-**•** Any PC struck a blow against oppression or de-escalated a violent situation.
-**•** Any PC leapt into danger with daring and panache.
-**•** Any player used a safety practice such as adding to the palette or checking in.","**[Versión en español pendiente]**
-
-each player marks XP if, during the session:
-
-**•** Any PC confessed their love.
-**•** Any PC struck a blow against oppression or de-escalated a violent situation.
-**•** Any PC leapt into danger with daring and panache.
-**•** Any player used a safety practice such as adding to the palette or checking in."
-name_figure_beast,The Beast Figures Out A Person,La Bestia Descifra a una persona
-name_figure_chosen,The Chosen Figures Out A Person,La Elegida Descifra a una persona
-name_figure_devoted,The Devoted Figures Out A Person,La Devota Descifra a una persona
-name_figure_infamous,The Infamous Figures Out A Person,La Infame Descifra a una persona
-name_figure_nature,The Nature WitchFigures Out A Person,La Bruja de Naturaleza Descifra a una persona
-name_figure_scoundrel,The Scoundrel Figures Out A Person,La Pícara Descifra a una persona
-name_figure_seeker,The Seeker Figures Out A Person,La Buscadora Descifra a una persona
-name_figure_spooky,The Spooky Figures Out A Person,La Bruja Aterradora Descifra a una persona
-name_figure_trickster,The Trickster Figures Out A Person,La Tramposa Descifra a una persona
-name_figure_bloody,The Bloody Figures Out A Person,La Sangrienta Descifra a una persona
-name_figure_dream,The Dream Mirror Figures Out A Person,La Espejo de los Sueños Descifra a una persona
-name_figure_ensemble,The Ensemble Figures Out A Person,La Pareja Descifra a una persona
-name_figure_hologodess,The Hologodess Figures Out A Person,La Holodiosa Descifra a una persona
-name_figure_investigator,The Investigator Figures Out A Person,La Investigadora Descifra a una persona
-name_figure_legion,The Legion Figures Out A Person,La Legión Descifra a una persona
-name_figure_matriarch,The Matriarch Figures Out A Person,La Matriarca Descifra a una persona
-name_figure_naga,The Naga Figures Out A Person,La Naga Descifra a una persona
-name_figure_sun,The Sun Hand Figures Out A Person,La Rayito de Sol Descifra a una persona
-name_figure_troubadour,The Troubadour Figures Out A Person,Descifra a una persona
-trigger_figure_beast,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_chosen,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_devoted,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_infamous,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_nature,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_scoundrel,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_seeker,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_spooky,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_trickster,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_bloody,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_dream,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_ensemble,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_hologodess,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_investigator,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_legion,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_matriarch,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_naga,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_sun,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-trigger_figure_troubadour,**When you try to understand a person.**,**Cuando intentas entender a una persona.**
-blurb_figure_beast,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-The Bloody Truth:  You may additionally ask one of these questions, __even on a 6-:__
-**What awakens the beast inside you?**
-**How could I get you to kiss me?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-The Bloody Truth:  You may additionally ask one of these questions, __even on a 6-:__
-**What awakens the beast inside you?**
-**How could I get you to kiss me?**"
-blurb_figure_chosen,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Inescapable Conclusions: You may ask one additional question from this list, __even on a 6-:__
-**What do you hope for your future?**
-**What do you fear is your destiny?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Inescapable Conclusions: You may ask one additional question from this list, __even on a 6-:__
-**What do you hope for your future?**
-**What do you fear is your destiny?**"
-blurb_figure_devoted,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-What Will You Fight For?: You may additionally ask one of these questions, __even on a 6-:__
-**What are you willing to risk death for?**
-**What kind of deeds earn your loyalty?**
-
-","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-What Will You Fight For?: You may additionally ask one of these questions, __even on a 6-:__
-**What are you willing to risk death for?**
-**What kind of deeds earn your loyalty?**
-
-"
-blurb_figure_infamous,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Your Wicked Heart:You may additionally ask one of these questions, __even on a 6-:__
-**What are you most ashamed of?**
-**How could I get you to betray your ideals?**","**[Versión en español pendiente]**
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Your Wicked Heart:You may additionally ask one of these questions, __even on a 6-:__
-**What are you most ashamed of?**
-**How could I get you to betray your ideals?**"
-blurb_figure_nature,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Clear-Hearted Insight: You may additionally ask one of these questions, even on a 6-:
-**What makes you feel loved?**
-**What do you hope for the future?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Clear-Hearted Insight: You may additionally ask one of these questions, even on a 6-:
-**What makes you feel loved?**
-**What do you hope for the future?**"
-blurb_figure_scoundrel,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Repartée: You may additionally ask one of these questions, even on a 6-:
-**What would make you run away with me?**
-**Where did you learn to fight?**","**[Versión en español pendiente]**
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Repartée: You may additionally ask one of these questions, even on a 6-:
-**What would make you run away with me?**
-**Where did you learn to fight?**"
-blurb_figure_seeker,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Not So Different: You may additionally ask one of these questions, even on a 6-:
-**What prejudice do you hold?**
-**What tradition do you most value?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Not So Different: You may additionally ask one of these questions, even on a 6-:
-**What prejudice do you hold?**
-**What tradition do you most value?**"
-blurb_figure_spooky,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Whispered Secrets: You may additionally ask one of these questions, even on a 6-:
-**What makes you insecure?**
-**What haunts you?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Whispered Secrets: You may additionally ask one of these questions, even on a 6-:
-**What makes you insecure?**
-**What haunts you?**"
-blurb_figure_trickster,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-I See Through You: You may additionally ask one of these questions, even on a 6-:
-**Who do you want me to be?**
-**What are you most afraid of right now?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-I See Through You: You may additionally ask one of these questions, even on a 6-:
-**Who do you want me to be?**
-**What are you most afraid of right now?**"
-blurb_figure_bloody,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-The Heart that Wields the Blade: You may ask one additional question from this list, even on a 6-:
-**What is it that drives you to fight?**
-**What’s the one thing you cannot stand to lose?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-The Heart that Wields the Blade: You may ask one additional question from this list, even on a 6-:
-**What is it that drives you to fight?**
-**What’s the one thing you cannot stand to lose?**"
-blurb_figure_dream,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Secret Confessions: You may additionally ask one of these questions, even on a 6-:
-**What desire or fantasy have you hidden from others?**
-**How have prior relationships fallen short of expectations?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Secret Confessions: You may additionally ask one of these questions, even on a 6-:
-**What desire or fantasy have you hidden from others?**
-**How have prior relationships fallen short of expectations?**"
-blurb_figure_ensemble,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Outflanked: You may additionally ask one of these questions, even on a 6-:
-**What is your most pressing relationship need?**
-**What special joy or service would you offer a partner?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Outflanked: You may additionally ask one of these questions, even on a 6-:
-**What is your most pressing relationship need?**
-**What special joy or service would you offer a partner?**"
-blurb_figure_hologodess,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Search Engine Optimization: You may ask one additional question from this list, even on a 6-:
-**How do you fit into the world around you?**
-**Who do you hate the most?**
-**Who will mourn you?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Search Engine Optimization: You may ask one additional question from this list, even on a 6-:
-**How do you fit into the world around you?**
-**Who do you hate the most?**
-**Who will mourn you?**"
-blurb_figure_investigator,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Riposte: You may additionally ask one of these questions, even on a 6-:
-**What are you hiding?**
-**What connection do you have to the Toxic  Powers?**
-** Will you help me investigate a mystery?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Riposte: You may additionally ask one of these questions, even on a 6-:
-**What are you hiding?**
-**What connection do you have to the Toxic  Powers?**
-** Will you help me investigate a mystery?**"
-blurb_figure_legion,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Under Heaven’s EyesYou may additionally ask one of these questions, even on a 6-:
-**What can I say or do to strike at your deepest tragedy?**
-**Who were you and I in a past life?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Under Heaven’s EyesYou may additionally ask one of these questions, even on a 6-:
-**What can I say or do to strike at your deepest tragedy?**
-**Who were you and I in a past life?**"
-blurb_figure_matriarch,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Master of the Heart: You may additionally ask one of these questions, even on a 6-:
-**Who do you love?**
-**How could I help you deal with your problem?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Master of the Heart: You may additionally ask one of these questions, even on a 6-:
-**Who do you love?**
-**How could I help you deal with your problem?**"
-blurb_figure_naga,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Show Yourself: You may additionally ask ask one of these questions, even on a 6-:
-**Who hurt you the most?**
-**What would it take to move past this trauma?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Show Yourself: You may additionally ask ask one of these questions, even on a 6-:
-**Who hurt you the most?**
-**What would it take to move past this trauma?**"
-blurb_figure_sun,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Vulnerability Mirror: You may ask one additional question from this list, even on a 6-:
-**What’s something you recently lied about?**
-**Who do you wish were here right now?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Vulnerability Mirror: You may ask one additional question from this list, even on a 6-:
-**What’s something you recently lied about?**
-**Who do you wish were here right now?**"
-blurb_figure_troubadour,"choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Mass Appeal: WYou may ask one additional question from this list, even on a 6-:
-**What kind of Art are you into?**
-**How can I get you to like me?**","**[Versión en español pendiente]**
-
-choose an option from the following based on the number of Conditions you have marked.
-**4–5 Conditions:**
-**•** You’re rendered helpless for the scene.
-**•** You’re utterly humiliated and news will spread; this could be a consequence of a setback in the confrontation, or might be caused by something you confess in the heat of the moment.
-**•** Choose 2 from the “0–3 Conditions” options.
-
-**0–3 Conditions:**
-**•** You lash out at someone whose regard matters to you: provoke them to do something foolish or harmful and take advantage of a String on them if you have one.
-**•** You hesitate or stumble and the opposition gains an opportunity.
-**•** You grin and bear the blow; mark two Conditions.
-
-Mass Appeal: WYou may ask one additional question from this list, even on a 6-:
-**What kind of Art are you into?**
-**How can I get you to like me?**"
-name_smitten_beast,The Smitten Beast,La Bestia Enamorada
-name_smitten_chosen,The Smitten Chosen,La Elegida Enamorada
-name_smitten_devoted,The Smitten Devoted,La Devota Enamorada
-name_smitten_infamous,The Smitten Infamous,La Infame Enamorada
-name_smitten_nature,The Smitten Nature Witch,La Bruja de Naturaleza Enamorada
-name_smitten_scoundrel,The Smitten Scoundrel,La Pícara Enamorada
-name_smitten_seeker,The Smitten Seeker,La Buscadora Enamorada
-name_smitten_spooky,The Smitten Spooky,La Bruja Aterradora Enamorada
-name_smitten_trickster,The Smitten Trickster,La Tramposa Enamorada
-name_smitten_bloody,The Smitten Bloody,La Sangrienta Enamorada
-name_smitten_dream,The Smitten Dream Mirror,La Espejo de los Sueños Enamorada
-name_smitten_ensemble,The Smitten Ensemble,La Pareja Enamorada
-name_smitten_hologodess,The Smitten Hologodess,La Holodiosa Enamorada
-name_smitten_investigator,The Smitten Investigator,La Investigadora Enamorada
-name_smitten_legion,The Smitten Legion,La Legión Enamorada
-name_smitten_matriarch,The Smitten Matriarch,La Matriarca Enamorada
-name_smitten_naga,The Smitten Naga,La Naga Enamorada
-name_smitten_sun,The Smitten Sun Hand,La Rayito de Sol Enamorada
-name_smitten_troubadour,The Smitten Troubadour,La Trovadora Enamorada
-trigger_smitten_beast,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_chosen,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_devoted,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_infamous,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_nature,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_scoundrel,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_seeker,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_spooky,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_trickster,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_bloody,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_dream,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_ensemble,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_hologodess,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_investigator,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_legion,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_matriarch,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_naga,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_sun,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-trigger_smitten_troubadour,**When you become Smitten with someone.**,**Cuando te enamoras de alguien.**
-blurb_smitten_beast,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Smitten kitten:
- **What have you done that you are sure they view as inappropriate?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Smitten kitten:
- **What have you done that you are sure they view as inappropriate?**"
-blurb_smitten_chosen,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Love is not my destiny:
-**How do our respective stations make it impossible to be together?**
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Love is not my destiny:
-**How do our respective stations make it impossible to be together?**"
-blurb_smitten_devoted,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-My heart is not mine to give:
-**How does pursuing them conflict with your Devotion?**
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-My heart is not mine to give:
-**How does pursuing them conflict with your Devotion?**"
-blurb_smitten_infamous,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Undeserving:
-**Why do you think they would be wrong to forgive you?**
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Undeserving:
-**Why do you think they would be wrong to forgive you?**"
-blurb_smitten_nature,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Love conquers all:
-**What is a clear challenge to being with them that you’re overlooking because of your naivete?**
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Love conquers all:
-**What is a clear challenge to being with them that you’re overlooking because of your naivete?**"
-blurb_smitten_scoundrel,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-To love and lose:
-**Why would your romance never last?**
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-To love and lose:
-**Why would your romance never last?*"
-blurb_smitten_seeker,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-I don't belong:
-**Which of your values do they openly violate or decry?**
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-I don't belong:
-**Which of your values do they openly violate or decry?**"
-blurb_smitten_spooky,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Why did I bring up the snails?
-**What obvious thing about you are you sure would make them reject you?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Why did I bring up the snails?
-**What obvious thing about you are you sure would make them reject you?**"
-blurb_smitten_trickster,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-A Beautiful Lie: 
-**What secret do you have that you think would make them reject you if they knew?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-A Beautiful Lie: 
-**What secret do you have that you think would make them reject you if they knew?**"
-blurb_smitten_bloody,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Do i see fire?:
-**What makes being vulnerable with them difficult?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Do i see fire?:
-**What makes being vulnerable with them difficult?**"
-blurb_smitten_dream,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Love interest:
-**Why do you think you must keep up your performance to have any chance with them?**
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Love interest:
-**Why do you think you must keep up your performance to have any chance with them?**"
-blurb_smitten_ensemble,"__(always your choice),__ say why, give them a String on you, and answer one of the questions in the Truths of Heart and Blade section of your playbook. 
-
-
-Wandering eyes:
-**How would pursuing them make my partner feel unloved or unneeded?**
-**Why do they need you more than your partner does?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer one of the questions in the Truths of Heart and Blade section of your playbook. 
-
-
-Wandering eyes:
-**How would pursuing them make my partner feel unloved or unneeded?**
-**Why do they need you more than your partner does?**"
-blurb_smitten_hologodess,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Compatibility check:
-**How are they incompatible with your operating system?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Compatibility check:
-**How are they incompatible with your operating system?**"
-blurb_smitten_investigator,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-A new special interest:
-**What secret or mystery about you am I irresistibly drawn in by?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-A new special interest:
-**What secret or mystery about you am I irresistibly drawn in by?**"
-blurb_smitten_legion,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Divest of my armor:
-**Why are you certain that your Tragedy will make you lose them?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Divest of my armor:
-**Why are you certain that your Tragedy will make you lose them?**"
-blurb_smitten_matriarch,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-If you wanna be my liver:
-**How could dating them negatively affect your family?**
-","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-If you wanna be my liver:
-**How could dating them negatively affect your family?**"
-blurb_smitten_naga,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Are you mu end?:
-**What’s the worst way you fear they might break or betray your trust?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Are you mu end?:
-**What’s the worst way you fear they might break or betray your trust?**"
-blurb_smitten_sun,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Self-destructing courtship:
-**What unwise thing do you think you could do to impress them?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Self-destructing courtship:
-**What unwise thing do you think you could do to impress them?**"
-blurb_smitten_troubadour,"__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Ugly on the inside:
-**Why do you think they will never be able to accept the real you?**","**[Versión en español pendiente]**
-
-__(always your choice),__ say why, give them a String on you, and answer the question in the Truths of Heart and Blade section of your playbook. 
-
-
-Ugly on the inside:
-**Why do you think they will never be able to accept the real you?**"
+blurb_violence,"__Roll with Blood__
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally",
+blurb_escape,"__Roll with Blood__
+**On a hit**, you get away and choose 1. 
+**On a 7-9**, the MC chooses 1 as well:
+
+**•** you suffer harm during your escape
+**•** you end up in another dangerous situation
+**•** you leave something important behind
+**•** you owe an NPC a Debt for their aid
+**•** you give into your base nature and mark corruption",
+blurb_persuade,"__Roll with Heart__
+**On a hit**, they see your point and do as you ask. 
+**On a 7-9**, they counter your offer or demand payment—a Debt, a favor, resources—before agreeing to follow through. 
+
+If you cash in a Debt with the NPC before you roll, add +3 to your total.",
+blurb_figure,"__Roll with Mind__
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+
+If you’re in their Circle, ask an additional question, even on a miss.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?",
+blurb_mislead,"__Roll with Mind. __
+**n a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement",
+blurb_cool,"Tell the MC the situation you want to avoid and __roll with Spirit__
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you.",
+blurb_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.",
+blurb_hand,"__Roll with their Circle__ 
+**On a hit**, give them a +1 or -2 to their roll.
+**On a 7-9**, you expose yourself to danger, entanglement, or cost.",
+blurb_eos_basic,"Decide if you’ve grown closer to a Circle you engaged with this session:
+Increase your score in that Circle and decrease your score in a different Circle. Tell the MC how your relationships to these communities have changed because of the events of the story, and mark one of the two Circles involved in those changes.
+
+In addition, think about any Debts you may owe—or Debts that are owed to you—as a result of the session. Tell the group and note them down for next session.",
+tittle_circle_move,Circle Moves,Movimientos de Circulos
+name_put_name,Put a Name to a Face,
+name_hit_streets,Hit the Streets,
+name_study_place,Strudy a Place of Power,
+trigger_put_name,**When you put a name to a face or vice versa** ,
+trigger_hit_streets,**When you hit the streets to get what you need**,
+trigger_study_place,"**When you study a sanctuary, gathering spot, or place of power**",
+blrub_put_name,"__Roll with their Circle__
+**On a hit**, you know their reputation; the MC will tell you what most people know about them. 
+**On a 10+**, you’ve dealt with them before; learn something interesting and useful about them or they owe you a Debt, your choice. 
+**On a miss**, you don’t know them or you owe them, MC’s choice.",
+blrub_hit_streets,"Name who you’re going to and __roll with their Circle.__ 
+**On a hit**, they’re available and have the stuff. 
+**On a 7-9**, choose 1:
+
+**•** whoever you’re going to is juggling their own problems
+**•** whatever you need is more costly than anticipated",
+blrub_study_place,"__Roll with the Circle that controls it. __
+**On a hit**, you see below the surface to the reality underneath; the MC will reveal an area, NPC, or item located within that is not what it seems.
+**On a 10+**, your insight reveals much about the Circle’s politics and schemes; ask the MC a question about the Circle and",
+title_debt_move,Debt Moves,Movimientos de Deudas
+name_do_favor,Do Someone a Favor,
+name_interfere,Interfere in Someones Business,
+name_refuse,Refuse to Honor a Debt,
+name_cash,Cash in a Debt,
+name_eos_debt,End of Session,
+trigger_do_favor,**When you do someone a favor**,
+trigger_interfere,**When you interfere in someone’s business** you owe them a Debt,
+trigger_refuse,**When you refuse to honor a Debt**,
+trigger_cash,**When you cash in a Debt** ,
+trigger_eos_debt,**At the end of every session**,
+blurb_do_favor,They owe you a Debt.,
+blurb_interfere,You owe them a Debt.,
+blurb_refuse,"__Roll with the difference in Status between you and your creditor__
+**On a hit**, you weasel out of the obligation for now, but you still owe the Debt. 
+**On a 7-9**, you owe them an additional Debt or mark corruption, your choice. 
+**On a miss**, you can’t avoid the noose: either honor the Debt in full or erase all the Debts owed to you by their Circle and take a -1 ongoing to Status with their Circle until after time passes.",
+blurb_cash,"Remind your debtor why they owe you in order to...
+
+...make a PC:
+**•** answer a question honestly
+**•** do you a favor at moderate cost
+**•** lend a hand to your e!orts
+**•** get in the way of someone else
+**•** erase a Debt they hold on someone
+**•** give you a Debt they hold on someone else
+
+...make an NPC:
+**•** answer a question honestly
+**•** arrange a meeting with an NPC in their Circle
+**•** grant you a worthy boon or useful gift
+**•** erase a Debt they hold on someone
+**•** give you a Debt they hold on someone else",
+blurb_eos_debt,"Decide if you’ve grown closer to a Circle you engaged with this session:
+Increase your score in that Circle and decrease your score in a different Circle. Tell the MC how your relationships to these communities have changed because of the events of the story, and mark one of the two Circles involved in those changes.
+
+In addition, think about any Debts you may owe—or Debts that are owed to you—as a result of the session. Tell the group and note them down for next session.",
+title_city_move_status_1,Status-1 Moves,Movimientos Estatus-1
+name_weaken,Weaken Someone's Standing,
+name_put_word,Put out the Word,
+name_consult_contact,Consult your Contacts,
+name_tend_business,Tend to your Business,
+trigger_weaken,**When you try to weaken someone’s standing in a Circle with rumor and gossip** ,
+trigger_put_word,"**When you put out the word you need something to your Circle—a magical tome, secret information, a skilled bodyguard, etc.—**",
+trigger_consult_contact,**When you consult your contacts in another Circle** ,
+trigger_tend_business,**When you tend to your business instead of meddling in city affairs** ,
+blurb_weaken,"__Roll with Status__
+**On a hit**, the rumors take hold; they take -1 ongoing to moves during the faction turn until they find some way to dispel the whispers. 
+**On a 10+**, one of their enemies catches wind of your gossip and approaches you with damaging information about your target’s interests. 
+**On a miss**, your target traces the stories directly back to you...and catches you in a vulnerable spot before you can react.",
+blurb_put_word,"__Roll with Status. __
+**On a 10+**, it shows up in the hands of an ally; it’s yours for a Debt. 
+**On a 7-9**, it ends up with a rival; they want a favor or gift—their choice—in addition to a Debt before they hand it over. 
+**On a miss**, the thing shows up on your doorstep with wicked strings attached, exposing you to the wrath of a Status-3 NPC from another Circle.",
+blurb_consult_contact,"__Roll with Status in that Circle. __
+**On a hit**, ask 3; your contacts will answer to the best of their ability. 
+**On a 7-9**, hold 1. 
+**On a 10+**, hold 2.
+
+Spend your hold—1 for 1—to take a 10+ instead of rolling when the information you gained would aid you on a move.
+**•** What conflict is everyone talking about?
+**•** What happened to ________?
+**•** What has ________ been up to recently?
+**•** Who is responsible for ________?
+**•** Who has a Debt on ________?
+
+**On a miss**, ask 1 and hold 1, but your contact has a tough question about your loyalties and allegiances as well. 
+Answer it honestly, mark corruption, or owe them a Debt, your choice.",
+blurb_tend_business,"Tell the MC how you pass the time and __roll__
+**On a hit**, an old friend or new ally approaches you with a request for help; mark a corruption if you turn them down. 
+**On a 10+**, ask the MC a question about the situation; they will answer it honestly. 
+**On a miss**, an NPC interrupts your day-to-day business to cash in a Debt you hoped they had forgotten about, mixing you up in a mess within your Circle you’d rather have avoided.",
+title_city_move_status_2,Status-2 Moves,Movimientos de Estatus-2
+name_marshall,Marshall Faction Forces,
+name_lay_claim,Lay Claim,
+name_recruit,Recruit New Allies,
+trigger_marshall,"**When you try to marshall forces in your Circle to undermine a faction or their holdings** 
+",
+trigger_lay_claim,"**When you lay claim to a vulnerable asset** 
+",
+trigger_recruit,**When you recruit allies from another Circle**,
+blurb_marshall,"__Roll with Status__
+**On a hit**, you can give a Debt to a powerful NPC of your Circle— MC’s choice—to reduce your target’s strength or weaken their hold on a specific asset, your choice. 
+**On a 7-9**, your allies are slow to move; give them another Debt to speed things along, or join them directly in the attack. 
+**On a miss**, the attack falls apart and creates an opportunity for your enemies; tell the MC how you’ve left yourself vulnerable to them.",
+blurb_lay_claim,"__Roll with Status.__
+**On a hit**, your claim is broadly recognized; take hold of the asset and the MC will tell you what benefits it brings. 
+**On a 7-9**, pick 1.
+**On a 10+**, all 3.
+**•** the asset is no longer vulnerable
+**•** the asset has no rival claimant
+**•** the asset doesn’t require you to cash in a Debt
+
+**On a miss**, your claim puts you in the crosshairs of a Status-3 NPC who desires the asset as well; your claim falls short, and the MC will tell you which of your allies or assets the Status-3 NPC is targeting in an attempt to scare you off.",
+blurb_recruit,"Tell the MC what assistance you require and __roll with Status__ 
+**On a hit**, the MC will tell you who is available for hire; o!er up a Debt, and they’ll be on call until after the next faction turn. 
+**On a 10+**, pick 3. 
+**On a 7-9**, pick 2:
+**•** they are unfailingly honest
+**•** they are exceptionally skilled
+**•** they are notably discrete
+**•** they are aggressively focused
+
+**On a miss**, before you can connect with anyone, someone in your own Circle catches word of your request and spreads rumors of your weakness; take -1 ongoing to your Status until you prove your strength to your own people.",
+title_city_move_status_3,Status-3 Moves,Movimientos de Estatus-3
+name_claim_status_3,Claiming Status-3,
+trigger_claim_status_3,**When you make a claim for Status-3 in the city** ,
+blurb_claim_status_3,"__Roll__
+**•** If you have significant influence over a Size 2+ faction, add 1.
+**•** If you have six Debts over Status-3 NPCs, add 1.
+**•** If you have Status-0 in more than one Circle, subtract 1.
+**•** If you personally control fewer than two assets, subtract 1.
+
+**On a hit**, raise your status to Status-3 and gain control of a relevant faction. 
+**On a 10+**, your rise to power begets new alliances and opportunities; make an additional city move for the next two faction turns. 
+**On a 7-9**, your rise leads to animosity and jealousy within your own ranks; another member of your faction leaves to join another faction, taking an asset of yours with them. 
+**On a miss**, your ascent is blocked by a Status-3 NPC who loathes you and your allies; you cannot make another claim until you win them over... or eliminate them directly.",
+title_faction_move,Faction Moves,Movimientos de Facción
+name_openly_attack,Openly Attack a Faction,
+name_consolidate,Consolidate Control,
+name_track,Track Someone Down,
+name_goad,Goad an Opponent,
+name_seize,Seize by Force,
+name_search,Search the City,
+name_offer,Offer Passage,
+trigger_openly_attack,"**When a faction openly attacks another faction**
+",
+trigger_consolidate,**When the leaders of a faction consolidate control over their existing forces and assets**,
+trigger_track,**When a faction tries to track a status-1 or status-2 character down within the city**,
+trigger_goad,**When a faction tries to goad an opponent into making a mistake**,
+trigger_seize,**When a faction seizes something vulnerable by force**,
+trigger_search,"**When a faction searches the city for useful information—rare occult knowledge, another faction’s weaknesses, the location of an artifact—**",
+trigger_offer,**When a faction o!ers passage to someone—into or out of the city—**,
+blurb_openly_attack,"__Roll with the difference between the two factions’ Sizes__ 
+**On a hit**, the targeted faction sacrifices an appropriate asset or loses a point of Size, their choice. 
+**On a 7-9**, the attacking faction must sacrifice an appropriate asset or lose a point of Size as well. 
+**On a miss**, the target instead springs a clever trap; they capture or destroy an asset or reduce the attacker’s Size, their choice.",
+blurb_consolidate,"__Roll with their Strength__
+**On a 10+**, they pick 2. 
+**On a 7-9**, they pick 1:
+**•** they secure new holdings; mark resources
+**•** they seek new members; mark recruitment
+**•** they demand secrecy; cover up another action
+
+**On a miss**, their efforts lead to internal strife; an authority is dethroned or humiliated, and a rebel coalition within the faction gains momentum—reduce the faction’s Strength.",
+blurb_track,"__Roll__
+**•** If the faction has a relevant asset, add 1.
+**•** If their quarry is of the same Circle, add 1.
+**•** If the faction is Size-1 or Strength-1, subtract 1.
+**•** If their quarry is actively hiding, subtract 1.
+
+If the quarry is an NPC: 
+**On a 7-9**, the faction finds their quarry; they attack them, kidnap them, or confront them at some cost.
+**On a 10+**, they catch the quarry exposed or vulnerable; the faction can act upon the quarry with impunity. 
+**On a miss**, the faction’s attempts to track them down succeed, but their agents make a mess of things and allow the quarry to escape unharmed.
+
+If the quarry is a PC: 
+**On a 7-9**, the faction tracks down their location, but the PC has time to prepare for the limited forces coming their way. 
+**On a 10+**, the tracking faction gets the best of their quarry; they corner the PC with overwhelming force or careful planning that leaves them little room to avoid their pursuers. 
+**On a miss**, someone close to the PC tips them o! early to the faction’s search...and an opportunity or weakness the PC can exploit",
+blurb_goad,"__Roll with the di!erence between the two factions’ Strengths__
+**On a 10+**, the target takes the bait; the instigating faction strikes a terrible blow, destroys a vulnerable asset, or undermines a key relationship or alliance. 
+**On a 7-9**, the target avoids the worst of the trap, but causes enough trouble to embarrass themselves; they take a -1 ongoing to Strength until they reestablish their reputation. 
+**On a miss**, the target sees through the scheme; someone from the targeted faction comes to one of the PCs for help turning the tables against the instigating faction.",
+blurb_seize,"__Roll with their Strength__ 
+**On a hit**, they take hold of it; reduce the targeted faction’s appropriate attribute and seize a vulnerable asset. 
+**On a 10+**, all three.
+**On a 7-9**, they choose one:
+**•** they don’t sacrifice an important leader, ally, or asset
+**•** they don’t su!er an immediate, retaliatory attack
+**•** they don’t cause serious collateral damage
+
+**On a miss**, the strike instead results in the utter destruction of the thing the attacking faction attempted to seize; someone comes to one of the PCs looking for help obtaining justice or revenge.",
+blurb_search,"__Roll with their Size__
+**On a hit**, they uncover some crucial details, enough to ask a PC or notable NPC to pursue it further. 
+**On a 10+**, they also pick 1.
+**On a 7-9**, they also pick 2. 
+**•** they attract the attention of a rival faction
+**•** they have to make an asset vulnerable
+**•** they take -1 ongoing until the end of the next faction turn
+
+**On a miss**, a member of the faction who has secured some vital information ends up dead or missing...but not before passing off what they know to one of the PCs.",
+blurb_offer,"__Roll with their Size__ 
+**On a hit**, the way is made clear, no matter who opposes it; choose 1:
+**•** someone exits; they are beyond reach until they choose to return
+**•** someone enters; the faction gains a powerful asset
+
+**On a 7-9**, the passage o!ends a Status-3 NPC who seeks tribute for the trespass; the faction must perform a favor—dedicating a faction move next faction turn—sacrifice an asset, or risk open war. 
+**On a miss**, the passage sparks a conflict between the faction and their own allies before it can be completed; someone comes to one of the PCs seeking help to negotiate a truce.",

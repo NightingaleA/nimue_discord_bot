@@ -5,7 +5,7 @@ from Data.move import Move
 class Moves_Manager:
   def __init__(self):
     self._movesDataframe = pd.read_csv(
-      "ThirstySword/Data/data_moves.csv")
+      "Nimue/Data/data_moves.csv")
     self._movesDataframe.set_index("uniqueID",
                                       drop=True,
                                       inplace=True)

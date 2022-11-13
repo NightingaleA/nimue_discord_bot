@@ -3,7 +3,7 @@ from Data.playbook import Playbook
 class Playbooks_Manager:
   def __init__(self):
     self._playbookDataframe = pd.read_csv(
-      "ThirstySword/Data/data_playbooks.csv")
+      "Nimue/Data/data_playbooks.csv")
     self._playbookDataframe.set_index("uniqueID",
                                       drop=True,
                                       inplace=True)
