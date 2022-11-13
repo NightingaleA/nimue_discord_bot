@@ -18,8 +18,8 @@ class Localizer:
     self._moves_dataframe = pd.read_csv(
       "Nimue/Localization/Base/localization_moves.csv")
 
-    for filename in os.listdir("ThirstySword/Localization/Playbooks"):
-      file = os.path.join("ThirstySword/Localization/Playbooks", filename)
+    for filename in os.listdir("Nimue/Localization/Playbooks"):
+      file = os.path.join("Nimue/Localization/Playbooks", filename)
       if os.path.isfile(file):
         playbook_dataframe = pd.read_csv(file)
         self._moves_dataframe = pd.concat(
@@ -75,11 +75,11 @@ class Discord_Translator(app_commands.Translator):
     self.data_manager = data_manager
 
   async def load(self):
-    print("Load")
+    print("Load_ Discord_Translator")
     # this gets called when the translator first gets loaded!
 
   async def unload(self):
-    print("Unload")
+    print("Unload_ Discord_Translator")
     # in case you need to switch translators, this gets called when being removed
 
   async def translate(self, string: app_commands.locale_str,
