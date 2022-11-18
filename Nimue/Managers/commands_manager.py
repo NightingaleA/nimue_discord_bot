@@ -86,10 +86,9 @@ class Commands_Manager:
         if (command.status == "added"):
           cmd = command.languages[localizer.lang.name]
         else:
-          cmd = (self.formatter.notation).format(
-            command.languages[localizer.lang.name])
+          cmd = self.formatter.notation +  command.languages[localizer.lang.name]
           notation_needed = True
-
+        
         if not title:
           title = localizer.get_utils_with_key('asking_for') + (
             self.formatter.bold).format(cmd)

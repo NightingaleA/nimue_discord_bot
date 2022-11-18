@@ -30,21 +30,37 @@ class input_handler:
         commands_to_include.append(
           self.data_manager.COMMAND_TYPE.command_help_list.name)
         commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_label_list.name)
+          self.data_manager.COMMAND_TYPE.command_info_list.name)
         commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_label.name)
-        commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_condition_list.name)
-        commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_condition.name)
+          self.data_manager.COMMAND_TYPE.command_info.name)
         commands_to_include.append(
           self.data_manager.COMMAND_TYPE.command_basic_move_list.name)
         commands_to_include.append(
           self.data_manager.COMMAND_TYPE.command_basic_move.name)
         commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_special_move_list.name)
+          self.data_manager.COMMAND_TYPE.command_circles_move_list.name)
         commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_special_move.name)
+          self.data_manager.COMMAND_TYPE.command_circles_move.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_debt_move_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_debt_move.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_1_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_1.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_2_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_2.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_3_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_3.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_faction_move_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_faction_move.name)
         commands_to_include.append(
           self.data_manager.COMMAND_TYPE.command_playbook_list.name)
         commands_to_include.append(
@@ -55,24 +71,12 @@ class input_handler:
         return response
 
       if (self.data_manager.current_command.type ==
-          self.data_manager.COMMAND_TYPE.command_label_list.name):
+          self.data_manager.COMMAND_TYPE.command_info_list.name):
         commands_to_include = []
         commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_label_list.name)
+          self.data_manager.COMMAND_TYPE.command_info_list.name)
         commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_label.name)
-
-        response = self.data_manager.commands_manager.get_command_list(
-          self.data_manager, commands_to_include)
-        return response
-
-      if (self.data_manager.current_command.type ==
-          self.data_manager.COMMAND_TYPE.command_condition_list.name):
-        commands_to_include = []
-        commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_condition_list.name)
-        commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_condition.name)
+          self.data_manager.COMMAND_TYPE.command_info.name)
 
         response = self.data_manager.commands_manager.get_command_list(
           self.data_manager, commands_to_include)
@@ -88,14 +92,76 @@ class input_handler:
         response = self.data_manager.commands_manager.get_command_list(
           self.data_manager, commands_to_include)
         return response
-
+            
       if (self.data_manager.current_command.type ==
-          self.data_manager.COMMAND_TYPE.command_special_move_list.name):
+          self.data_manager.COMMAND_TYPE.command_circles_move_list.name):
         commands_to_include = []
         commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_special_move_list.name)
+          self.data_manager.COMMAND_TYPE.command_circles_move_list.name)
         commands_to_include.append(
-          self.data_manager.COMMAND_TYPE.command_special_move.name)
+          self.data_manager.COMMAND_TYPE.command_circles_move.name)
+
+        response = self.data_manager.commands_manager.get_command_list(
+          self.data_manager, commands_to_include)
+        return response
+
+      
+
+      if (self.data_manager.current_command.type ==
+          self.data_manager.COMMAND_TYPE.command_debt_move_list.name):
+        commands_to_include = []
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_debt_move_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_debt_move.name)
+
+        response = self.data_manager.commands_manager.get_command_list(
+          self.data_manager, commands_to_include)
+        return response
+
+      if (self.data_manager.current_command.type ==
+          self.data_manager.COMMAND_TYPE.command_city_move_status_1_list.name):
+        commands_to_include = []
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_1_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_1.name)
+
+        response = self.data_manager.commands_manager.get_command_list(
+          self.data_manager, commands_to_include)
+        return response
+
+      if (self.data_manager.current_command.type ==
+          self.data_manager.COMMAND_TYPE.command_city_move_status_2_list.name):
+        commands_to_include = []
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_2_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_2.name)
+
+        response = self.data_manager.commands_manager.get_command_list(
+          self.data_manager, commands_to_include)
+        return response
+
+      if (self.data_manager.current_command.type ==
+          self.data_manager.COMMAND_TYPE.command_city_move_status_3_list.name):
+        commands_to_include = []
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_3_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_city_move_status_3.name)
+
+        response = self.data_manager.commands_manager.get_command_list(
+          self.data_manager, commands_to_include)
+        return response
+
+      if (self.data_manager.current_command.type ==
+          self.data_manager.COMMAND_TYPE.command_faction_move_list.name):
+        commands_to_include = []
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_faction_move_list.name)
+        commands_to_include.append(
+          self.data_manager.COMMAND_TYPE.command_faction_move.name)
 
         response = self.data_manager.commands_manager.get_command_list(
           self.data_manager, commands_to_include)
@@ -118,14 +184,9 @@ class input_handler:
           response = self.data_manager.playbooks_manager.do_playbook(self.data_manager)
           return response
 
-      if(self.data_manager.current_command.type ==
-          self.data_manager.COMMAND_TYPE.command_label.name):
-        response = self.data_manager.parse_label()
-        return response  
-      if(self.data_manager.current_command.type ==
-          self.data_manager.COMMAND_TYPE.command_condition.name):
-        response = self.data_manager.parse_condition()
-        return response  
+      if(self.data_manager.current_command.type == self.data_manager.COMMAND_TYPE.command_info.name):
+        response = self.data_manager.parse_info()
+        return response
       else: 
         response = self.data_manager.moves_manager.do_move(self.data_manager)
         return response

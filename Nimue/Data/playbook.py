@@ -12,8 +12,16 @@ class Playbook:
 
   def parse_playbook(self, data_manager):
     notation_needed = False
+    response = ''
     title = data_manager. localizer.get_utils_with_key('asking_for') + data_manager.localizer.get_playbook_with_key(self.name)
-    response = data_manager.localizer.get_playbook_with_key(self.blurb) + self.formatter.newline
+    if (data_manager.localizer.get_playbook_with_key(self.name) == '-'):
+      title = data_manager.localizer.get_utils_with_key("empty_title")
+
+    if (data_manager.localizer.get_playbook_with_key(self.blurb) == '-'):
+      response = data_manager.localizer.get_utils_with_key("empty_blurb") 
+    else:      
+      response = data_manager.localizer.get_playbook_with_key(self.blurb) + self.formatter.newline
+      
     response = response + self.formatter.newline + self.formatter.newline + self.formatter.newline 
     response = response + self.formatter.bold.format( data_manager. localizer.get_utils_with_key('moves'))
     response = response + self.formatter.newline 
