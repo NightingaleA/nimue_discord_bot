@@ -21,10 +21,10 @@ slash = Slash_Command_Manager(tree, input)
 @client.event
 async def on_ready():
   await tree.set_translator(Discord_Translator(input.data_manager))
-  tree.copy_global_to(guild=guild)
-  tree.clear_commands(guild=guild)
-  await tree.sync(guild=guild)
-  #await  tree.sync()
+  #tree.copy_global_to(guild=guild)
+  #tree.clear_commands(guild=guild)
+  #await tree.sync(guild=guild)
+  await  tree.sync()
   await client.change_presence(activity=discord.Activity(
     type=discord.ActivityType.listening, name='$help $ayuda'))
 
