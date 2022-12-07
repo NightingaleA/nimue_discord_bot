@@ -1,39 +1,75 @@
 localization_id,english,español
-name_fae_magic,,
+name_fae_magic,Faerie Magic,
 name_fae_dish_best,,
-name_fae_our_blood,,
-name_fae_scales,,
+name_fae_our_blood,In Our Blood,
+name_fae_scales,Scales of Justice,
 name_fae_draw_curtain,,
 name_fae_words,,
-name_fae_let_out,,
-name_fae_end,,
-name_fae_intimacy,,
+name_fae_let_out,Let it Out,
+name_fae_end,End Move,
+name_fae_nature,,
+name_fae_wither,,
+name_fae_glamourous,,
+name_fae_shape,,
+name_fae_bedlam,,
+name_fae_intimacy,Intimacy,
 name_fae_air_dark,,
 name_fae_negotiator,,
 name_fae_grace,,
 name_fae_got_one,,
-trigger_fae_magic,,
+trigger_fae_magic,**Whenever you use a faerie power**,
 trigger_fae_dish_best,,
-trigger_fae_our_blood,,
-trigger_fae_scales,,
+trigger_fae_our_blood,"**When you mislead, distract, or trick someone through lies of omission or clever misdirection**",
+trigger_fae_scales,**Cash in a Debt with someone**,
 trigger_fae_draw_curtain,,
 trigger_fae_words,,
-trigger_fae_let_out,,
+trigger_fae_let_out,**When you let out the power within you**,
 trigger_fae_end,,
-trigger_fae_intimacy,,
+trigger_fae_nature,,
+trigger_fae_wither,,
+trigger_fae_glamourous,,
+trigger_fae_shape,,
+trigger_fae_bedlam,,
+trigger_fae_intimacy,**When you share a moment of intimacy—physical or emotional—with another person**,
 trigger_fae_air_dark,,
 trigger_fae_negotiator,,
 trigger_fae_grace,,
 trigger_fae_got_one,,
-blurb_fae_magic,,
+blurb_fae_magic,"Choose 1:
+**•** suffer 1-harm (ap)
+**•** mark corruption
+**•** give your monarch a Debt",
 blurb_fae_dish_best,,
-blurb_fae_our_blood,,
-blurb_fae_scales,,
+blurb_fae_our_blood,"__Roll with HEART__ instead of MIND.
+**On a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement",
+blurb_fae_scales,To use a power from Faerie Magic (including powers not normally available to you) targeting them at no additional cost.,
 blurb_fae_draw_curtain,,
 blurb_fae_words,,
-blurb_fae_let_out,,
-blurb_fae_end,,
-blurb_fae_intimacy,,
+blurb_fae_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Summon an elemental storm of your court (2-harm close area ap)
+**•** Appear to others as someone you have previously touched
+**•** Compel the elements of your court to reveal what they have seen
+**•** Create a telepathic link between yourself and another for a scene
+
+",
+blurb_fae_end,"When you die or retire your character, bestow the favor of your court upon someone. They can take Faerie Magic and two of your faerie powers or advance persuade an NPC. 
+",
+blurb_fae_nature,,
+blurb_fae_wither,,
+blurb_fae_glamourous,,
+blurb_fae_shape,,
+blurb_fae_bedlam,,
+blurb_fae_intimacy,"Demand a promise from them. 
+If they refuse you or break the promise, they owe you a Debt.",
 blurb_fae_air_dark,,
 blurb_fae_negotiator,,
 blurb_fae_grace,,

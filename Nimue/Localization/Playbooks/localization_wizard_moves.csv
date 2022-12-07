@@ -1,27 +1,67 @@
 localization_id,english,español
-name_wizard_channeling,,
-name_wizard_sanctum,,
-name_wizard_let_out,,
-name_wizard_end,,
-name_wizard_intimacy,,
+name_wizard_channeling,Channeling,
+name_wizard_sanctum,Sanctum Sanctorum,
+name_wizard_let_out,Let it Out,
+name_wizard_end,End,
+name_wizard_tracking,,
+name_wizard_elementalism,,
+name_wizard_linking,,
+name_wizard_shielding,,
+name_wizard_veil,,
+name_wizard_teleport,,
+name_wizard_trinket,,
+name_wizard_intimacy,Intimacy,
 name_wizard_dark_arts,,
 name_wizard_pale_horse,,
 name_wizard_black_magic,,
 name_wizard_warding,,
-trigger_wizard_channeling,,
-trigger_wizard_sanctum,,
-trigger_wizard_let_out,,
-trigger_wizard_end,,
-trigger_wizard_intimacy,,
+trigger_wizard_channeling,"**When you channel and collect your magics,**",
+trigger_wizard_sanctum,"**When you go to your sanctum for a spell ingredient, relic, or tome**",
+trigger_wizard_let_out,**When you let out the power within you**,
+trigger_wizard_end,"**When you die,**",
+trigger_wizard_tracking,,
+trigger_wizard_elementalism,,
+trigger_wizard_linking,,
+trigger_wizard_shielding,,
+trigger_wizard_veil,,
+trigger_wizard_teleport,,
+trigger_wizard_trinket,,
+trigger_wizard_intimacy,"**When you share a moment of intimacy—physical or emotional— with another person,**",
 trigger_wizard_dark_arts,,
 trigger_wizard_pale_horse,,
 trigger_wizard_black_magic,,
 trigger_wizard_warding,,
-blurb_wizard_channeling,,
-blurb_wizard_sanctum,,
-blurb_wizard_let_out,,
-blurb_wizard_end,,
-blurb_wizard_intimacy,,
+blurb_wizard_channeling,"__Roll with Spirit.__ 
+**On a 10+,** hold 3. 
+**On a 7-9,** hold 3 and choose 1 from the list below. 
+**On a miss,** hold 1, but you cannot channel again this scene.
+**•** Take -1 ongoing until you rest
+**•** Suffer 1-harm (ap)
+**•** Mark corruption
+
+Your hold lasts until you spend it or the scene ends. 
+You can spend it to cast any spell you have as per the spell’s details.",
+blurb_wizard_sanctum,"__Roll with Spirit.__ 
+**On a 10+,** you’ve got pretty much just the thing. 
+**On a 7-9,**  you’ve got something close, but it’s flawed or lacking in some significant way. 
+**On a miss,** you don’t have what you’re looking for, but you know someone from another Circle who probably has it in stock. 
+",
+blurb_wizard_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Deflect or redirect an oncoming blow before it strikes
+**•** Perform a feat of telekinetic strength or precision
+**•** Detect the presence and function of magical items or spells
+**•** Reshape the essence or nature of an exposed object or magical spell",
+blurb_wizard_end,You may place a devastating curse on someone nearby. Specify the effects of the curse and how they may end it.,
+brlurb_wizard_tracking,,
+brlurb_wizard_elementalism,,
+brlurb_wizard_linking,,
+brlurb_wizard_shielding,,
+brlurb_wizard_veil,,
+brlurb_wizard_teleport,,
+brlurb_wizard_trinket,,
+blurb_wizard_intimacy,"Decide if you  care about them. If you do, you form a sympathetic connection; you can target each other with magics at any range and intuitively know if the other is in danger. If you don’t, mark corruption.",
 blurb_wizard_dark_arts,,
 blurb_wizard_pale_horse,,
 blurb_wizard_black_magic,,

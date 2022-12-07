@@ -4,7 +4,7 @@ name_sworn_hard_shake,,
 name_sworn_devious,,
 name_sworn_genuine,,
 name_sworn_chess,,
-name_sworn_let_out,,
+name_sworn_let_out,Let it Out,
 name_sworn_end,,
 name_sworn_legendary_cool,,
 name_sworn_intimacy,,
@@ -17,7 +17,7 @@ trigger_sworn_hard_shake,,
 trigger_sworn_devious,,
 trigger_sworn_genuine,,
 trigger_sworn_chess,,
-trigger_sworn_let_out,,
+trigger_sworn_let_out,**When you let out the power within you**,
 trigger_sworn_end,,
 trigger_sworn_legendary_cool,,
 trigger_sworn_intimacy,,
@@ -30,7 +30,13 @@ blurb_sworn_hard_shake,,
 blurb_sworn_devious,,
 blurb_sworn_genuine,,
 blurb_sworn_chess,,
-blurb_sworn_let_out,,
+blurb_sworn_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Shatter a magical spell, illusion, or enchantment with a touch
+**•** Cloak yourself in magical armor; expend it to ignore all harm one time
+**•** Strike down all lesser foes in your vicinity with a blast of elemental force
+**•** Force someone to answer your questions truthfully for a scene",
 blurb_sworn_end,,
 blurb_sworn_legendary_cool,,
 blurb_sworn_intimacy,,

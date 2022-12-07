@@ -48,8 +48,7 @@ If you cash in a Debt with the NPC before you roll, add +3 to your total.",
 blurb_figure,"__Roll with Mind__
 **On a hit**, ask 2. 
 **On a 7-9**, they ask 1 of you as well. 
-
-If you’re in their Circle, ask an additional question, even on a miss.
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
 **•** who’s pulling your character’s strings?
 **•** what’s your character’s beef with _____?
 **•** what’s your character hoping to get from _____?
@@ -57,7 +56,7 @@ If you’re in their Circle, ask an additional question, even on a miss.
 **•** how could I get your character to _____?
 **•** how could I put your character in my Debt?",
 blurb_mislead,"__Roll with Mind. __
-**n a hit**, they are fooled, at least for a moment. 
+**On a hit**, they are fooled, at least for a moment. 
 **On a 7-9**, pick 2:
 **On a 10+**, pick 3:
  
