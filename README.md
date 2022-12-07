@@ -18,7 +18,7 @@ Supported commands:
 - 
 
 
-[Help Form]()
+[Help Form](https://forms.gle/19WQsrknHvL9JeNJ8)
 
 [Invite Link](https://discord.com/api/oauth2/authorize?client_id=1040413422464012439&permissions=139586791488&scope=bot)
 
