@@ -1,4 +1,4 @@
-# NIMUE_DISCORD_BOT BETA 0.1
+# NIMUE_DISCORD_BOT BETA 0.2
 
 An unnoficial bot for playing Urban Shadows 2E
 
@@ -12,10 +12,10 @@ Most of the playbook moves aren't present yet. Will be a slow work to add all of
 
 Supported languages:
 - English
-- Spanish
+- Spanish [Pending to translate]
 
 Supported commands:
-- 
+- Normal and Slash commands in both languages
 
 
 [Help Form](https://forms.gle/19WQsrknHvL9JeNJ8)
