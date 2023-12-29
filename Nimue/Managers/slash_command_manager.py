@@ -15,7 +15,7 @@ class Slash_Command_Manager:
           if(interaction.locale ==discord.Locale.spain_spanish):
             name = input.data_manager.__get_command_in_message__(name).languages['español']
 
-          response = input.get_response(name, interaction.user.display_name ,interaction.user.display_avatar )
+          response = input.get_response(name, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
           await interaction.response.send_message(embed=response)
     #Info
       if(command.type == input.data_manager.COMMAND_TYPE.command_info_list.name):
@@ -32,7 +32,7 @@ class Slash_Command_Manager:
             input.data_manager.localizer.lang = input.data_manager.localizer.LANGUAGES.español
             name =input.data_manager.__get_command_in_message__(name).languages['español']
             
-          response = input.get_response(name, interaction.user.display_name ,interaction.user.display_avatar )
+          response = input.get_response(name, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
           await interaction.response.send_message(embed=response)    
           
     #Basic Moves
@@ -66,7 +66,7 @@ class Slash_Command_Manager:
               command =input.data_manager.__get_command_in_message__(command).languages['español']
 
             command = command + mod
-            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar )
+            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
             await interaction.response.send_message(embed=response)
 #Circle Moves
       if(command.type == input.data_manager.COMMAND_TYPE.command_circles_move_list.name):
@@ -99,7 +99,7 @@ class Slash_Command_Manager:
               command =input.data_manager.__get_command_in_message__(command).languages['español']
 
             command = command + mod
-            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar )
+            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
             await interaction.response.send_message(embed=response)
  #Debt Moves
       if(command.type == input.data_manager.COMMAND_TYPE.command_debt_move_list.name):
@@ -132,7 +132,7 @@ class Slash_Command_Manager:
               command =input.data_manager.__get_command_in_message__(command).languages['español']
 
             command = command + mod
-            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar )
+            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
             await interaction.response.send_message(embed=response)
 #City Status One Moves
       if(command.type == input.data_manager.COMMAND_TYPE.command_city_move_status_1_list.name):
@@ -165,7 +165,7 @@ class Slash_Command_Manager:
               command =input.data_manager.__get_command_in_message__(command).languages['español']
 
             command = command + mod
-            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar )
+            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
             await interaction.response.send_message(embed=response)
           #City Status Two Moves
       if(command.type == input.data_manager.COMMAND_TYPE.command_city_move_status_2_list.name):
@@ -198,7 +198,7 @@ class Slash_Command_Manager:
               command =input.data_manager.__get_command_in_message__(command).languages['español']
 
             command = command + mod
-            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar )
+            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
             await interaction.response.send_message(embed=response)
           #City Status Three Moves
       if(command.type == input.data_manager.COMMAND_TYPE.command_city_move_status_3_list.name):
@@ -231,7 +231,7 @@ class Slash_Command_Manager:
               command =input.data_manager.__get_command_in_message__(command).languages['español']
 
             command = command + mod
-            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar )
+            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
             await interaction.response.send_message(embed=response)
           #Faction Moves
       if(command.type == input.data_manager.COMMAND_TYPE.command_faction_move_list.name):
@@ -264,7 +264,7 @@ class Slash_Command_Manager:
               command =input.data_manager.__get_command_in_message__(command).languages['español']
 
             command = command + mod
-            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar )
+            response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
             await interaction.response.send_message(embed=response)
           #Playbooks
       if(command.type == input.data_manager.COMMAND_TYPE.command_playbook_list.name):
@@ -281,7 +281,7 @@ class Slash_Command_Manager:
             input.data_manager.localizer.lang = input.data_manager.localizer.LANGUAGES.español
             name =input.data_manager.__get_command_in_message__(name).languages['español']
             
-          response = input.get_response(name, interaction.user.display_name ,interaction.user.display_avatar )
+          response = input.get_response(name, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
           await interaction.response.send_message(embed=response)    
 #Playbooks Moves
       if(command.type == input.data_manager.COMMAND_TYPE.command_playbook.name):
@@ -315,5 +315,5 @@ class Slash_Command_Manager:
               command =input.data_manager.__get_command_in_message__(command).languages['español']
 
           command = command + mod
-          response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar )
+          response = input.get_response(command, interaction.user.display_name ,interaction.user.display_avatar, interaction.gulid.name )
           await interaction.response.send_message(embed=response)

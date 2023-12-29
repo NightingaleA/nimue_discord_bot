@@ -38,7 +38,7 @@ async def on_message(message):
 
   if message.content.startswith('$'):
     response = input.get_response(message.content, message.author.display_name,
-                                  message.author.display_avatar)
+                                  message.author.display_avatar, message.guild.name)
     await message.channel.send(embed=response)
 
 
