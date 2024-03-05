@@ -14,7 +14,7 @@ client = discord.Client(command_prefix='$', intents=intents)
 tree = app_commands.CommandTree(client)
 guild = discord.Object(id=725129870174322688)
 
-input = input_handler()
+input = input_handler(client)
 slash = Slash_Command_Manager(tree, input)
 
 
