@@ -28,7 +28,7 @@ async def on_ready():
   await client.change_presence(activity=discord.Activity(
     type=discord.ActivityType.listening, name='$help $ayuda'))
 
-  game = discord.Game(f"Playing Masks in {len(client.guilds)} servers!")
+  game = discord.Game(f"Playing Urban Shadows 2E in {len(client.guilds)} servers!")
   await client.change_presence(status=discord.Status.online, activity=game)
 
   print(f'We have logged in as {client.user} with presence in {len(client.guilds)} servers')

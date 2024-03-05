@@ -14,7 +14,7 @@ class input_handler:
     now = datetime.datetime.now()
     print(now.strftime("%Y-%m-%d %H:%M:%S"))
     print(f'With presence in {len(self.client.guilds)} servers')
-    game = discord.Game(f"Playing Masks in {len(self.client.guilds)} servers!")
+    game = discord.Game(f"Playing Urban Shadow 2E in {len(self.client.guilds)} servers!")
     await self.client.change_presence(status=discord.Status.online, activity=game)
 
     response = self.get_message_from_command(message_content, display_name, display_avatar)
