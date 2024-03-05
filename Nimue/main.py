@@ -28,7 +28,10 @@ async def on_ready():
   await client.change_presence(activity=discord.Activity(
     type=discord.ActivityType.listening, name='$help $ayuda'))
 
-  print(f'We have logged in as {client.user}')
+  game = discord.Game(f"Playing Masks in {len(client.guilds)} servers!")
+  await client.change_presence(status=discord.Status.online, activity=game)
+
+  print(f'We have logged in as {client.user} with presence in {len(client.guilds)} servers')
 
 
 @client.event
@@ -37,9 +40,18 @@ async def on_message(message):
     return
 
   if message.content.startswith('$'):
-    response = input.get_response(message.content, message.author.display_name,
+    response = await input.get_response(message.content, message.author.display_name,
                                   message.author.display_avatar, message.guild.name)
     await message.channel.send(embed=response)
 
+@client.event
+async def on_guild_join(guild):
+  game = discord.Game(f"Playing Masks in {len(client.guilds)} servers!")
+  await client.change_presence(status=discord.Status.online, activity=game)
 
+@client.event
+async def on_guild_remove(guild):
+  game = discord.Game(f"Playing Masks in {len(client.guilds)} servers!")
+  await client.change_presence(status=discord.Status.online, activity=game)
+  
 client.run(TOKEN)
