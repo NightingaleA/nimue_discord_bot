@@ -32,7 +32,8 @@ async def on_ready():
   await client.change_presence(status=discord.Status.online, activity=game)
 
   print(f'We have logged in as {client.user} with presence in {len(client.guilds)} servers')
-
+  for server in client.guilds:
+    print(server.name)
 
 @client.event
 async def on_message(message):
