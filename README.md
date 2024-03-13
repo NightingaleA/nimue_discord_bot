@@ -22,5 +22,9 @@ Supported commands:
 
 [Invite Link](https://discord.com/api/oauth2/authorize?client_id=1040413422464012439&permissions=139586791488&scope=bot)
 
-##Developed on Replit
-[Replit](https://replit.com)
+Want to give me a tip or help with the server fee?
+
+[Ko-fi](https://ko-fi.com/nightingale_gamedev)
+
+## Developed on VSCODE with Python's extension
+
