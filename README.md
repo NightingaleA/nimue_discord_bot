@@ -1,6 +1,9 @@
 # NIMUE_DISCORD_BOT BETA 0.2
 
 An unnoficial bot for playing Urban Shadows 2E
+Using Quick Start Rules, when full book becomes available in PDF Ill slowly update
+
+## STATUS: ONLINE
 
 Listens too:
 - $help 
