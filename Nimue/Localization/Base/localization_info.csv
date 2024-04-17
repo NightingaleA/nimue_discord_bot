@@ -1,0 +1,115 @@
+localization_id,english,español
+name_circles,The Circles,The Circles
+name_stats,Character Stats,Character Stats
+name_circles_ratings_vs_status,Ratings  vs Status,Ratings  vs Status
+name_marking_circles,Marking Circles,Marking Circles
+name_harm,Trcking Harm,Trcking Harm
+name_armor,Armor,Armor
+name_scars,Scars,Scars
+blurb_circles,"**• Mortalis:** Humans who cross the boundary between the mortal and the supernatural to protect humanity, investigate secrets in the shadows, or steal power from the monsters.
+**• Night:** People who have been irrevocably changed into creatures of the night and monsters of the shadows.
+Vampires, werewolves, and ghosts all belong to Night.
+**• Power:** Entities who have obtained supernatural power or gifts through training, blessing, or curse.
+Wizards, oracles, and immortals all belong to Power.
+**• Wild:** Strange beings who hail from outside our world. 
+Faeries and demons belong to Wild, and many creatures bizarre and strange #nd a home in Wild as well.","**• Mortalis:** Humans who cross the boundary between the mortal and the supernatural to protect humanity, investigate secrets in the shadows, or steal power from the monsters.
+**• Night:** People who have been irrevocably changed into creatures of the night and monsters of the shadows.
+Vampires, werewolves, and ghosts all belong to Night.
+**• Power:** Entities who have obtained supernatural power or gifts through training, blessing, or curse.
+Wizards, oracles, and immortals all belong to Power.
+**• Wild:** Strange beings who hail from outside our world. 
+Faeries and demons belong to Wild, and many creatures bizarre and strange #nd a home in Wild as well."
+blurb_stats,"• Blood is the measure of your fight or flight instinct. 
+It tells us how tough, dangerous, coiled, and quick to act your character is in a dangerous situation.
+• Heart is the sum of your passion, charm, and charisma.
+It tells us how pro#cient your character is at getting what they want through negotiation and discussion.
+• Mind is a re%ection of your critical thinking and observational skills. 
+It tells us how perceptive your character is and how good they are at deceiving others.
+• Spirit gauges your connection to the “other” and your force of will. 
+It tells us how focused your character is under pressure, and what kind of connection they have to the supernatural.","• Blood is the measure of your fight or flight instinct. 
+It tells us how tough, dangerous, coiled, and quick to act your character is in a dangerous situation.
+• Heart is the sum of your passion, charm, and charisma.
+It tells us how pro#cient your character is at getting what they want through negotiation and discussion.
+• Mind is a re%ection of your critical thinking and observational skills. 
+It tells us how perceptive your character is and how good they are at deceiving others.
+• Spirit gauges your connection to the “other” and your force of will. 
+It tells us how focused your character is under pressure, and what kind of connection they have to the supernatural."
+blurb_circles_raings_vs_status,"**Ratings**
+Each character also has __Circle ratings__ which represent how well your character understands that specific Circle. 
+A character with a high rating has contacts and connections, and can easily interpret rumors and gossip; a character with a low rating in a particular Circle doesn’t understand how that Circle works or who the players are within that community.
+
+**Status**
+__Circle Status__ represents how members of that Circle view your character. 
+Only relatively major players in the supernatural world warrant Circle Status: ordinary mortals don’t have any Status at all, and most of the minions and goons that serve the powers-that-be in the city don’t have any Status either.","**Ratings**
+Each character also has __Circle ratings__ which represent how well your character understands that specific Circle. 
+A character with a high rating has contacts and connections, and can easily interpret rumors and gossip; a character with a low rating in a particular Circle doesn’t understand how that Circle works or who the players are within that community.
+
+**Status**
+__Circle Status__ represents how members of that Circle view your character. 
+Only relatively major players in the supernatural world warrant Circle Status: ordinary mortals don’t have any Status at all, and most of the minions and goons that serve the powers-that-be in the city don’t have any Status either."
+blurb_marking_circles,"Here are all the ways that you can mark a Circle:
+**•** Make any Circle move (page 12)
+**•** Make any city move, except tending to your business (page 14)
+**•** Trigger intimacy with a PC or NPC (page 17)
+**•** Cash in or honor a Debt (page 13)
+**•** Lend a hand or get in the way (page 11)
+**•** Adjust a Circle rating at the end of session (page 13)
+**•** Make a move that tells you to mark a Circle","Here are all the ways that you can mark a Circle:
+**•** Make any Circle move (page 12)
+**•** Make any city move, except tending to your business (page 14)
+**•** Trigger intimacy with a PC or NPC (page 17)
+**•** Cash in or honor a Debt (page 13)
+**•** Lend a hand or get in the way (page 11)
+**•** Adjust a Circle rating at the end of session (page 13)
+**•** Make a move that tells you to mark a Circle"
+blurb_harm,"**Harm Ratings**
+1-harm is rough but blunt trauma: fists and baseball bats, punches thrown at a rock concert, the kind of thing people sleep o! after a bad night.
+2-harm is painful and obvious: a gunshot wound, a bad car wreck, wounds that are impossible to hide without bandages and slings.
+3-harm is worse than all that: a bullet at point-blank range, a sword cleaving tendon and bone, a beating that leaves you unrecognizable for a week.
+4-harm means instant death to a mortal human: a grenade blast at close range, losing a limb or internal organ, falling off the top of a ten-story building.
+
+**Healing Harm**
+The different levels of harm reflect how badly your character is hurt, moving from minor injuries to wounds that require immediate medical attention:
+• Faint harm is minor—getting stabbed in a non-vital area or getting into a fist fight that doesn’t last too long. Most characters can shrug off faint wounds by taking a day or two o$ and getting some rest.
+• Serious harm is dangerous stu$—getting shot in the shoulder or hit by a car. If you suffer serious harm, you need medical attention to keep things from getting worse, but you’ll be back on your feet in a few days.
+• Critical harm means you’re on the verge of dying, like getting shot in the stomach or beat in the head with a metal bat. If you don’t get to a hospital—or find some magic to patch you up—you’re going to die.","**Harm Ratings**
+1-harm is rough but blunt trauma: fists and baseball bats, punches thrown at a rock concert, the kind of thing people sleep o! after a bad night.
+2-harm is painful and obvious: a gunshot wound, a bad car wreck, wounds that are impossible to hide without bandages and slings.
+3-harm is worse than all that: a bullet at point-blank range, a sword cleaving tendon and bone, a beating that leaves you unrecognizable for a week.
+4-harm means instant death to a mortal human: a grenade blast at close range, losing a limb or internal organ, falling off the top of a ten-story building.
+
+**Healing Harm**
+The different levels of harm reflect how badly your character is hurt, moving from minor injuries to wounds that require immediate medical attention:
+• Faint harm is minor—getting stabbed in a non-vital area or getting into a fist fight that doesn’t last too long. Most characters can shrug off faint wounds by taking a day or two o$ and getting some rest.
+• Serious harm is dangerous stu$—getting shot in the shoulder or hit by a car. If you suffer serious harm, you need medical attention to keep things from getting worse, but you’ll be back on your feet in a few days.
+• Critical harm means you’re on the verge of dying, like getting shot in the stomach or beat in the head with a metal bat. If you don’t get to a hospital—or find some magic to patch you up—you’re going to die."
+blurb_armor,"Characters wearing armor (a Kevlar vest, stab-vest, chainmail shirt, etc.) receive a layer of protection from most physical attacks. 
+If they suffer harm from which their armor would protect them, they reduce the harm suffered by the rating of the armor.
+
+Most armor is rated at 1-armor or 2-armor. 
+1-armor is typically lighter and less conspicuous—bulletproof vests, heavy leather jackets, etc.—whereas 
+2-armor is obvious to anyone who sees it—riot gear, plate mail, etc.—and bound to attract a great deal of attention; anyone who sees someone walking around the city with riot gear armor is probably going to call the fucking cops.","Characters wearing armor (a Kevlar vest, stab-vest, chainmail shirt, etc.) receive a layer of protection from most physical attacks. 
+If they suffer harm from which their armor would protect them, they reduce the harm suffered by the rating of the armor.
+
+Most armor is rated at 1-armor or 2-armor. 
+1-armor is typically lighter and less conspicuous—bulletproof vests, heavy leather jackets, etc.—whereas 
+2-armor is obvious to anyone who sees it—riot gear, plate mail, etc.—and bound to attract a great deal of attention; anyone who sees someone walking around the city with riot gear armor is probably going to call the fucking cops."
+blurb_scars,"Your character has four scars available:
+• Shattered: (-1 Blood)
+• Crushed: (-1 Heart)
+• Fractured: (-1 Mind)
+• Broken: (-1 Spirit)
+
+**Shattered** means frightened, weakened, and overly cautious. Shattered characters hesitate when they should move, and their attempts to turn to violence or escape a situation often come up short.
+**Crushed** means traumatized, timid, and uncertain. Crushed characters bear the full weight of the wounds they’ve suffered, and their attempts to persuade an NPC are inhibited by their reticent approach to conflict.
+**Fractured** means confused, disoriented, and disjointed. Fractured characters are unstable and unsure, and their attempts to figure someone out or mislead, distract, or trick others are unfocused and imprecise.
+**Broken** means hopeless, forlorn, and cowardly. Broken characters have lost their will to fight, and their attempts to keep their cool or let it out are often half-hearted.","Your character has four scars available:
+• Shattered: (-1 Blood)
+• Crushed: (-1 Heart)
+• Fractured: (-1 Mind)
+• Broken: (-1 Spirit)
+
+**Shattered** means frightened, weakened, and overly cautious. Shattered characters hesitate when they should move, and their attempts to turn to violence or escape a situation often come up short.
+**Crushed** means traumatized, timid, and uncertain. Crushed characters bear the full weight of the wounds they’ve suffered, and their attempts to persuade an NPC are inhibited by their reticent approach to conflict.
+**Fractured** means confused, disoriented, and disjointed. Fractured characters are unstable and unsure, and their attempts to figure someone out or mislead, distract, or trick others are unfocused and imprecise.
+**Broken** means hopeless, forlorn, and cowardly. Broken characters have lost their will to fight, and their attempts to keep their cool or let it out are often half-hearted."

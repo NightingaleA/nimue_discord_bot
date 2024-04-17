@@ -1,0 +1,111 @@
+localization_id,english,español
+name_wizard_channeling,Channeling,Channeling
+name_wizard_sanctum,Sanctum Sanctorum,Sanctum Sanctorum
+name_wizard_let_out,Let it Out,Let it Out
+name_wizard_end,End,End
+name_wizard_tracking,Tracking,Tracking
+name_wizard_elementalism,Elementalism,Elementalism
+name_wizard_linking,Linkins,Linkins
+name_wizard_shielding,Shielding,Shielding
+name_wizard_veil,Veil,Veil
+name_wizard_teleport,Teleport,Teleport
+name_wizard_trinket,Trinket,Trinket
+name_wizard_intimacy,Intimacy,Intimacy
+name_wizard_dark_arts,` `,` `
+name_wizard_pale_horse,` `,` `
+name_wizard_black_magic,` `,` `
+name_wizard_warding,` `,` `
+trigger_wizard_channeling,"**When you channel and collect your magics,**","**When you channel and collect your magics,**"
+trigger_wizard_sanctum,"**When you go to your sanctum for a spell ingredient, relic, or tome**","**When you go to your sanctum for a spell ingredient, relic, or tome**"
+trigger_wizard_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_wizard_end,"**When you die,**","**When you die,**"
+trigger_wizard_tracking,` `,` `
+trigger_wizard_elementalism,` `,` `
+trigger_wizard_linking,` `,` `
+trigger_wizard_shielding,` `,` `
+trigger_wizard_veil,` `,` `
+trigger_wizard_teleport,` `,` `
+trigger_wizard_trinket,` `,` `
+trigger_wizard_intimacy,"**When you share a moment of intimacy—physical or emotional— with another person,**","**When you share a moment of intimacy—physical or emotional— with another person,**"
+trigger_wizard_dark_arts,The Dark Arts,The Dark Arts
+trigger_wizard_pale_horse,Upon a Pale Horse,Upon a Pale Horse
+trigger_wizard_black_magic,Black Magic,Black Magic
+trigger_wizard_warding,Warding,Warding
+blurb_wizard_channeling,"__Roll with Spirit.__ 
+**On a 10+,** hold 3. 
+**On a 7-9,** hold 3 and choose 1 from the list below. 
+**On a miss,** hold 1, but you cannot channel again this scene.
+**•** Take -1 ongoing until you rest
+**•** Suffer 1-harm (ap)
+**•** Mark corruption
+
+Your hold lasts until you spend it or the scene ends. 
+You can spend it to cast any spell you have as per the spell’s details.","__Roll with Spirit.__ 
+**On a 10+,** hold 3. 
+**On a 7-9,** hold 3 and choose 1 from the list below. 
+**On a miss,** hold 1, but you cannot channel again this scene.
+**•** Take -1 ongoing until you rest
+**•** Suffer 1-harm (ap)
+**•** Mark corruption
+
+Your hold lasts until you spend it or the scene ends. 
+You can spend it to cast any spell you have as per the spell’s details."
+blurb_wizard_sanctum,"__Roll with Spirit.__ 
+**On a 10+,** you’ve got pretty much just the thing. 
+**On a 7-9,**  you’ve got something close, but it’s flawed or lacking in some significant way. 
+**On a miss,** you don’t have what you’re looking for, but you know someone from another Circle who probably has it in stock. 
+","__Roll with Spirit.__ 
+**On a 10+,** you’ve got pretty much just the thing. 
+**On a 7-9,**  you’ve got something close, but it’s flawed or lacking in some significant way. 
+**On a miss,** you don’t have what you’re looking for, but you know someone from another Circle who probably has it in stock. 
+"
+blurb_wizard_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Deflect or redirect an oncoming blow before it strikes
+**•** Perform a feat of telekinetic strength or precision
+**•** Detect the presence and function of magical items or spells
+**•** Reshape the essence or nature of an exposed object or magical spell","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Deflect or redirect an oncoming blow before it strikes
+**•** Perform a feat of telekinetic strength or precision
+**•** Detect the presence and function of magical items or spells
+**•** Reshape the essence or nature of an exposed object or magical spell"
+blurb_wizard_end,You may place a devastating curse on someone nearby. Specify the effects of the curse and how they may end it.,You may place a devastating curse on someone nearby. Specify the effects of the curse and how they may end it.
+brlurb_wizard_tracking,"Spend 1 hold to learn the location of a specific person. You must have a personal object that belongs to the target or recent leavings of their body (a lock of hair, fingernail clippings, their blood, etc.).","Spend 1 hold to learn the location of a specific person. You must have a personal object that belongs to the target or recent leavings of their body (a lock of hair, fingernail clippings, their blood, etc.)."
+brlurb_wizard_elementalism,You conjure the elements to strike out at your enemies. Spend 1 hold to turn to violence with your magic as a weapon (3-harm close or 2-harm close area).,You conjure the elements to strike out at your enemies. Spend 1 hold to turn to violence with your magic as a weapon (3-harm close or 2-harm close area).
+brlurb_wizard_linking,"Spend 1 hold to telepathically link up to two characters in your presence for a few hours, allowing them to communicate with each other—and with you—regardless of distance. You may spend additional hold—1 for 1—to add more characters to this network, even if the other members are not present.","Spend 1 hold to telepathically link up to two characters in your presence for a few hours, allowing them to communicate with each other—and with you—regardless of distance. You may spend additional hold—1 for 1—to add more characters to this network, even if the other members are not present."
+brlurb_wizard_shielding,"Spend 1 hold to provide armor+1 to yourself or someone nearby, or spend 2 hold to provide armor+1 to everyone in a small area, possibly including yourself. This armor lasts until the end of the scene. You can stack multiple uses of Shielding at once.","Spend 1 hold to provide armor+1 to yourself or someone nearby, or spend 2 hold to provide armor+1 to everyone in a small area, possibly including yourself. This armor lasts until the end of the scene. You can stack multiple uses of Shielding at once."
+brlurb_wizard_veil,"Spend 1 hold to make yourself invisible from sight—mundane, supernatural, electronic, etc.—for a few moments.","Spend 1 hold to make yourself invisible from sight—mundane, supernatural, electronic, etc.—for a few moments."
+brlurb_wizard_teleport,Spend 1 hold to teleport yourself a short distance within a scene you’re in.,Spend 1 hold to teleport yourself a short distance within a scene you’re in.
+brlurb_wizard_trinket,"Spend 1 hold to produce a small, mundane object that perfectly fits your needs—a key for a single door, a bullet for a gun, etc.","Spend 1 hold to produce a small, mundane object that perfectly fits your needs—a key for a single door, a bullet for a gun, etc."
+blurb_wizard_intimacy,"Decide if you  care about them. If you do, you form a sympathetic connection; you can target each other with magics at any range and intuitively know if the other is in danger. If you don’t, mark corruption.","Decide if you  care about them. If you do, you form a sympathetic connection; you can target each other with magics at any range and intuitively know if the other is in danger. If you don’t, mark corruption."
+blurb_wizard_dark_arts,"When you turn to violence with magic or psychic energies, mark corruption to roll with Spirit instead of Blood.
+
+**Turn to Violence**
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally","When you turn to violence with magic or psychic energies, mark corruption to roll with Spirit instead of Blood.
+
+**Turn to Violence**
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally"
+blurb_wizard_pale_horse,Mark corruption—1 for 1—and speak the true name of a character in the scene to inflict up to 3-harm (ap) on them; you may only target a character with this power once per session.,Mark corruption—1 for 1—and speak the true name of a character in the scene to inflict up to 3-harm (ap) on them; you may only target a character with this power once per session.
+blurb_wizard_black_magic,"Mark corruption to ignore a requirement set by the MC when
+using your Sanctum.","Mark corruption to ignore a requirement set by the MC when
+using your Sanctum."
+blurb_wizard_warding,Mark corruption to create a magical ward the size of a small room. The ward lasts for a month and a day or until you release it.,Mark corruption to create a magical ward the size of a small room. The ward lasts for a month and a day or until you release it.

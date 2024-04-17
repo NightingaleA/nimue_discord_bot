@@ -1,0 +1,81 @@
+localization_id,english,español
+name_oracle_psych,Psychometry,
+name_oracle_skim,Skim the Surface,
+name_oracle_dual,Dual Loyalty,
+name_oracle_sooth,Soothsayer,
+name_oracle_foresight,Foresight,
+name_oracle_let_out,Let it Out,
+name_oracle_end,End,
+name_oracle_foretelling,Fortellings,
+name_oracle_intimacy,Intimacy,
+name_oracle_empath,Empath,
+name_oracle_all_seeing,"I, All Seeing",
+name_oracle_dark_fate,Dark Fate,
+name_oracle_burrow,Eyes that Burrow,
+trigger_oracle_psych,"**When you examine an interesting object,** ",
+trigger_oracle_skim,"**When you touch someone and attempt to read their surface thoughts, **",
+trigger_oracle_dual,**You are known as an ally to the mortal world; **,
+trigger_oracle_sooth,**When you turn to your prophetic tools to read someone’s future**,
+trigger_oracle_foresight,` `,
+trigger_oracle_let_out,**When you let out the power within you**,
+trigger_oracle_end,**Whe you die**,
+trigger_oracle_foretelling,` `,
+trigger_oracle_intimacy,**When you share a moment of intimacy—physical or emotional—with another person** ,
+trigger_oracle_empath,` `,
+trigger_oracle_all_seeing,` `,
+trigger_oracle_dark_fate,` `,
+trigger_oracle_burrow,` `,
+blurb_oracle_psych,"__Roll with Spirit.__ 
+**On a hit,** ask the MC questions from the list below. 
+**On a 10+,** ask 3. 
+**On a 7-9,** ask 1:
+**•** What is the history of this object?
+**•** What bans, wards, or limits are attached to this object?
+**•** Where does this object belong?
+
+**On a miss,** ask 1, but the answers you get overwhelm you; take -1 ongoing for the scene.",
+blurb_oracle_skim,"__Roll with Spirit__
+**On a hit,** ask their player questions from the list below. 
+**On a 10+,** ask 3. 
+**On a 7–9,** ask 1:
+**•** what are you thinking about right now?
+**•** who or what are you protecting?
+**•** what secrets are you currently keeping?
+**•** what is your hidden pain?
+
+**On a miss,** you inflict 1-harm (ap) on them and yourself.",
+blurb_oracle_dual,"Take Mortalis as a second Circle. 
+You can earn up to Status-2 in Mortalis and—assuming you have at least Status-1—make one city move each faction turn using your new status. 
+When time passes, the MC will tell you what mortal trouble lands on your doorstep, looking to you for help... ",
+blurb_oracle_sooth,"__Roll with Spirit.__ 
+**On a hit,** the MC will tell you something new and interesting about their destiny. 
+**On a 10+,** you may ask a followup question; the MC will answer honestly. 
+**On a miss,** you see vague shapes of what is to come, but something is obscuring your prophetic powers; the future you tried to read is beyond your sight until you resolve the interference. ",
+blurb_oracle_foresight,"Advance keep your cool for any or all characters you choose in your presence, including yourself.",
+blurb_oracle_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Uncover the essential truth of a thing or person in your presence
+**•** Twist the strands of fate to help or hinder an NPC in your presence.
+**•** Frighten or impress someone with knowledge of their past.
+**•** Channel a powerful prophecy from beyond concerning a present character.",
+blurb_oracle_end,"When you die or retire your character, choose a PC; the MC will tell you a dark fate you foresee for them. If you issue warning, they take +1 ongoing to avoid it; if you don’t, they take -1 ongoing instead.",
+blurb_oracle_foretelling,"__Roll with Spirit.__ 
+**On a hit,** pick one of the options below; after the faction turn, the MC will tell you what  your prophetic tools have revealed:
+**•** Fate has provided an opportunity to  fulfill your role for your benefactor;  the MC will tell you how to seize it
+**•** An ally has come to own an item that  might reveal more about your prophecy;  the MC will tell you where they keep it
+**•** A tragedy has made it possible for you to  escape or alter your prophesized path;  the MC will tell you what you must do
+
+**On a 7-9,** you must also choose one:
+**•** A threat is closing in; the MC will tell you  why it stalks your or your benefactor
+**•** An ally is plotting a betrayal; the MC  will tell you when the hammer will fall 
+**•** A death lurks in the shadows; the MC  will tell you how you can avoid it
+
+**On a miss,** you instead receive a  terrifying premonition about the  prophecy that binds you to your  benefactor; take -1 ongoing to efforts  you make to stop it from coming to pass 
+",
+blurb_oracle_intimacy,"You gain a specific and clear vision about that person’s future. Mark corruption to ask the MC up to two followup questions; they must answer honestly.
+",
+blurb_oracle_empath,"When you figure someone out, skim the surface, or use psychometry, mark corruption to ask any questions you’d like, not limited to the lists.",
+blurb_oracle_all_seeing,Mark corruption and su!er 1-harm (ap) to have a vision about the situation at hand. Ask the MC a question; they will answer it honestly. Take +1 ongoing to act on the information provided.,
+blurb_oracle_dark_fate,Mark corruption to curse a city faction with terrible luck; they take -1 ongoing in the next faction turn. Mark corruption again to obscure your role or ensure the curse lasts for a long time.,
+blurb_oracle_burrow,Mark corruption to lock eyes with someone and force them to be still for as long as you maintain the gaze. Mark corruption again to make them forget the experience.,

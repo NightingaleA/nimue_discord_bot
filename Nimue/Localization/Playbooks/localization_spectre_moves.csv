@@ -1,0 +1,101 @@
+localization_id,english,español
+name_spectre_manifest,Manifest,
+name_spectre_ignored,Won’t Be Ignored,
+name_spectre_ghost_town,Ghost Town,
+name_spectre_potent,Potent,
+name_spectre_what_wall,Wall? What Wall?,
+name_spectre_conduit,Conduit,
+name_spectre_let_out,Let it Out,
+name_spectre_end,End,
+name_spectre_lash,Lash Out at an NPC ,
+name_spectre_commune,Commune with you Anchors,
+name_spectre_intimacy,Intimacy,
+name_spectre_possession,Possession,
+name_spectre_siphon,Siphon,
+name_spectre_nightmare,Nightmare,
+name_spectre_telekinesis,Telekinesis,
+trigger_spectre_manifest,**Regular people can’t sense or interact with you unless you manifest.**,
+trigger_spectre_ignored,"**When you get in someone’s way or If you mislead, distract, or trick someone with an obvious supernatural display, **",
+trigger_spectre_ghost_town,"**When you hit the streets to consult your ghostly contacts,**",
+trigger_spectre_potent,` `,
+trigger_spectre_what_wall,**You always have an opening to escape a situation.**,
+trigger_spectre_conduit,` `,
+trigger_spectre_let_out,**When you let out the power within you**,
+trigger_spectre_end,**When your spirit passes on permanently to the other side**,
+trigger_spectre_lash,"**When you lash out at an NPC in furious anger,**",
+trigger_spectre_commune,"**When you commune with one of your anchors, **",
+trigger_spectre_intimacy,"**When you share a moment of intimacy—physical or emotional—with another person,**",
+trigger_spectre_possession,` `,
+trigger_spectre_siphon,` `,
+trigger_spectre_nightmare,` `,
+trigger_spectre_telekinesis,` `,
+blurb_spectre_manifest,"Supernatural creatures and perceptive mortals usually know you’re present, but can’t affect you without magical tools or special powers. If you wish, you can manifest by spending a few quiet moments concentrating—choose 2: 
+**•** You can be heard 
+**•** You can be seen
+** •** You can touch and be touched 
+
+You may mark trauma to instead choose 1 or all 3.",
+blurb_spectre_ignored,"**Get In someone's way:**
+Take a 10+ instead of rolling. 
+
+**Mislead, distract, or trick:**
+__Roll with Spirit__ instead of Mind. 
+**On a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement
+",
+blurb_spectre_ghost_town,"Take +1 ongoing to dealing with them. 
+On a miss, you still find a ghost who has what you’re looking to get, but they are dangerous or lost, your choice.
+
+**Hit the Streets:**
+Name who you’re going to and __roll with their Circle.__ 
+**On a hit**, they’re available and have the stuff. 
+**On a 7-9**, choose 1:
+
+**•** whoever you’re going to is juggling their own problems
+**•** whatever you need is more costly than anticipated",
+blurb_spectre_potent,Take +1 Spirit (max +3).,
+blurb_spectre_what_wall,"You can choose an additional option of the list to bring someone with you, even if they would normally be unable to escape. 
+On a miss, you—and whoever you brought with you—end up caught in the dangerous space between the worlds of the living and the dead.
+
+**Escape a Situation**
+__Roll with Blood__
+**On a hit**, you get away and choose 1. 
+**On a 7-9**, the MC chooses 1 as well:
+
+**•** you suffer harm during your escape
+**•** you end up in another dangerous situation
+**•** you leave something important behind
+**•** you owe an NPC a Debt for their aid
+**•** you give into your base nature and mark corruption",
+blurb_spectre_conduit,"Advance let it out for all characters in your presence, including yourself.",
+blurb_spectre_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Instantaneously travel to one of your anchors, no matter the distance
+**•** Take control of a machine or vehicle by possessing its mechanical form
+**•** Let loose a psychic blast of ectoplasmic energy (2-harm near area ap)
+**•** Follow an ordinary mortal—no matter where they go",
+blurb_spectre_end,"Any characters present gain +1 Spirit (max+3) or take a corruption advance, your choice.",
+blurb_spectre_lash,"__Roll with Blood.__
+**On a hit,** clear all trauma and inflict harm as established. 
+**On a 7-9,** your violence is wild; it leaves you vulnerable, gets out of hand, or causes some collateral damage, MC’s choice. 
+**On a miss,** you completely lose control of your ectoplasmic form; mark corruption. 
+",
+blurb_spectre_commune,"__Roll with Spirit.__ 
+**On a hit,** your anchor soothes your fractured psyche; clear 2-trauma. 
+**On a 10+,** your communion reveals a way the anchor might be resolved; clear all trauma. 
+**On a miss,** you only clear 1-trauma; something threatening the anchor interrupts your mediation.
+",
+blurb_spectre_intimacy,"You hold 1 and clear 1-trauma. Whenever they get into trouble, you can spend your hold to be there.",
+blurb_spectre_possession,"Mark corruption to possess a weak-minded person (MC’s call) in your presence; clear a trauma for each “normal” human experience—eating a meal, shopping for clothes, etc.—you engage in while controlling their body.",
+blurb_spectre_siphon,"Mark corruption to reach into someone’s body, inflict 2-harm (ap) on them, and clear your harm track.",
+blurb_spectre_nightmare,"Mark corruption to enter the dreams of someone sleeping in your presence. 
+While you’re there, you can interact with them and their dreams as if they were spirits as well.",
+blurb_spectre_telekinesis,"You can move and lift small objects at a distance by concentrating. 
+Mark corruption to move an object up to the size of a car.",

@@ -1,0 +1,125 @@
+localization_id,english,español
+name_tainted_devil_inside,The Devil Inside,The Devil Inside
+name_tainted_invocation,Invocation,Invocation
+name_tainted_tongue_silver,Tongued and Silver,Tongued and Silver
+name_tainted_bargain,Dark Bargain,Dark Bargain
+name_tainted_tough,Tough as Nails,Tough as Nails
+name_tainted_let_out,Let it Out,Let it Out
+name_tainted_end,End,End
+name_tainted_intimacy,Intimacy,Intimacy
+name_tainted_below_surface,Just Below the Surface ,Just Below the Surface 
+name_tainted_denied,Not to Be Denied,Not to Be Denied
+name_tainted_hell,From Hell,From Hell
+name_tainted_benefits,Fringe Benefits,Fringe Benefits
+trigger_tainted_devil_inside,"**When you assume your demon form,**","**When you assume your demon form,**"
+trigger_tainted_invocation,` `,` `
+trigger_tainted_tongue_silver,"**When you figure someone out by tempting them with power,**","**When you figure someone out by tempting them with power,**"
+trigger_tainted_bargain,"**When you seal a bargain with someone in smoke and blood,**","**When you seal a bargain with someone in smoke and blood,**"
+trigger_tainted_tough,` `,` `
+trigger_tainted_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_tainted_end,**When you die**,**When you die**
+trigger_tainted_intimacy,"**When you share a moment of intimacy—physical or emotional—with another person,**","**When you share a moment of intimacy—physical or emotional—with another person,**"
+trigger_tainted_below_surface,` `,` `
+trigger_tainted_denied,` `,` `
+trigger_tainted_hell,` `,` `
+trigger_tainted_benefits,` `,` `
+blurb_tainted_devil_inside,"__Roll with Blood.__ 
+**On a 10+,** pick 3. 
+**On a 7-9,** pick 2. 
+**On a miss,** pick 1 and give your patron a Debt...or go without your form.
+
+**•** +demonic weapon (3-harm hand or 2-harm close)
+**•** +demonic movement (flight, flaming motorcycle, etc.)
+**•** +demonic senses (infrared sight, smell lies, etc.)
+**•** gain armor+1
+**•** heal 2-harm
+**•** take +1 forward
+
+If you’re working a job for your patron, pick 1 more. 
+If you mark corruption, pick 1 more.","__Roll with Blood.__ 
+**On a 10+,** pick 3. 
+**On a 7-9,** pick 2. 
+**On a miss,** pick 1 and give your patron a Debt...or go without your form.
+
+**•** +demonic weapon (3-harm hand or 2-harm close)
+**•** +demonic movement (flight, flaming motorcycle, etc.)
+**•** +demonic senses (infrared sight, smell lies, etc.)
+**•** gain armor+1
+**•** heal 2-harm
+**•** take +1 forward
+
+If you’re working a job for your patron, pick 1 more. 
+If you mark corruption, pick 1 more."
+blurb_tainted_invocation,"You may cash in a Debt with someone to appear in their presence; others may cash in a Debt with you to have you appear as well. 
+Successfully refusing to honor the Debt cancels the invocation completely.","You may cash in a Debt with someone to appear in their presence; others may cash in a Debt with you to have you appear as well. 
+Successfully refusing to honor the Debt cancels the invocation completely."
+blurb_tainted_tongue_silver,"__Roll with Heart__ instead of Mind.
+
+**Figure Someone Out**
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?","__Roll with Heart__ instead of Mind.
+
+**Figure Someone Out**
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?"
+blurb_tainted_bargain,"__Roll with Heart. __
+**On a hit,** you infuse the agreement with demonic force. 
+**On a 10+,** pick 2. 
+**On a 7-9,** pick 1.
+
+**•** All parties intuitively know if the deal is being honored.
+**•** All parties take +1 ongoing to letting it out while fulfilling the deal.
+**•** Anyone violating the pact instantly su""ers 4-harm (ap).
+
+**On a miss,** the bargain displeases the powers you called upon to sanctify the deal; you must perform an act of contrition before you can invoke their influence again.","__Roll with Heart. __
+**On a hit,** you infuse the agreement with demonic force. 
+**On a 10+,** pick 2. 
+**On a 7-9,** pick 1.
+
+**•** All parties intuitively know if the deal is being honored.
+**•** All parties take +1 ongoing to letting it out while fulfilling the deal.
+**•** Anyone violating the pact instantly su""ers 4-harm (ap).
+
+**On a miss,** the bargain displeases the powers you called upon to sanctify the deal; you must perform an act of contrition before you can invoke their influence again."
+blurb_tainted_tough,"You get 1-armor; blessed or holy sources ignore this armor completely. 
+Weapons designed to stun or impair you have no effect unless blessed or holy. 
+You don’t require medical attention or magical assistance to heal harm you’ve suffered, and you clear critical harm like it was faint or serious harm—one box every few days.","You get 1-armor; blessed or holy sources ignore this armor completely. 
+Weapons designed to stun or impair you have no effect unless blessed or holy. 
+You don’t require medical attention or magical assistance to heal harm you’ve suffered, and you clear critical harm like it was faint or serious harm—one box every few days."
+blurb_tainted_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Imbue your touch with demonic corruption (2-harm intimate ap)
+**•** Impress, dismay, or frighten someone with a display of demonic fury
+**•** Move through or past a physical obstacle created by mortal hands
+**•** Summon your dark patron’s attention directly on your location","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Imbue your touch with demonic corruption (2-harm intimate ap)
+**•** Impress, dismay, or frighten someone with a display of demonic fury
+**•** Move through or past a physical obstacle created by mortal hands
+**•** Summon your dark patron’s attention directly on your location"
+blurb_tainted_end,"Cash in all the Debts your patron owes you to come back, healing all harm. 
+If you have none, your patron asks someone else to pay the Debt for you. 
+If they refuse, time’s up.","Cash in all the Debts your patron owes you to come back, healing all harm. 
+If you have none, your patron asks someone else to pay the Debt for you. 
+If they refuse, time’s up."
+blurb_tainted_intimacy,They give you a Debt they hold on someone else.,They give you a Debt they hold on someone else.
+blurb_tainted_below_surface,Mark corruption to assume your demon form without a rolland gain all the options listed.,Mark corruption to assume your demon form without a rolland gain all the options listed.
+blurb_tainted_denied,"When someone successfully refuses to honor a Debt you’ve cashed in on them, you may mark corruption to make their roll a miss instead.","When someone successfully refuses to honor a Debt you’ve cashed in on them, you may mark corruption to make their roll a miss instead."
+blurb_tainted_hell,Mark corruption to have your patron send a gang of demons to work on your behalf for a scene (2-harm small 2-armor demonic).,Mark corruption to have your patron send a gang of demons to work on your behalf for a scene (2-harm small 2-armor demonic).
+blurb_tainted_benefits,"Mark corruption to make an additional city move when time passes; if you use your Circle Status for the move, add +1 to your roll.","Mark corruption to make an additional city move when time passes; if you use your Circle Status for the move, add +1 to your roll."

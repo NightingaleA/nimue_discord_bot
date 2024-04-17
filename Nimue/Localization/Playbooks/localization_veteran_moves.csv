@@ -1,0 +1,116 @@
+localization_id,english,español
+name_veteran_friends_favors,"Old Friends, Old Favors","Old Friends, Old Favors"
+name_veteran_artist,True Artist,True Artist
+name_veteran_invested,Invested,Invested
+name_veteran_too_old,Too Old for this Shit! ,Too Old for this Shit! 
+name_veteran_best_plans,The Best Laid Plans,The Best Laid Plans
+name_veteran_gun_fight,Gun to a Knife Fight,Gun to a Knife Fight
+name_veteran_let_out,Let it Out,Let it Out
+name_veteran_end,End,End
+name_veteran_intimacy,Intimacy,Intimacy
+name_veteran_back_it,Back At It,Back At It
+name_veteran_pack_rat,Pack Rat,Pack Rat
+name_veteran_catch_bad_time,"Catch You Fuckers At A Bad Time?
+","Catch You Fuckers At A Bad Time?
+"
+name_veteran_experiments,Dark Experiments,Dark Experiments
+trigger_veteran_friends_favors,"**When you first encounter an NPC,**","**When you first encounter an NPC,**"
+trigger_veteran_artist,"** When you present a valuable or rare gift you’ve created to a Status-2+ NPC of a Circle,**","** When you present a valuable or rare gift you’ve created to a Status-2+ NPC of a Circle,**"
+trigger_veteran_invested,"**When someone owes you 2 or more Debts and you lend them a hand or get in their way,**","**When someone owes you 2 or more Debts and you lend them a hand or get in their way,**"
+trigger_veteran_too_old,"**When you get caught up in a fight you tried to prevent,**","**When you get caught up in a fight you tried to prevent,**"
+trigger_veteran_best_plans,"**When you work out a plan with someone,**","**When you work out a plan with someone,**"
+trigger_veteran_gun_fight,"**When you turn to violence against someone by seriously escalating the conflict,**","**When you turn to violence against someone by seriously escalating the conflict,**"
+trigger_veteran_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_veteran_end,"**When you die or retire your character,**","**When you die or retire your character,**"
+trigger_veteran_intimacy,"**When you share a moment of intimacy—physical or emotional—with another person,**","**When you share a moment of intimacy—physical or emotional—with another person,**"
+trigger_veteran_back_it,` `,` `
+trigger_veteran_pack_rat,` `,` `
+trigger_veteran_catch_bad_time,` `,` `
+trigger_veteran_experiments,` `,` `
+blurb_veteran_friends_favors,"You may declare them an old friend instead of putting a name to a face and __roll with Mind.__
+**On a hit,** they offer you comfort and aid, even if it exposes them to danger or retribution. 
+**On a 7-9,** tell the MC why you owe them a Debt. 
+**On a miss,** tell the MC why they probably bear an old grudge against you for wronging them in the past. 
+","You may declare them an old friend instead of putting a name to a face and __roll with Mind.__
+**On a hit,** they offer you comfort and aid, even if it exposes them to danger or retribution. 
+**On a 7-9,** tell the MC why you owe them a Debt. 
+**On a miss,** tell the MC why they probably bear an old grudge against you for wronging them in the past. 
+"
+blurb_veteran_artist,Gain +1 ongoing (max+1) to your Status with that Circle until after time passes. ,Gain +1 ongoing (max+1) to your Status with that Circle until after time passes. 
+blurb_veteran_invested,"__Roll with Mind__ instead of Circle. 
+
+**Lend a Hand**
+**On a hit**, give them a +1 or -2 to their roll.
+**On a 7-9**, you expose yourself to danger, entanglement, or cost.","__Roll with Mind__ instead of Circle. 
+
+**Lend a Hand**
+**On a hit**, give them a +1 or -2 to their roll.
+**On a 7-9**, you expose yourself to danger, entanglement, or cost."
+blurb_veteran_too_old,"You get +1-armor and take +1 ongoing to seeing yourself and others to safety.
+","You get +1-armor and take +1 ongoing to seeing yourself and others to safety.
+"
+blurb_veteran_best_plans,"__Roll with Mind.__ 
+**On a 10+,** hold 3. 
+**On a 7-9,** hold 2. 
+
+You can spend your hold 1-for-1, regardless of distance, while the plan is being carried out to: 
+**•** Add +1 to someone’s roll (choose after rolling) 
+**•** Dismiss all harm someone suffers from a single attack 
+**•** Ensure your people have the exact gear they need on hand 
+
+**On a miss,** hold 1, but your plan encounters some disastrous opposition right from the start. ","__Roll with Mind.__ 
+**On a 10+,** hold 3. 
+**On a 7-9,** hold 2. 
+
+You can spend your hold 1-for-1, regardless of distance, while the plan is being carried out to: 
+**•** Add +1 to someone’s roll (choose after rolling) 
+**•** Dismiss all harm someone suffers from a single attack 
+**•** Ensure your people have the exact gear they need on hand 
+
+**On a miss,** hold 1, but your plan encounters some disastrous opposition right from the start. "
+blurb_veteran_gun_fight,"__Roll with Mind__ instead of Blood 
+
+**Turn to Violence**
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally","__Roll with Mind__ instead of Blood 
+
+**Turn to Violence**
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally"
+blurb_veteran_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Blindside an unsuspecting target with a terrible or knockout blow
+**•** Barricade or secure a place using minimal supplies
+**•** Frighten or intimidate someone with a reminder of who you used to be
+**•** Reveal the ways an old ally or enemy is shaping a current conflict 
+","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Blindside an unsuspecting target with a terrible or knockout blow
+**•** Barricade or secure a place using minimal supplies
+**•** Frighten or intimidate someone with a reminder of who you used to be
+**•** Reveal the ways an old ally or enemy is shaping a current conflict 
+"
+blurb_veteran_end,Choose a character to inherit your Workshop.,Choose a character to inherit your Workshop.
+blurb_veteran_intimacy,"Tell them a story about the past and the lessons you learned. If they accept your advice, hold 1. Spend the hold to lend a hand to that character from any distance. If they reject your wisdom, mark corruption. 
+","Tell them a story about the past and the lessons you learned. If they accept your advice, hold 1. Spend the hold to lend a hand to that character from any distance. If they reject your wisdom, mark corruption. 
+"
+blurb_veteran_back_it,"Take two abilities from another archetype. When you let it out to use these abilities, you cannot choose to avoid corruption on a 10+.","Take two abilities from another archetype. When you let it out to use these abilities, you cannot choose to avoid corruption on a 10+."
+blurb_veteran_pack_rat,You may mark corruption to reach into your kit and find just the gear you need to deal with your current situation.,You may mark corruption to reach into your kit and find just the gear you need to deal with your current situation.
+blurb_veteran_catch_bad_time,Mark corruption to arrive in a scene. Mark an additional corruption to bring someone with you.,Mark corruption to arrive in a scene. Mark an additional corruption to bring someone with you.
+blurb_veteran_experiments,"When you work over someone (alive or dead) in your Workshop, mark corruption to ask up to two questions about their weaknesses or secrets. They must answer honestly.","When you work over someone (alive or dead) in your Workshop, mark corruption to ask up to two questions about their weaknesses or secrets. They must answer honestly."

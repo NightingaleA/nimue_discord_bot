@@ -1,0 +1,129 @@
+localization_id,english,español
+name_imp_business_usual,Business as Unusual,Business as Unusual
+name_imp_measure,Measure Your Mark,Measure Your Mark
+name_imp_friends_places,Friends in Low Places,Friends in Low Places
+name_imp_fucking_demon,I’m a Fucking Demon,I’m a Fucking Demon
+name_imp_weasel,Weasel Words,Weasel Words
+name_imp_let_out,Let it Out,Let it Out
+name_imp_end,End,End
+name_imp_intimacy,Intimacy,Intimacy
+name_imp_how_win,This is How  I Win,This is How  I Win
+name_imp_dirty_money,Dirty Money,Dirty Money
+name_imp_sweeten,Sweeten the Deal,Sweeten the Deal
+name_imp_shit_list,On the Shit List,On the Shit List
+trigger_imp_business_usual,**When time passes—or at the start of the game—**,**When time passes—or at the start of the game—**
+trigger_imp_measure,**When you figure someone out**,**When you figure someone out**
+trigger_imp_friends_places,**When you get a hit while putting a face to a name with a Status-3 NPC**,**When you get a hit while putting a face to a name with a Status-3 NPC**
+trigger_imp_fucking_demon,` `,` `
+trigger_imp_weasel,"**When you refuse to honor a Debt by fast-talking your way out of the obligation,**","**When you refuse to honor a Debt by fast-talking your way out of the obligation,**"
+trigger_imp_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_imp_end,"**When you die,**","**When you die,**"
+trigger_imp_intimacy,"**When you share a moment of intimacy—physical or emotional—with another person,**","**When you share a moment of intimacy—physical or emotional—with another person,**"
+trigger_imp_how_win,` `,` `
+trigger_imp_dirty_money,` `,` `
+trigger_imp_sweeten,` `,` `
+trigger_imp_shit_list,` `,` `
+blurb_imp_business_usual,"__Roll with Mind.__
+**On a hit,** your usual operations generate a new scheme or provide an opportunity to advance one of your existing schemes, your choice. 
+**On a 10+,** you also pick 1: 
+**•** A loyal customer reveals the secrets of a powerful NPC, your choice 
+**•** An NPC who owes you a Debt appears to make good on their obligation 
+**•** A Status-3 NPC of your Circle offers you a Debt for your services 
+
+**On a miss,** a family member or close friend drags you into a scheme you’d rather have avoided; generate a new scheme with three complications, and the MC will tell you what terrible fate could befall your ally should you fail to deliver.
+ 
+","__Roll with Mind.__
+**On a hit,** your usual operations generate a new scheme or provide an opportunity to advance one of your existing schemes, your choice. 
+**On a 10+,** you also pick 1: 
+**•** A loyal customer reveals the secrets of a powerful NPC, your choice 
+**•** An NPC who owes you a Debt appears to make good on their obligation 
+**•** A Status-3 NPC of your Circle offers you a Debt for your services 
+
+**On a miss,** a family member or close friend drags you into a scheme you’d rather have avoided; generate a new scheme with three complications, and the MC will tell you what terrible fate could befall your ally should you fail to deliver.
+ 
+"
+blurb_imp_measure,"Add the following questions to the list: 
+•What pressing need do you have that I might be able to address? 
+•What’s the most valuable thing you’d offer for sale? 
+**On a miss, ask 1 from this list,** but you come o as suspicious or sleazy, your choice.
+
+Figure Someone Out
+__Roll with Mind__
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?","Add the following questions to the list: 
+•What pressing need do you have that I might be able to address? 
+•What’s the most valuable thing you’d offer for sale? 
+**On a miss, ask 1 from this list,** but you come o as suspicious or sleazy, your choice.
+
+Figure Someone Out
+__Roll with Mind__
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?"
+blurb_imp_friends_places,"Also name a low-level minion or assistant who works for them and describe how this underling recently came to owe you a Debt.
+
+Putting a Face to a Name
+__Roll with their Circle__
+**On a hit**, you know their reputation; the MC will tell you what most people know about them. 
+**On a 10+**, you’ve dealt with them before; learn something interesting and useful about them or they owe you a Debt, your choice. 
+**On a miss**, you don’t know them or you owe them, MC’s choice.","Also name a low-level minion or assistant who works for them and describe how this underling recently came to owe you a Debt.
+
+Putting a Face to a Name
+__Roll with their Circle__
+**On a hit**, you know their reputation; the MC will tell you what most people know about them. 
+**On a 10+**, you’ve dealt with them before; learn something interesting and useful about them or they owe you a Debt, your choice. 
+**On a miss**, you don’t know them or you owe them, MC’s choice."
+blurb_imp_fucking_demon,"Ignore all harm the first time someone inflicts at least 2-harm upon you in a scene. 
+At the end of each scene, clear your Faint harm box.","Ignore all harm the first time someone inflicts at least 2-harm upon you in a scene. 
+At the end of each scene, clear your Faint harm box."
+blurb_imp_weasel,"__Roll with Mind__ instead of the difference in Status. 
+**On a hit**—in addition to the normal effects—mark your debtor’s Circle as though you had honored the Debt.
+
+**Refuse to Honor a Debt**
+**On a hit**, you weasel out of the obligation for now, but you still owe the Debt. 
+**On a 7-9**, you owe them an additional Debt or mark corruption, your choice. 
+**On a miss**, you can’t avoid the noose: either honor the Debt in full or erase all the Debts owed to you by their Circle and take a -1 ongoing to Status with their Circle until after time passes.","__Roll with Mind__ instead of the difference in Status. 
+**On a hit**—in addition to the normal effects—mark your debtor’s Circle as though you had honored the Debt.
+
+**Refuse to Honor a Debt**
+**On a hit**, you weasel out of the obligation for now, but you still owe the Debt. 
+**On a 7-9**, you owe them an additional Debt or mark corruption, your choice. 
+**On a miss**, you can’t avoid the noose: either honor the Debt in full or erase all the Debts owed to you by their Circle and take a -1 ongoing to Status with their Circle until after time passes."
+blurb_imp_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•**Sniff out a secret stash, even when expertly concealed or hidden
+**•** Infiltrate a hostile area by appearing unworthy of concern
+**•** Teleport into your establishment from any distance or position
+**•** Inflict 4-harm (ap) on a vulnerable target who underestimates you","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•**Sniff out a secret stash, even when expertly concealed or hidden
+**•** Infiltrate a hostile area by appearing unworthy of concern
+**•** Teleport into your establishment from any distance or position
+**•** Inflict 4-harm (ap) on a vulnerable target who underestimates you"
+blurb_imp_end,"One of your schemes comes to fruition, but someone else reaps the rewards. 
+Choose someone to benefit from the plans you put in motion; select a payout for them.","One of your schemes comes to fruition, but someone else reaps the rewards. 
+Choose someone to benefit from the plans you put in motion; select a payout for them."
+blurb_imp_intimacy,Promise to get them something they want without asking for anything in return; give them a Debt and take +1 ongoing to getting what you’ve promised them.,Promise to get them something they want without asking for anything in return; give them a Debt and take +1 ongoing to getting what you’ve promised them.
+blurb_imp_how_win,"When you put out the word you need something to your Circle, mark corruption to take a 12+ instead of rolling. 
+Mark corruption to give the seller a Debt instead of whatever price is asked of you when the thing arrives.","When you put out the word you need something to your Circle, mark corruption to take a 12+ instead of rolling. 
+Mark corruption to give the seller a Debt instead of whatever price is asked of you when the thing arrives."
+blurb_imp_dirty_money,"When you complete a scheme, mark corruption to take all four boons instead of just two.","When you complete a scheme, mark corruption to take all four boons instead of just two."
+blurb_imp_sweeten,"When you persuade an NPC by o!ering an additional bonus or appealing bribe, mark corruption to take a 12+ instead of rolling.","When you persuade an NPC by o!ering an additional bonus or appealing bribe, mark corruption to take a 12+ instead of rolling."
+blurb_imp_shit_list,"Mark corruption to declare someone an enemy of your people; others of your kind will gaslight, antagonize, or worse. 
+Until you say otherwise, advance mislead, distract, or trick for anyone targeting them; they also take -1 ongoing during each faction turn.","Mark corruption to declare someone an enemy of your people; others of your kind will gaslight, antagonize, or worse. 
+Until you say otherwise, advance mislead, distract, or trick for anyone targeting them; they also take -1 ongoing during each faction turn."

@@ -1,0 +1,129 @@
+localization_id,english,español
+name_fae_magic,Faerie Magic,Faerie Magic
+name_fae_dish_best,A Dish Best Served Now,A Dish Best Served Now
+name_fae_our_blood,In Our Blood,In Our Blood
+name_fae_scales,Scales of Justice,Scales of Justice
+name_fae_draw_curtain,Draw Back the Curtain,Draw Back the Curtain
+name_fae_words,Words Are Wind,Words Are Wind
+name_fae_let_out,Let it Out,Let it Out
+name_fae_end,End,End
+name_fae_nature,Nature’s Caress,Nature’s Caress
+name_fae_wither,Wither,Wither
+name_fae_glamourous,Glamours,Glamours
+name_fae_shape,Shape Change,Shape Change
+name_fae_bedlam,Bedlam,Bedlam
+name_fae_intimacy,Intimacy,Intimacy
+name_fae_air_dark,Air and Darkness,Air and Darkness
+name_fae_negotiator,Shrewd Negotiator,Shrewd Negotiator
+name_fae_grace,Unearthly Grace,Unearthly Grace
+name_fae_got_one,Everyone’s Got One,Everyone’s Got One
+trigger_fae_magic,**Whenever you use a faerie power**,**Whenever you use a faerie power**
+trigger_fae_dish_best,"**When you commit to enacting revenge on behalf of someone (including yourself) wronged by another,** 
+","**When you commit to enacting revenge on behalf of someone (including yourself) wronged by another,** 
+"
+trigger_fae_our_blood,"**When you mislead, distract, or trick someone through lies of omission or clever misdirection**","**When you mislead, distract, or trick someone through lies of omission or clever misdirection**"
+trigger_fae_scales,**Cash in a Debt with someone**,**Cash in a Debt with someone**
+trigger_fae_draw_curtain,"**When you escape a situation,**","**When you escape a situation,**"
+trigger_fae_words,"**You know instantly if someone has broken their word to you or reneged on a deal you’ve made;** 
+","**You know instantly if someone has broken their word to you or reneged on a deal you’ve made;** 
+"
+trigger_fae_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_fae_end,"**When you die or retire your character,** 
+","**When you die or retire your character,** 
+"
+trigger_fae_nature,` `,` `
+trigger_fae_wither,` `,` `
+trigger_fae_glamourous,` `,` `
+trigger_fae_shape,` `,` `
+trigger_fae_bedlam,` `,` `
+trigger_fae_intimacy,**When you share a moment of intimacy—physical or emotional—with another person**,**When you share a moment of intimacy—physical or emotional—with another person**
+trigger_fae_air_dark,` `,` `
+trigger_fae_negotiator,` `,` `
+trigger_fae_grace,` `,` `
+trigger_fae_got_one,` `,` `
+blurb_fae_magic,"Choose 1:
+**•** suffer 1-harm (ap)
+**•** mark corruption
+**•** give your monarch a Debt","Choose 1:
+**•** suffer 1-harm (ap)
+**•** mark corruption
+**•** give your monarch a Debt"
+blurb_fae_dish_best,"__Gain +1 ongoing__ against the target of that vengeance. 
+For every scene in which you do not pursue vengeance after committing to it, suffer 1-harm (ap).","__Gain +1 ongoing__ against the target of that vengeance. 
+For every scene in which you do not pursue vengeance after committing to it, suffer 1-harm (ap)."
+blurb_fae_our_blood,"__Roll with HEART__ instead of MIND.
+**On a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement","__Roll with HEART__ instead of MIND.
+**On a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement"
+blurb_fae_scales,To use a power from Faerie Magic (including powers not normally available to you) targeting them at no additional cost.,To use a power from Faerie Magic (including powers not normally available to you) targeting them at no additional cost.
+blurb_fae_draw_curtain,"Add this option to the list:
+•you escape to your homeland, for better or worse
+
+**Escape a situation**
+__Roll with Blood__
+**On a hit**, you get away and choose 1. 
+**On a 7-9**, the MC chooses 1 as well:
+
+**•** you suffer harm during your escape
+**•** you end up in another dangerous situation
+**•** you leave something important behind
+**•** you owe an NPC a Debt for their aid
+**•** you give into your base nature and mark corruption","Add this option to the list:
+•you escape to your homeland, for better or worse
+
+**Escape a situation**
+__Roll with Blood__
+**On a hit**, you get away and choose 1. 
+**On a 7-9**, the MC chooses 1 as well:
+
+**•** you suffer harm during your escape
+**•** you end up in another dangerous situation
+**•** you leave something important behind
+**•** you owe an NPC a Debt for their aid
+**•** you give into your base nature and mark corruption"
+blurb_fae_words,Take a Debt on them and +1 ongoing to claim what you deserve from them or their allies until they’ve made things right.,Take a Debt on them and +1 ongoing to claim what you deserve from them or their allies until they’ve made things right.
+blurb_fae_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Summon an elemental storm of your court (2-harm close area ap)
+**•** Appear to others as someone you have previously touched
+**•** Compel the elements of your court to reveal what they have seen
+**•** Create a telepathic link between yourself and another for a scene
+
+","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Summon an elemental storm of your court (2-harm close area ap)
+**•** Appear to others as someone you have previously touched
+**•** Compel the elements of your court to reveal what they have seen
+**•** Create a telepathic link between yourself and another for a scene
+
+"
+blurb_fae_end,"Bestow the favor of your court upon someone. They can take Faerie Magic and two of your faerie powers or advance persuade an NPC. 
+","Bestow the favor of your court upon someone. They can take Faerie Magic and two of your faerie powers or advance persuade an NPC. 
+"
+blurb_fae_nature,"Your touch heals 2-harm, starting with critical harm; wounds close, bones knit back together, etc. You cannot use this power on yourself.","Your touch heals 2-harm, starting with critical harm; wounds close, bones knit back together, etc. You cannot use this power on yourself."
+blurb_fae_wither,"You can imbue your touch with the power to kill (3-harm intimate ap). The e""ect is instantly understood by the target as an attack and leaves behind a nasty mark or scar at the point of contact.","You can imbue your touch with the power to kill (3-harm intimate ap). The e""ect is instantly understood by the target as an attack and leaves behind a nasty mark or scar at the point of contact."
+blurb_fae_glamourous,"You create illusions to fool the senses. The effects don’t last long, but they are compelling. You cannot disguise or conceal yourself or your actions with these tricks.","You create illusions to fool the senses. The effects don’t last long, but they are compelling. You cannot disguise or conceal yourself or your actions with these tricks."
+blurb_fae_shape,"You can change your shape into that of a medium-sized animal for a scene. Up to three people you designate can still understand your speech, but everyone else perceives you to be barking, chirping, etc.","You can change your shape into that of a medium-sized animal for a scene. Up to three people you designate can still understand your speech, but everyone else perceives you to be barking, chirping, etc."
+blurb_fae_bedlam,You can touch a vulnerable target to place them in a specific emotional state (your choice) for the scene. Mark corruption to have that emotion directed toward a target of your choosing.,You can touch a vulnerable target to place them in a specific emotional state (your choice) for the scene. Mark corruption to have that emotion directed toward a target of your choosing.
+blurb_fae_intimacy,"Demand a promise from them. 
+If they refuse you or break the promise, they owe you a Debt.","Demand a promise from them. 
+If they refuse you or break the promise, they owe you a Debt."
+blurb_fae_air_dark,"You gain the remaining faerie powers. When you use Faerie Magic, you may no longer choose to su!er harm.","You gain the remaining faerie powers. When you use Faerie Magic, you may no longer choose to su!er harm."
+blurb_fae_negotiator,"When you refuse to honor a Debt, you may mark corruption to take a 12+ instead of rolling.","When you refuse to honor a Debt, you may mark corruption to take a 12+ instead of rolling."
+blurb_fae_grace,"You get +1 Heart (max +4). When you roll with Heart and roll a 12+, mark corruption.","You get +1 Heart (max +4). When you roll with Heart and roll a 12+, mark corruption."
+blurb_fae_got_one,"Touch someone and mark corruption to curse them with an elemental vulnerability. All damage from a source you select (fire, steel, iron, etc.) is treated as +1 harm and ap.","Touch someone and mark corruption to curse them with an elemental vulnerability. All damage from a source you select (fire, steel, iron, etc.) is treated as +1 harm and ap."

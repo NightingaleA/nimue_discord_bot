@@ -1,0 +1,138 @@
+localization_id,english,español
+name_aware_know_guy,I Know a Guy,I Know a Guy
+name_aware_charming,"Charming, Not Sincere","Charming, Not Sincere"
+name_aware_lions_den,The Lion's Den ,The Lion's Den 
+name_aware_my_city,This is My City,This is My City
+name_aware_sheeps_cloths,In Sheep’s Clothing,In Sheep’s Clothing
+name_aware_one_way,One Way or Another,One Way or Another
+name_aware_let_out,Let it Out,Let it Out
+name_aware_end,End,End
+name_aware_tend_relations,Tending to your Relationships,Tending to your Relationships
+name_aware_kit,Your Kit,Your Kit
+name_aware_intimacy,Initmacy,Initmacy
+name_aware_too_deep,In Too Deep,In Too Deep
+name_aware_cant_beat,If You Can’t Beat ‘Em,If You Can’t Beat ‘Em
+name_aware_agent,Free Agent,Free Agent
+name_aware_sticky,Sticky Fingers,Sticky Fingers
+trigger_aware_know_guy,**When you hit the streets to get what you need from a member of your Circle.**,**When you hit the streets to get what you need from a member of your Circle.**
+trigger_aware_charming,` `,` `
+trigger_aware_lions_den,"**When you gain access to a secure area within a sanctuary, gathering spot, or place of power**","**When you gain access to a secure area within a sanctuary, gathering spot, or place of power**"
+trigger_aware_my_city,"**When you set up a meeting with a powerful or dangerous individual in a crowded mundane space (museum, restaurant, etc.),**","**When you set up a meeting with a powerful or dangerous individual in a crowded mundane space (museum, restaurant, etc.),**"
+trigger_aware_sheeps_cloths,"**When you mislead, distract or trick someone you’ve previously shared a moment of iintimacy with,**","**When you mislead, distract or trick someone you’ve previously shared a moment of iintimacy with,**"
+trigger_aware_one_way,"**When you plead with a member of your Circle for help with a pressing situation,**","**When you plead with a member of your Circle for help with a pressing situation,**"
+trigger_aware_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_aware_end,**When you die**,**When you die**
+trigger_aware_tend_relations,**When you tend to your mortal relationships during the faction turn**,**When you tend to your mortal relationships during the faction turn**
+trigger_aware_kit,"**When you go to your kit for some mundane gear—road flares, first aid kit, etc—useful to the situation**","**When you go to your kit for some mundane gear—road flares, first aid kit, etc—useful to the situation**"
+trigger_aware_intimacy,**When you share a moment of intimacy—physical or emotional— with someone new who isn’t mortal**,**When you share a moment of intimacy—physical or emotional— with someone new who isn’t mortal**
+trigger_aware_too_deep,` `,` `
+trigger_aware_cant_beat,` `,` `
+trigger_aware_agent,` `,` `
+trigger_aware_sticky,` `,` `
+blurb_aware_know_guy,"Name who you’re going to and __roll with HEART__ instead of their Circle.  
+**On a hit**, they’re available and have the stuff. 
+**On a 7-9**, choose 1:
+**•** whoever you’re going to is juggling their own problems
+**•** whatever you need is more costly than anticipated
+**•** however you find them requires you to over a Debt to an intermediary **[ know a guy extra option ]**
+","Name who you’re going to and __roll with HEART__ instead of their Circle.  
+**On a hit**, they’re available and have the stuff. 
+**On a 7-9**, choose 1:
+**•** whoever you’re going to is juggling their own problems
+**•** whatever you need is more costly than anticipated
+**•** however you find them requires you to over a Debt to an intermediary **[ know a guy extra option ]**
+"
+blurb_aware_charming,Take +1 Heart (max+3),Take +1 Heart (max+3)
+blurb_aware_lions_den,"You can study it as if you rolled a 12+. 
+__Study a place of power options:__
+**On a hit**, you see below the surface to the reality underneath; the MC will reveal an area, NPC, or item located within that is not what it seems.
+**On a 10+**, your insight reveals much about the Circle’s politics and schemes; ask the MC a question about the Circle and
+
+If the location is controlled by a Circle other than your own: 
+You also find incriminating evidence implicating a powerful NPC (your choice) within that Circle; handing the documents over to them—or one of their enemies—counts as cashing in a Debt.
+","You can study it as if you rolled a 12+. 
+__Study a place of power options:__
+**On a hit**, you see below the surface to the reality underneath; the MC will reveal an area, NPC, or item located within that is not what it seems.
+**On a 10+**, your insight reveals much about the Circle’s politics and schemes; ask the MC a question about the Circle and
+
+If the location is controlled by a Circle other than your own: 
+You also find incriminating evidence implicating a powerful NPC (your choice) within that Circle; handing the documents over to them—or one of their enemies—counts as cashing in a Debt.
+"
+blurb_aware_my_city,"Hold 2. 
+You can spend your hold, 1 for 1, to:
+**•** take +1 forward to escaping a situation
+**•** create an opening for you or another character to escape a situation
+**•** choose for the MC when you escape a situation and roll a 7-9","Hold 2. 
+You can spend your hold, 1 for 1, to:
+**•** take +1 forward to escaping a situation
+**•** create an opening for you or another character to escape a situation
+**•** choose for the MC when you escape a situation and roll a 7-9"
+blurb_aware_sheeps_cloths,"__Roll with Heart instead of Mind.__
+
+**Mislead, distract and trick**
+**On a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement","__Roll with Heart instead of Mind.__
+
+**Mislead, distract and trick**
+**On a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement"
+blurb_aware_one_way,"__Roll with Heart__ 
+**On a hit,** they either agree to help or owe you a Debt, their choice. 
+**On a 10+**, their guilt is palpable: if they decline and owe you a Debt, you take +1 ongoing against them as long as you hold that Debt. 
+**On a miss,** you are exposed and vulnerable; they are free to do as they like...and you mark corruption if they ignore your plea.","__Roll with Heart__ 
+**On a hit,** they either agree to help or owe you a Debt, their choice. 
+**On a 10+**, their guilt is palpable: if they decline and owe you a Debt, you take +1 ongoing against them as long as you hold that Debt. 
+**On a miss,** you are exposed and vulnerable; they are free to do as they like...and you mark corruption if they ignore your plea."
+blurb_aware_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Gain access to a secure or locked down location
+**•** Draw immediate mortal attention to a person or situation
+**•** Spot a previously overlooked clue or advantage in the immediate area
+**•** Convince an NPC to act on their kindness, role, or own best interest","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Gain access to a secure or locked down location
+**•** Draw immediate mortal attention to a person or situation
+**•** Spot a previously overlooked clue or advantage in the immediate area
+**•** Convince an NPC to act on their kindness, role, or own best interest"
+blurb_aware_end,"Ask another PC to look after up to three of your mortal relationships. 
+If they agree, they immediately advance. 
+If they refuse, they take a corruption advance instead.","Ask another PC to look after up to three of your mortal relationships. 
+If they agree, they immediately advance. 
+If they refuse, they take a corruption advance instead."
+blurb_aware_tend_relations,"Make no other city moves and __roll with HEART.__ 
+**On a hit,** one of the mortals closest to you offers you a way to deepen your bond; clear a corruption advance if you agree to what they propose. 
+**On a 7-9,** agreeing isn’t so simple; what they ask of you threatens to expose them to the part of your life you’ve kept hidden. 
+**On a miss,** your attempts to patch things up come too late; one of your mortal relationships finally cuts ties with you in a painful and public way.
+","Make no other city moves and __roll with HEART.__ 
+**On a hit,** one of the mortals closest to you offers you a way to deepen your bond; clear a corruption advance if you agree to what they propose. 
+**On a 7-9,** agreeing isn’t so simple; what they ask of you threatens to expose them to the part of your life you’ve kept hidden. 
+**On a miss,** your attempts to patch things up come too late; one of your mortal relationships finally cuts ties with you in a painful and public way.
+"
+blurb_aware_kit,"__Roll with SPIRIT.__ 
+**On a hit,** you find something you can use that pretty much fits the bill. 
+**On a 10+,** it’s perfect; take +1 ongoing to putting it to use in the scene. 
+**On a miss,** the situation escalates while you’re trying to prepare—brace yourself!","__Roll with SPIRIT.__ 
+**On a hit,** you find something you can use that pretty much fits the bill. 
+**On a 10+,** it’s perfect; take +1 ongoing to putting it to use in the scene. 
+**On a miss,** the situation escalates while you’re trying to prepare—brace yourself!"
+blurb_aware_intimacy,"Mark corruption. 
+When you figure someone out you’ve previously shared a moment of intimacy with, __roll with Heart instead of Mind.__","Mark corruption. 
+When you figure someone out you’ve previously shared a moment of intimacy with, __roll with Heart instead of Mind.__"
+blurb_aware_too_deep,Mark corruption to get in the way of someone from another Circle as if you rolled a 10+.,Mark corruption to get in the way of someone from another Circle as if you rolled a 10+.
+blurb_aware_cant_beat,"Take one ability from an archetype from another Circle. Whenever you let it out and roll a 12+, mark an additional corruption.","Take one ability from an archetype from another Circle. Whenever you let it out and roll a 12+, mark an additional corruption."
+blurb_aware_agent,Mark corruption to refuse to honor a Debt owed to someone outside your Circle as if you rolled a 12+,Mark corruption to refuse to honor a Debt owed to someone outside your Circle as if you rolled a 12+
+blurb_aware_sticky,Mark corruption after meeting with a powerful NPC to reveal that you took something of import from them. Mark corruption again to conceal your role in the theft for some time.,Mark corruption after meeting with a powerful NPC to reveal that you took something of import from them. Mark corruption again to conceal your role in the theft for some time.
