@@ -3,14 +3,15 @@ name = "NimueDiscordBot"
 version = "0.3.0"
 description = "Discord bot to play Urban Shadows 2E"
 authors = ["Nightingale"]
+package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.8.0"
-numpy = "^1.22.2"
-Flask = "^2.2.0"
-urllib3 = "^1.26.12"
-discord = "^2.0.0"
-pandas = "^1.5.0"
+python = "^3.11.0"
+numpy = "^1.26.2"
+Flask = "^2.3.3"
+urllib3 = "^1.26.18"
+discord = "^2.3.2"
+pandas = "^1.5.3"
 wheel = "^0.37.1"
 toml = "^0.10.2"
 
