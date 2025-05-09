@@ -7,11 +7,11 @@ authors = [
 ]
 license = {text = "MIT"}
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = [
     "numpy (==1.26.2)",
     "flask (==2.3.3)",
-    "urllib3 (==1.26.18)",
+    "urllib3 (==2.4.0)",
     "discord (==2.3.2)",
     "pandas (==1.5.3)",
     "wheel (==0.37.1)",
