@@ -9,16 +9,20 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "numpy (==1.26.2)",
-    "flask (==2.3.3)",
-    "urllib3 (==2.4.0)",
-    "discord (==2.3.2)",
-    "pandas (==1.5.3)",
-    "wheel (==0.37.1)",
-    "toml (==0.10.2)"
+    "numpy (>=2.2.6,<3.0.0)",
+    "flask (>=3.1.1,<4.0.0)",
+    "urllib3 (>=2.4.0,<3.0.0)",
+    "discord (>=2.3.2,<3.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "wheel (>=0.45.1,<0.46.0)",
+    "toml (>=0.10.2,<0.11.0)"
 ]
 
 [tool.poetry]
+package-mode = false
+
+[tool.poetry.requires-plugins]
+poetry-plugin-export = ">=1.8"
 
 [tool.poetry.group.dev.dependencies]
 debugpy = "1.6.2"
