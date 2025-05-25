@@ -1,0 +1,103 @@
+localization_id,english,español
+name_wolf_comes_territory,Comes with the Territory,Comes with the Territory
+name_wolf_alpha,Alpha Dog,Alpha Dog
+name_wolf_reckless,Reckless,Reckless
+name_wolf_bloodhound,Bloodhound,Bloodhound
+name_wolf_beast,Mark of the Beast,Mark of the Beast
+name_wolf_let_out,Let it Out,Let it Out
+name_wolf_end,End,End
+name_wolf_intimacy,Intimacy,Intimacy
+name_wolf_one_beast,One with the Beast,One with the Beast
+name_wolf_force_nature,Force of Nature,Force of Nature
+name_wolf_street_hound,Street Hound,Street Hound
+name_wolf_familiar_territory,Familiar Territory,Familiar Territory
+trigger_wolf_comes_territory,**If you are actively patrolling your territory when time passes—or at the start of the game—**,**If you are actively patrolling your territory when time passes—or at the start of the game—**
+trigger_wolf_alpha,"**When you persuade an NPC in your territory with threats or promises,**","**When you persuade an NPC in your territory with threats or promises,**"
+trigger_wolf_reckless,"**If you jump right into danger without hedging your bets,**","**If you jump right into danger without hedging your bets,**"
+trigger_wolf_bloodhound,"**When you hunt someone down, **","**When you hunt someone down, **"
+trigger_wolf_beast,"**When you mark a building with your signs or sigils,**","**When you mark a building with your signs or sigils,**"
+trigger_wolf_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_wolf_end,"**When you die or retire your character,**","**When you die or retire your character,**"
+trigger_wolf_intimacy,"**When you share a moment of intimacy—physical or emotional—with another person,**","**When you share a moment of intimacy—physical or emotional—with another person,**"
+trigger_wolf_one_beast,` `,` `
+trigger_wolf_force_nature,` `,` `
+trigger_wolf_street_hound,` `,` `
+trigger_wolf_familiar_territory,` `,` `
+blurb_wolf_comes_territory,"__Roll with Blood.__
+**On a 10+,** your territory is secure and trouble is at a minimum; take +1 ongoing when you hit the streets in your territory. 
+**On a 7-9,** one of your troubles surfaces (your choice), along with an opportunity to address it. 
+**On a miss,** or if you aren’t attending to your territory, things go south and your troubles are fast and furious.
+","__Roll with Blood.__
+**On a 10+,** your territory is secure and trouble is at a minimum; take +1 ongoing when you hit the streets in your territory. 
+**On a 7-9,** one of your troubles surfaces (your choice), along with an opportunity to address it. 
+**On a miss,** or if you aren’t attending to your territory, things go south and your troubles are fast and furious.
+"
+blurb_wolf_alpha,"__Roll with Blood__ instead of Heart.
+
+**Persuade an NPC**
+__Roll with Heart__
+**On a hit**, they see your point and do as you ask. 
+**On a 7-9**, they counter your offer or demand payment—a Debt, a favor, resources—before agreeing to follow through. 
+
+If you cash in a Debt with the NPC before you roll, add +3 to your total.","__Roll with Blood__ instead of Heart.
+
+**Persuade an NPC**
+__Roll with Heart__
+**On a hit**, they see your point and do as you ask. 
+**On a 7-9**, they counter your offer or demand payment—a Debt, a favor, resources—before agreeing to follow through. 
+
+If you cash in a Debt with the NPC before you roll, add +3 to your total."
+blurb_wolf_reckless,"You get armor+1. 
+If you’re leading a group, it gets armor+1 also. 
+","You get armor+1. 
+If you’re leading a group, it gets armor+1 also. 
+"
+blurb_wolf_bloodhound,"__Roll with Blood __
+**On a hit,** you know exactly where to find them and can follow their scent until you do. 
+**On a 10+,** you find them alone or vulnerable; take +1 forward against them. 
+**On a miss,** someone unpleasant finds you first.","__Roll with Blood __
+**On a hit,** you know exactly where to find them and can follow their scent until you do. 
+**On a 10+,** you find them alone or vulnerable; take +1 forward against them. 
+**On a miss,** someone unpleasant finds you first."
+blurb_wolf_beast,"__Roll with Spirit__
+**On a hit,** you lay claim to the location for the next few days. 
+**On a 10+,** pick 3. 
+**On a 7-9,** pick 1. 
+
+At any distance, you can:
+**•** Sense who is in the building at all times
+**•** Control the doors, locks, and windows
+**•** Conceal the building’s location or true function
+
+**On a miss,** your attempt to claim the building awakens a sleeping or passive threat you had not considered; the MC will tell you who you angered with your impulsive claim.","__Roll with Spirit__
+**On a hit,** you lay claim to the location for the next few days. 
+**On a 10+,** pick 3. 
+**On a 7-9,** pick 1. 
+
+At any distance, you can:
+**•** Sense who is in the building at all times
+**•** Control the doors, locks, and windows
+**•** Conceal the building’s location or true function
+
+**On a miss,** your attempt to claim the building awakens a sleeping or passive threat you had not considered; the MC will tell you who you angered with your impulsive claim."
+blurb_wolf_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Heal 2-harm instantaneously, starting with critical harm
+**•** Transform from one form into the other without seeing the moon
+**•** Perform a ferocious feat of lupine strength and speed
+**•** Enhance your lupine senses to supernatural levels","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Heal 2-harm instantaneously, starting with critical harm
+**•** Transform from one form into the other without seeing the moon
+**•** Perform a ferocious feat of lupine strength and speed
+**•** Enhance your lupine senses to supernatural levels"
+blurb_wolf_end,"Anyone in the scene you wish to protect escapes and reaches safety, no matter the odds.","Anyone in the scene you wish to protect escapes and reaches safety, no matter the odds."
+blurb_wolf_intimacy,You create a primal bond with them until the end of the next session; you always know where to find them and when they’re in trouble.,You create a primal bond with them until the end of the next session; you always know where to find them and when they’re in trouble.
+blurb_wolf_one_beast,Mark corruption when you transform to select two additional qualities or remove two existing weaknesses from your Transformation. Mark a second corruption to do both.,Mark corruption when you transform to select two additional qualities or remove two existing weaknesses from your Transformation. Mark a second corruption to do both.
+blurb_wolf_force_nature,"You get +1 Blood (max +4). Whenever you roll with Blood and roll a 12+, mark corruption.","You get +1 Blood (max +4). Whenever you roll with Blood and roll a 12+, mark corruption."
+blurb_wolf_street_hound,"Mark corruption to transform into a coyote or dog. While in this form, you can roll with SPIRIT instead of mind to figure someone out or mislead, distract, and trick them.","Mark corruption to transform into a coyote or dog. While in this form, you can roll with SPIRIT instead of mind to figure someone out or mislead, distract, and trick them."
+blurb_wolf_familiar_territory,"Mark corruption to locate the source of the greatest danger to you or someone you select within your territory or city hub, even if the threat has concealed itself with magic or misdirection. 
+","Mark corruption to locate the source of the greatest danger to you or someone you select within your territory or city hub, even if the threat has concealed itself with magic or misdirection. 
+"

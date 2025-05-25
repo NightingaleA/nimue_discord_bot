@@ -1,0 +1,32 @@
+[project]
+name = "nimuediscordbot"
+version = "0.3.0"
+description = "Discord bot to play Urban Shadows 2E"
+authors = [
+    {name = "Nightingale"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy (>=2.2.6,<3.0.0)",
+    "flask (>=3.1.1,<4.0.0)",
+    "urllib3 (>=2.4.0,<3.0.0)",
+    "discord (>=2.3.2,<3.0.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "wheel (>=0.45.1,<0.46.0)",
+    "toml (>=0.10.2,<0.11.0)"
+]
+
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.requires-plugins]
+poetry-plugin-export = ">=1.8"
+
+[tool.poetry.group.dev.dependencies]
+debugpy = "^1.8.14"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,82 @@
+localization_id,english,español
+name_hunter_deadly,Deadly,Deadly
+name_hunter_safe_house,Safe House,Safe House
+name_hunter_this_way,This Way!,This Way!
+name_hunter_worse_tonight,Worse Things Out Tonight,Worse Things Out Tonight
+name_hunter_prepared,Prepared for Anything,Prepared for Anything
+name_hunter_watch_em,Watch them Closely,Watch them Closely
+name_hunter_let_out,Let it Out,Let it Out
+name_hunter_end,End,End
+name_hunter_intimacy,Intimacy,Intimacy
+name_hunter_divided,Divided I Stand ,Divided I Stand 
+name_hunter_hard_kill,Hard to Kill,Hard to Kill
+name_hunter_company,Expecting Company,Expecting Company
+name_hunter_death_wish,Death Wish,Death Wish
+trigger_hunter_deadly,**When you inflict harm**,**When you inflict harm**
+trigger_hunter_safe_house,**You have a secure location that you can hole up in. **,**You have a secure location that you can hole up in. **
+trigger_hunter_this_way,**When you lead people out of danger**,**When you lead people out of danger**
+trigger_hunter_worse_tonight,**When you persuade an npc by promising to protect them from harm**,**When you persuade an npc by promising to protect them from harm**
+trigger_hunter_prepared,"You have a well-stocked armory, full of modern and ancient weapons.","You have a well-stocked armory, full of modern and ancient weapons."
+trigger_hunter_watch_em,**When you closely observe a supernatural person or creature**,**When you closely observe a supernatural person or creature**
+trigger_hunter_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_hunter_end,**When you die or retire your character**,**When you die or retire your character**
+trigger_hunter_intimacy,**When you share a moment of intimacy—physical or emotional—with another person:**,**When you share a moment of intimacy—physical or emotional—with another person:**
+trigger_hunter_divided,**When you enter a dangerous situation alone.**,**When you enter a dangerous situation alone.**
+trigger_hunter_hard_kill,` `,` `
+trigger_hunter_company,` `,` `
+trigger_hunter_death_wish,` `,` `
+blurb_hunter_deadly,"Inflict harm+1. 
+You cannot choose to reduce this harm.","Inflict harm+1. 
+You cannot choose to reduce this harm."
+blurb_hunter_safe_house,"Detail it and choose 3:
+•high-tech surveillance equipment
+•a mystical or magical prison
+•fortified walls/windows/doors
+•stockpiles of food and water 
+•explosives set to blow the place","Detail it and choose 3:
+•high-tech surveillance equipment
+•a mystical or magical prison
+•fortified walls/windows/doors
+•stockpiles of food and water 
+•explosives set to blow the place"
+blurb_hunter_this_way,"__Roll with Blood__
+**On 10+**, you all get away safely. 
+**On a 7-9**, you get hurt or one of them gets hurt (you choose). 
+**On a miss**, everyone’s safe but you; you’re left behind...and the way out is closed to you.","__Roll with Blood__
+**On 10+**, you all get away safely. 
+**On a 7-9**, you get hurt or one of them gets hurt (you choose). 
+**On a miss**, everyone’s safe but you; you’re left behind...and the way out is closed to you."
+blurb_hunter_worse_tonight,__Roll with Blood__ instead of Heart,__Roll with Blood__ instead of Heart
+blurb_hunter_prepared,Take another two custom weapons and select one additional add-on for each of your existing weapons.,Take another two custom weapons and select one additional add-on for each of your existing weapons.
+blurb_hunter_watch_em,"__Roll with Blood__
+**On a hit**, the MC will tell you a bit about their nature and at least one unusual weakness or flaw; take +1 ongoing when you take advantage of these unique vulnerabilities. 
+**On a 10+**, ask a followup question, the MC will answer it honestly. 
+**On a miss**, someone takes advantage of your diverted attention and acts against you before you see it coming.","__Roll with Blood__
+**On a hit**, the MC will tell you a bit about their nature and at least one unusual weakness or flaw; take +1 ongoing when you take advantage of these unique vulnerabilities. 
+**On a 10+**, ask a followup question, the MC will answer it honestly. 
+**On a miss**, someone takes advantage of your diverted attention and acts against you before you see it coming."
+blurb_hunter_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** track someone or something through the city with limited information or trail
+**•** improvise a weapon (2-harm hand messy) or armor (1-armor fragile)
+**•** jury rig an explosive (3-harm loud fire) or smoke bomb (s-harm loud smoke)
+**•** force a vulnerable foe to flee your presence and deliver a message","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** track someone or something through the city with limited information or trail
+**•** improvise a weapon (2-harm hand messy) or armor (1-armor fragile)
+**•** jury rig an explosive (3-harm loud fire) or smoke bomb (s-harm loud smoke)
+**•** force a vulnerable foe to flee your presence and deliver a message"
+blurb_hunter_end,"Give another PC one of your custom weapons and one of your Hunter moves. 
+Both are theirs for keeps. ","Give another PC one of your custom weapons and one of your Hunter moves. 
+Both are theirs for keeps. "
+blurb_hunter_intimacy,"__Ask them a question;__ they must answer it honestly. 
+__They will ask you a question__ in return; answer it honestly or mark corruption.","__Ask them a question;__ they must answer it honestly. 
+__They will ask you a question__ in return; answer it honestly or mark corruption."
+blurb_hunter_divided,Mark corruption to advance all your moves and take +1 ongoing to Blood for the scene.,Mark corruption to advance all your moves and take +1 ongoing to Blood for the scene.
+blurb_hunter_hard_kill,Mark corruption to gain armor+1 until the end of the scene.,Mark corruption to gain armor+1 until the end of the scene.
+blurb_hunter_company,"Mark corruption to have a backup team of mortal hunters arrive in the scene (3-harm small 1-armor trained) .
+Mark a second corruption for them to show up in a superior position.","Mark corruption to have a backup team of mortal hunters arrive in the scene (3-harm small 1-armor trained) .
+Mark a second corruption for them to show up in a superior position."
+blurb_hunter_death_wish,"If someone nearby is about to suffer harm, mark corruption to suffer the harm instead.","If someone nearby is about to suffer harm, mark corruption to suffer the harm instead."

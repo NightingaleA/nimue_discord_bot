@@ -1,0 +1,154 @@
+localization_id,english,español
+name_sworn_protect,Protect and Serve,Protect and Serve
+name_sworn_hard_shake,Hard to Shake,Hard to Shake
+name_sworn_devious,Devious,Devious
+name_sworn_genuine,Genuine Police,Genuine Police
+name_sworn_chess,Chess Not Checkers,Chess Not Checkers
+name_sworn_let_out,Let it Out,Let it Out
+name_sworn_end,End,End
+name_sworn_legendary_cool,Keep your Cool with your Legendary Weapon,Keep your Cool with your Legendary Weapon
+name_sworn_intimacy,Intimacy,Intimacy
+name_sworn_ahead,Ahead of the Game,Ahead of the Game
+name_sworn_pigeons,Stool Pigeons,Stool Pigeons
+name_sworn_student,Student of the Arts,Student of the Arts
+name_sworn_affairs,Infernal Affairs,Infernal Affairs
+trigger_sworn_protect,"**When you read a charged situation,**","**When you read a charged situation,**"
+trigger_sworn_hard_shake,"**When you follow an NPC through the streets of the city,**","**When you follow an NPC through the streets of the city,**"
+trigger_sworn_devious,` `,` `
+trigger_sworn_genuine,"**When you put a face to a name or study a sanctuary, gathering spot, or place of
+power**","**When you put a face to a name or study a sanctuary, gathering spot, or place of
+power**"
+trigger_sworn_chess,"**When you turn to violence with any kind of serious advantage—numbers, position, surprise, etc.—and get a hit, **
+","**When you turn to violence with any kind of serious advantage—numbers, position, surprise, etc.—and get a hit, **
+"
+trigger_sworn_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_sworn_end,"**When you die or retire your character,** ","**When you die or retire your character,** "
+trigger_sworn_legendary_cool,"**When you wield the weapon in the service of your masters,** ","**When you wield the weapon in the service of your masters,** "
+trigger_sworn_intimacy,"**When you share a moment of intimacy—physical or emotional—with another person,**","**When you share a moment of intimacy—physical or emotional—with another person,**"
+trigger_sworn_ahead,` `,` `
+trigger_sworn_pigeons,` `,` `
+trigger_sworn_student,` `,` `
+trigger_sworn_affairs,` `,` `
+blurb_sworn_protect,"__Roll with Mind.__ 
+**On a hit,** ask the MC questions; take +1 when you act on the answers. 
+**On a 10+,** ask 2. 
+**On a 7-9,** ask 1.
+**•** where’s my escape route / way in / way past?
+**•** which enemy is most vulnerable to me?
+**•** what should I be on the lookout for?
+**•** what’s my enemy’s true position?
+**•** who here can’t be trusted?
+
+**On a miss,** you recognize a weakness in your own position or preparations you should have seen coming.","__Roll with Mind.__ 
+**On a hit,** ask the MC questions; take +1 when you act on the answers. 
+**On a 10+,** ask 2. 
+**On a 7-9,** ask 1.
+**•** where’s my escape route / way in / way past?
+**•** which enemy is most vulnerable to me?
+**•** what should I be on the lookout for?
+**•** what’s my enemy’s true position?
+**•** who here can’t be trusted?
+
+**On a miss,** you recognize a weakness in your own position or preparations you should have seen coming."
+blurb_sworn_hard_shake,"__Roll with Mind.__ 
+**On a hit,** where they go, you follow. 
+**On a 7-9,** you run into some trouble on the way; deal with it quickly or lose the trail. 
+**On a miss,** your prey leads you exactly where they want you; brace yourself for the closing jaws of the trap.","__Roll with Mind.__ 
+**On a hit,** where they go, you follow. 
+**On a 7-9,** you run into some trouble on the way; deal with it quickly or lose the trail. 
+**On a miss,** your prey leads you exactly where they want you; brace yourself for the closing jaws of the trap."
+blurb_sworn_devious,Take +1 Mind (max+3).,Take +1 Mind (max+3).
+blurb_sworn_genuine,"__Roll with Mind__ instead of the relevant Circle. 
+You always get to ask the MC an additional question about the person or place in question, even on a miss.
+
+**Put a Face to a Name**
+**On a hit**, you know their reputation; the MC will tell you what most people know about them. 
+**On a 10+**, you’ve dealt with them before; learn something interesting and useful about them or they owe you a Debt, your choice. 
+**On a miss**, you don’t know them or you owe them, MC’s choice.
+
+**Study a Place of Power**
+**On a hit**, you see below the surface to the reality underneath; the MC will reveal an area, NPC, or item located within that is not what it seems.
+**On a 10+**, your insight reveals much about the Circle’s politics and schemes; ask the MC a question about the Circle and","__Roll with Mind__ instead of the relevant Circle. 
+You always get to ask the MC an additional question about the person or place in question, even on a miss.
+
+**Put a Face to a Name**
+**On a hit**, you know their reputation; the MC will tell you what most people know about them. 
+**On a 10+**, you’ve dealt with them before; learn something interesting and useful about them or they owe you a Debt, your choice. 
+**On a miss**, you don’t know them or you owe them, MC’s choice.
+
+**Study a Place of Power**
+**On a hit**, you see below the surface to the reality underneath; the MC will reveal an area, NPC, or item located within that is not what it seems.
+**On a 10+**, your insight reveals much about the Circle’s politics and schemes; ask the MC a question about the Circle and"
+blurb_sworn_chess,"Tell your opposition which option they cannot choose from their list before they pick.
+
+**Turn to Violence**
+__Roll with Blood__
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally","Tell your opposition which option they cannot choose from their list before they pick.
+
+**Turn to Violence**
+__Roll with Blood__
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally"
+blurb_sworn_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Shatter a magical spell, illusion, or enchantment with a touch
+**•** Cloak yourself in magical armor; expend it to ignore all harm one time
+**•** Strike down all lesser foes in your vicinity with a blast of elemental force
+**•** Force someone to answer your questions truthfully for a scene","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Shatter a magical spell, illusion, or enchantment with a touch
+**•** Cloak yourself in magical armor; expend it to ignore all harm one time
+**•** Strike down all lesser foes in your vicinity with a blast of elemental force
+**•** Force someone to answer your questions truthfully for a scene"
+blurb_sworn_end,"Offer your weapon to the person you trust the most. If they accept, bind them to three vows from your list as if they had sworn an oath to you.","Offer your weapon to the person you trust the most. If they accept, bind them to three vows from your list as if they had sworn an oath to you."
+blurb_sworn_legendary_cool,"You can __roll with Mind__ instead of Spirit when you keep your cool. 
+But your weapon—like your oath—is bound to your loyalty. 
+If your oath is broken, the weapon will be lost to you, even betraying you to ensure it exits your service.
+
+**Keep your Cool**
+Tell the MC the situation you want to avoid:
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you.","You can __roll with Mind__ instead of Spirit when you keep your cool. 
+But your weapon—like your oath—is bound to your loyalty. 
+If your oath is broken, the weapon will be lost to you, even betraying you to ensure it exits your service.
+
+**Keep your Cool**
+Tell the MC the situation you want to avoid:
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you."
+blurb_sworn_intimacy,"Tell them if they matter more than your Oath. 
+If you say they do, mark corruption and they hold 1; they can spend the hold at any time to summon you to their location.","Tell them if they matter more than your Oath. 
+If you say they do, mark corruption and they hold 1; they can spend the hold at any time to summon you to their location."
+blurb_sworn_ahead,"You get +1 Mind (max+4). Whenever you roll with Mind
+and roll a 12+, mark corruption.","You get +1 Mind (max+4). Whenever you roll with Mind
+and roll a 12+, mark corruption."
+blurb_sworn_pigeons,"Mark corruption to roll with Mind instead of Status when
+you consult your contacts in another Circle. On a miss,
+mark corruption again—then choose to either answer your
+contact’s tough question or owe them a Debt.","Mark corruption to roll with Mind instead of Status when
+you consult your contacts in another Circle. On a miss,
+mark corruption again—then choose to either answer your
+contact’s tough question or owe them a Debt."
+blurb_sworn_student,"Choose three Spells. Mark corruption to gain two hold you
+can use to cast those spells.","Choose three Spells. Mark corruption to gain two hold you
+can use to cast those spells."
+blurb_sworn_affairs,"When you turn to violence, you may mark corruption to take
+a 12+ instead of rolling.","When you turn to violence, you may mark corruption to take
+a 12+ instead of rolling."

@@ -1,0 +1,469 @@
+localization_id,english,español
+title_basic_move,Basic Moves,Basic Moves
+name_just_roll,Just Roll,Just Roll
+name_violence,Turn To Violence,Turn To Violence
+name_escape,Escape a Situation,Escape a Situation
+name_persuade,Persuade an NPC,Persuade an NPC
+name_figure,Figure Someone Out,Figure Someone Out
+name_mislead,"Mislead, Distract, or Trick","Mislead, Distract, or Trick"
+name_cool,Keep your Cool,Keep your Cool
+name_let_out,Let it Out,Let it Out
+name_hand,Lend ad Hand or Get in the Way,Lend ad Hand or Get in the Way
+name_eos_basic,End of Session,End of Session
+trigger_just_roll,When you just roll 2d6 with any modifier,When you just roll 2d6 with any modifier
+trigger_violence,**When you turn to violence**,**When you turn to violence**
+trigger_escape,**When you take advantage of an opening to escape a situation**,**When you take advantage of an opening to escape a situation**
+trigger_persuade,"**When you persuade an NPC with seduction, promises, or threats,** ","**When you persuade an NPC with seduction, promises, or threats,** "
+trigger_figure,**When you try to figure someone out** ,**When you try to figure someone out** 
+trigger_mislead,"**When you try to mislead, distract, or trick someone** ","**When you try to mislead, distract, or trick someone** "
+trigger_cool,**When things get real and you keep your cool** ,**When things get real and you keep your cool** 
+trigger_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_hand,**When you lend a hand or get in the way after a PC has rolled**,**When you lend a hand or get in the way after a PC has rolled**
+trigger_eos_basic,**At the end of every session**,**At the end of every session**
+blurb_just_roll,` `,` `
+blurb_violence,"__Roll with Blood__
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally","__Roll with Blood__
+**On a hit**, you inflict harm as established and your opposition chooses 1:
+**•** they inflict harm on you
+**•** they put you in a bad spot
+**•** they create an opening to flee
+
+**On a 10+**, you also choose one:
+**•** you inflict terrible harm
+**•** you take something from them
+**•** you create an opportunity for an ally"
+blurb_escape,"__Roll with Blood__
+**On a hit**, you get away and choose 1. 
+**On a 7-9**, the MC chooses 1 as well:
+
+**•** you suffer harm during your escape
+**•** you end up in another dangerous situation
+**•** you leave something important behind
+**•** you owe an NPC a Debt for their aid
+**•** you give into your base nature and mark corruption","__Roll with Blood__
+**On a hit**, you get away and choose 1. 
+**On a 7-9**, the MC chooses 1 as well:
+
+**•** you suffer harm during your escape
+**•** you end up in another dangerous situation
+**•** you leave something important behind
+**•** you owe an NPC a Debt for their aid
+**•** you give into your base nature and mark corruption"
+blurb_persuade,"__Roll with Heart__
+**On a hit**, they see your point and do as you ask. 
+**On a 7-9**, they counter your offer or demand payment—a Debt, a favor, resources—before agreeing to follow through. 
+
+If you cash in a Debt with the NPC before you roll, add +3 to your total.","__Roll with Heart__
+**On a hit**, they see your point and do as you ask. 
+**On a 7-9**, they counter your offer or demand payment—a Debt, a favor, resources—before agreeing to follow through. 
+
+If you cash in a Debt with the NPC before you roll, add +3 to your total."
+blurb_figure,"__Roll with Mind__
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?","__Roll with Mind__
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?"
+blurb_mislead,"__Roll with Mind. __
+**On a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement","__Roll with Mind. __
+**On a hit**, they are fooled, at least for a moment. 
+**On a 7-9**, pick 2:
+**On a 10+**, pick 3:
+ 
+**•** you create an opportunity
+**•** you expose a weakness or flaw
+**•** you confuse them for some time
+**•** you avoid further entanglement"
+blurb_cool,"Tell the MC the situation you want to avoid and __roll with Spirit__
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you.","Tell the MC the situation you want to avoid and __roll with Spirit__
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you."
+blurb_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice."
+blurb_hand,"__Roll with their Circle__ 
+**On a hit**, give them a +1 or -2 to their roll.
+**On a 7-9**, you expose yourself to danger, entanglement, or cost.","__Roll with their Circle__ 
+**On a hit**, give them a +1 or -2 to their roll.
+**On a 7-9**, you expose yourself to danger, entanglement, or cost."
+blurb_eos_basic,"Decide if you’ve grown closer to a Circle you engaged with this session:
+Increase your score in that Circle and decrease your score in a different Circle. Tell the MC how your relationships to these communities have changed because of the events of the story, and mark one of the two Circles involved in those changes.
+
+In addition, think about any Debts you may owe—or Debts that are owed to you—as a result of the session. Tell the group and note them down for next session.","Decide if you’ve grown closer to a Circle you engaged with this session:
+Increase your score in that Circle and decrease your score in a different Circle. Tell the MC how your relationships to these communities have changed because of the events of the story, and mark one of the two Circles involved in those changes.
+
+In addition, think about any Debts you may owe—or Debts that are owed to you—as a result of the session. Tell the group and note them down for next session."
+tittle_circle_move,Circle Moves,Circle Moves
+name_put_name,Put a Name to a Face,Put a Name to a Face
+name_hit_streets,Hit the Streets,Hit the Streets
+name_study_place,Strudy a Place of Power,Strudy a Place of Power
+trigger_put_name,**When you put a name to a face or vice versa** ,**When you put a name to a face or vice versa** 
+trigger_hit_streets,**When you hit the streets to get what you need**,**When you hit the streets to get what you need**
+trigger_study_place,"**When you study a sanctuary, gathering spot, or place of power**","**When you study a sanctuary, gathering spot, or place of power**"
+blrub_put_name,"__Roll with their Circle__
+**On a hit**, you know their reputation; the MC will tell you what most people know about them. 
+**On a 10+**, you’ve dealt with them before; learn something interesting and useful about them or they owe you a Debt, your choice. 
+**On a miss**, you don’t know them or you owe them, MC’s choice.","__Roll with their Circle__
+**On a hit**, you know their reputation; the MC will tell you what most people know about them. 
+**On a 10+**, you’ve dealt with them before; learn something interesting and useful about them or they owe you a Debt, your choice. 
+**On a miss**, you don’t know them or you owe them, MC’s choice."
+blrub_hit_streets,"Name who you’re going to and __roll with their Circle.__ 
+**On a hit**, they’re available and have the stuff. 
+**On a 7-9**, choose 1:
+
+**•** whoever you’re going to is juggling their own problems
+**•** whatever you need is more costly than anticipated","Name who you’re going to and __roll with their Circle.__ 
+**On a hit**, they’re available and have the stuff. 
+**On a 7-9**, choose 1:
+
+**•** whoever you’re going to is juggling their own problems
+**•** whatever you need is more costly than anticipated"
+blrub_study_place,"__Roll with the Circle that controls it. __
+**On a hit**, you see below the surface to the reality underneath; the MC will reveal an area, NPC, or item located within that is not what it seems.
+**On a 10+**, your insight reveals much about the Circle’s politics and schemes; ask the MC a question about the Circle and","__Roll with the Circle that controls it. __
+**On a hit**, you see below the surface to the reality underneath; the MC will reveal an area, NPC, or item located within that is not what it seems.
+**On a 10+**, your insight reveals much about the Circle’s politics and schemes; ask the MC a question about the Circle and"
+title_debt_move,Debt Moves,Debt Moves
+name_do_favor,Do Someone a Favor,Do Someone a Favor
+name_interfere,Interfere in Someones Business,Interfere in Someones Business
+name_refuse,Refuse to Honor a Debt,Refuse to Honor a Debt
+name_cash,Cash in a Debt,Cash in a Debt
+name_eos_debt,End of Session,End of Session
+trigger_do_favor,**When you do someone a favor**,**When you do someone a favor**
+trigger_interfere,**When you interfere in someone’s business** you owe them a Debt,**When you interfere in someone’s business** you owe them a Debt
+trigger_refuse,**When you refuse to honor a Debt**,**When you refuse to honor a Debt**
+trigger_cash,**When you cash in a Debt** ,**When you cash in a Debt** 
+trigger_eos_debt,**At the end of every session**,**At the end of every session**
+blurb_do_favor,They owe you a Debt.,They owe you a Debt.
+blurb_interfere,You owe them a Debt.,You owe them a Debt.
+blurb_refuse,"__Roll with the difference in Status between you and your creditor__
+**On a hit**, you weasel out of the obligation for now, but you still owe the Debt. 
+**On a 7-9**, you owe them an additional Debt or mark corruption, your choice. 
+**On a miss**, you can’t avoid the noose: either honor the Debt in full or erase all the Debts owed to you by their Circle and take a -1 ongoing to Status with their Circle until after time passes.","__Roll with the difference in Status between you and your creditor__
+**On a hit**, you weasel out of the obligation for now, but you still owe the Debt. 
+**On a 7-9**, you owe them an additional Debt or mark corruption, your choice. 
+**On a miss**, you can’t avoid the noose: either honor the Debt in full or erase all the Debts owed to you by their Circle and take a -1 ongoing to Status with their Circle until after time passes."
+blurb_cash,"Remind your debtor why they owe you in order to...
+
+...make a PC:
+**•** answer a question honestly
+**•** do you a favor at moderate cost
+**•** lend a hand to your e!orts
+**•** get in the way of someone else
+**•** erase a Debt they hold on someone
+**•** give you a Debt they hold on someone else
+
+...make an NPC:
+**•** answer a question honestly
+**•** arrange a meeting with an NPC in their Circle
+**•** grant you a worthy boon or useful gift
+**•** erase a Debt they hold on someone
+**•** give you a Debt they hold on someone else","Remind your debtor why they owe you in order to...
+
+...make a PC:
+**•** answer a question honestly
+**•** do you a favor at moderate cost
+**•** lend a hand to your e!orts
+**•** get in the way of someone else
+**•** erase a Debt they hold on someone
+**•** give you a Debt they hold on someone else
+
+...make an NPC:
+**•** answer a question honestly
+**•** arrange a meeting with an NPC in their Circle
+**•** grant you a worthy boon or useful gift
+**•** erase a Debt they hold on someone
+**•** give you a Debt they hold on someone else"
+blurb_eos_debt,"Decide if you’ve grown closer to a Circle you engaged with this session:
+Increase your score in that Circle and decrease your score in a different Circle. Tell the MC how your relationships to these communities have changed because of the events of the story, and mark one of the two Circles involved in those changes.
+
+In addition, think about any Debts you may owe—or Debts that are owed to you—as a result of the session. Tell the group and note them down for next session.","Decide if you’ve grown closer to a Circle you engaged with this session:
+Increase your score in that Circle and decrease your score in a different Circle. Tell the MC how your relationships to these communities have changed because of the events of the story, and mark one of the two Circles involved in those changes.
+
+In addition, think about any Debts you may owe—or Debts that are owed to you—as a result of the session. Tell the group and note them down for next session."
+title_city_move_status_1,Status-1 Moves,Status-1 Moves
+name_weaken,Weaken Someone's Standing,Weaken Someone's Standing
+name_put_word,Put out the Word,Put out the Word
+name_consult_contact,Consult your Contacts,Consult your Contacts
+name_tend_business,Tend to your Business,Tend to your Business
+trigger_weaken,**When you try to weaken someone’s standing in a Circle with rumor and gossip** ,**When you try to weaken someone’s standing in a Circle with rumor and gossip** 
+trigger_put_word,"**When you put out the word you need something to your Circle—a magical tome, secret information, a skilled bodyguard, etc.—**","**When you put out the word you need something to your Circle—a magical tome, secret information, a skilled bodyguard, etc.—**"
+trigger_consult_contact,**When you consult your contacts in another Circle** ,**When you consult your contacts in another Circle** 
+trigger_tend_business,**When you tend to your business instead of meddling in city affairs** ,**When you tend to your business instead of meddling in city affairs** 
+blurb_weaken,"__Roll with Status__
+**On a hit**, the rumors take hold; they take -1 ongoing to moves during the faction turn until they find some way to dispel the whispers. 
+**On a 10+**, one of their enemies catches wind of your gossip and approaches you with damaging information about your target’s interests. 
+**On a miss**, your target traces the stories directly back to you...and catches you in a vulnerable spot before you can react.","__Roll with Status__
+**On a hit**, the rumors take hold; they take -1 ongoing to moves during the faction turn until they find some way to dispel the whispers. 
+**On a 10+**, one of their enemies catches wind of your gossip and approaches you with damaging information about your target’s interests. 
+**On a miss**, your target traces the stories directly back to you...and catches you in a vulnerable spot before you can react."
+blurb_put_word,"__Roll with Status. __
+**On a 10+**, it shows up in the hands of an ally; it’s yours for a Debt. 
+**On a 7-9**, it ends up with a rival; they want a favor or gift—their choice—in addition to a Debt before they hand it over. 
+**On a miss**, the thing shows up on your doorstep with wicked strings attached, exposing you to the wrath of a Status-3 NPC from another Circle.","__Roll with Status. __
+**On a 10+**, it shows up in the hands of an ally; it’s yours for a Debt. 
+**On a 7-9**, it ends up with a rival; they want a favor or gift—their choice—in addition to a Debt before they hand it over. 
+**On a miss**, the thing shows up on your doorstep with wicked strings attached, exposing you to the wrath of a Status-3 NPC from another Circle."
+blurb_consult_contact,"__Roll with Status in that Circle. __
+**On a hit**, ask 3; your contacts will answer to the best of their ability. 
+**On a 7-9**, hold 1. 
+**On a 10+**, hold 2.
+
+Spend your hold—1 for 1—to take a 10+ instead of rolling when the information you gained would aid you on a move.
+**•** What conflict is everyone talking about?
+**•** What happened to ________?
+**•** What has ________ been up to recently?
+**•** Who is responsible for ________?
+**•** Who has a Debt on ________?
+
+**On a miss**, ask 1 and hold 1, but your contact has a tough question about your loyalties and allegiances as well. 
+Answer it honestly, mark corruption, or owe them a Debt, your choice.","__Roll with Status in that Circle. __
+**On a hit**, ask 3; your contacts will answer to the best of their ability. 
+**On a 7-9**, hold 1. 
+**On a 10+**, hold 2.
+
+Spend your hold—1 for 1—to take a 10+ instead of rolling when the information you gained would aid you on a move.
+**•** What conflict is everyone talking about?
+**•** What happened to ________?
+**•** What has ________ been up to recently?
+**•** Who is responsible for ________?
+**•** Who has a Debt on ________?
+
+**On a miss**, ask 1 and hold 1, but your contact has a tough question about your loyalties and allegiances as well. 
+Answer it honestly, mark corruption, or owe them a Debt, your choice."
+blurb_tend_business,"Tell the MC how you pass the time and __roll__
+**On a hit**, an old friend or new ally approaches you with a request for help; mark a corruption if you turn them down. 
+**On a 10+**, ask the MC a question about the situation; they will answer it honestly. 
+**On a miss**, an NPC interrupts your day-to-day business to cash in a Debt you hoped they had forgotten about, mixing you up in a mess within your Circle you’d rather have avoided.","Tell the MC how you pass the time and __roll__
+**On a hit**, an old friend or new ally approaches you with a request for help; mark a corruption if you turn them down. 
+**On a 10+**, ask the MC a question about the situation; they will answer it honestly. 
+**On a miss**, an NPC interrupts your day-to-day business to cash in a Debt you hoped they had forgotten about, mixing you up in a mess within your Circle you’d rather have avoided."
+title_city_move_status_2,Status-2 Moves,Status-2 Moves
+name_marshall,Marshall Faction Forces,Marshall Faction Forces
+name_lay_claim,Lay Claim,Lay Claim
+name_recruit,Recruit New Allies,Recruit New Allies
+trigger_marshall,"**When you try to marshall forces in your Circle to undermine a faction or their holdings** 
+","**When you try to marshall forces in your Circle to undermine a faction or their holdings** 
+"
+trigger_lay_claim,"**When you lay claim to a vulnerable asset** 
+","**When you lay claim to a vulnerable asset** 
+"
+trigger_recruit,**When you recruit allies from another Circle**,**When you recruit allies from another Circle**
+blurb_marshall,"__Roll with Status__
+**On a hit**, you can give a Debt to a powerful NPC of your Circle— MC’s choice—to reduce your target’s strength or weaken their hold on a specific asset, your choice. 
+**On a 7-9**, your allies are slow to move; give them another Debt to speed things along, or join them directly in the attack. 
+**On a miss**, the attack falls apart and creates an opportunity for your enemies; tell the MC how you’ve left yourself vulnerable to them.","__Roll with Status__
+**On a hit**, you can give a Debt to a powerful NPC of your Circle— MC’s choice—to reduce your target’s strength or weaken their hold on a specific asset, your choice. 
+**On a 7-9**, your allies are slow to move; give them another Debt to speed things along, or join them directly in the attack. 
+**On a miss**, the attack falls apart and creates an opportunity for your enemies; tell the MC how you’ve left yourself vulnerable to them."
+blurb_lay_claim,"__Roll with Status.__
+**On a hit**, your claim is broadly recognized; take hold of the asset and the MC will tell you what benefits it brings. 
+**On a 7-9**, pick 1.
+**On a 10+**, all 3.
+**•** the asset is no longer vulnerable
+**•** the asset has no rival claimant
+**•** the asset doesn’t require you to cash in a Debt
+
+**On a miss**, your claim puts you in the crosshairs of a Status-3 NPC who desires the asset as well; your claim falls short, and the MC will tell you which of your allies or assets the Status-3 NPC is targeting in an attempt to scare you off.","__Roll with Status.__
+**On a hit**, your claim is broadly recognized; take hold of the asset and the MC will tell you what benefits it brings. 
+**On a 7-9**, pick 1.
+**On a 10+**, all 3.
+**•** the asset is no longer vulnerable
+**•** the asset has no rival claimant
+**•** the asset doesn’t require you to cash in a Debt
+
+**On a miss**, your claim puts you in the crosshairs of a Status-3 NPC who desires the asset as well; your claim falls short, and the MC will tell you which of your allies or assets the Status-3 NPC is targeting in an attempt to scare you off."
+blurb_recruit,"Tell the MC what assistance you require and __roll with Status__ 
+**On a hit**, the MC will tell you who is available for hire; o!er up a Debt, and they’ll be on call until after the next faction turn. 
+**On a 10+**, pick 3. 
+**On a 7-9**, pick 2:
+**•** they are unfailingly honest
+**•** they are exceptionally skilled
+**•** they are notably discrete
+**•** they are aggressively focused
+
+**On a miss**, before you can connect with anyone, someone in your own Circle catches word of your request and spreads rumors of your weakness; take -1 ongoing to your Status until you prove your strength to your own people.","Tell the MC what assistance you require and __roll with Status__ 
+**On a hit**, the MC will tell you who is available for hire; o!er up a Debt, and they’ll be on call until after the next faction turn. 
+**On a 10+**, pick 3. 
+**On a 7-9**, pick 2:
+**•** they are unfailingly honest
+**•** they are exceptionally skilled
+**•** they are notably discrete
+**•** they are aggressively focused
+
+**On a miss**, before you can connect with anyone, someone in your own Circle catches word of your request and spreads rumors of your weakness; take -1 ongoing to your Status until you prove your strength to your own people."
+title_city_move_status_3,Status-3 Moves,Status-3 Moves
+name_claim_status_3,Claiming Status-3,Claiming Status-3
+trigger_claim_status_3,**When you make a claim for Status-3 in the city** ,**When you make a claim for Status-3 in the city** 
+blurb_claim_status_3,"__Roll__
+**•** If you have significant influence over a Size 2+ faction, add 1.
+**•** If you have six Debts over Status-3 NPCs, add 1.
+**•** If you have Status-0 in more than one Circle, subtract 1.
+**•** If you personally control fewer than two assets, subtract 1.
+
+**On a hit**, raise your status to Status-3 and gain control of a relevant faction. 
+**On a 10+**, your rise to power begets new alliances and opportunities; make an additional city move for the next two faction turns. 
+**On a 7-9**, your rise leads to animosity and jealousy within your own ranks; another member of your faction leaves to join another faction, taking an asset of yours with them. 
+**On a miss**, your ascent is blocked by a Status-3 NPC who loathes you and your allies; you cannot make another claim until you win them over... or eliminate them directly.","__Roll__
+**•** If you have significant influence over a Size 2+ faction, add 1.
+**•** If you have six Debts over Status-3 NPCs, add 1.
+**•** If you have Status-0 in more than one Circle, subtract 1.
+**•** If you personally control fewer than two assets, subtract 1.
+
+**On a hit**, raise your status to Status-3 and gain control of a relevant faction. 
+**On a 10+**, your rise to power begets new alliances and opportunities; make an additional city move for the next two faction turns. 
+**On a 7-9**, your rise leads to animosity and jealousy within your own ranks; another member of your faction leaves to join another faction, taking an asset of yours with them. 
+**On a miss**, your ascent is blocked by a Status-3 NPC who loathes you and your allies; you cannot make another claim until you win them over... or eliminate them directly."
+title_faction_move,Faction Moves,Faction Moves
+name_openly_attack,Openly Attack a Faction,Openly Attack a Faction
+name_consolidate,Consolidate Control,Consolidate Control
+name_track,Track Someone Down,Track Someone Down
+name_goad,Goad an Opponent,Goad an Opponent
+name_seize,Seize by Force,Seize by Force
+name_search,Search the City,Search the City
+name_offer,Offer Passage,Offer Passage
+trigger_openly_attack,"**When a faction openly attacks another faction**
+","**When a faction openly attacks another faction**
+"
+trigger_consolidate,**When the leaders of a faction consolidate control over their existing forces and assets**,**When the leaders of a faction consolidate control over their existing forces and assets**
+trigger_track,**When a faction tries to track a status-1 or status-2 character down within the city**,**When a faction tries to track a status-1 or status-2 character down within the city**
+trigger_goad,**When a faction tries to goad an opponent into making a mistake**,**When a faction tries to goad an opponent into making a mistake**
+trigger_seize,**When a faction seizes something vulnerable by force**,**When a faction seizes something vulnerable by force**
+trigger_search,"**When a faction searches the city for useful information—rare occult knowledge, another faction’s weaknesses, the location of an artifact—**","**When a faction searches the city for useful information—rare occult knowledge, another faction’s weaknesses, the location of an artifact—**"
+trigger_offer,**When a faction o!ers passage to someone—into or out of the city—**,**When a faction o!ers passage to someone—into or out of the city—**
+blurb_openly_attack,"__Roll with the difference between the two factions’ Sizes__ 
+**On a hit**, the targeted faction sacrifices an appropriate asset or loses a point of Size, their choice. 
+**On a 7-9**, the attacking faction must sacrifice an appropriate asset or lose a point of Size as well. 
+**On a miss**, the target instead springs a clever trap; they capture or destroy an asset or reduce the attacker’s Size, their choice.","__Roll with the difference between the two factions’ Sizes__ 
+**On a hit**, the targeted faction sacrifices an appropriate asset or loses a point of Size, their choice. 
+**On a 7-9**, the attacking faction must sacrifice an appropriate asset or lose a point of Size as well. 
+**On a miss**, the target instead springs a clever trap; they capture or destroy an asset or reduce the attacker’s Size, their choice."
+blurb_consolidate,"__Roll with their Strength__
+**On a 10+**, they pick 2. 
+**On a 7-9**, they pick 1:
+**•** they secure new holdings; mark resources
+**•** they seek new members; mark recruitment
+**•** they demand secrecy; cover up another action
+
+**On a miss**, their efforts lead to internal strife; an authority is dethroned or humiliated, and a rebel coalition within the faction gains momentum—reduce the faction’s Strength.","__Roll with their Strength__
+**On a 10+**, they pick 2. 
+**On a 7-9**, they pick 1:
+**•** they secure new holdings; mark resources
+**•** they seek new members; mark recruitment
+**•** they demand secrecy; cover up another action
+
+**On a miss**, their efforts lead to internal strife; an authority is dethroned or humiliated, and a rebel coalition within the faction gains momentum—reduce the faction’s Strength."
+blurb_track,"__Roll__
+**•** If the faction has a relevant asset, add 1.
+**•** If their quarry is of the same Circle, add 1.
+**•** If the faction is Size-1 or Strength-1, subtract 1.
+**•** If their quarry is actively hiding, subtract 1.
+
+If the quarry is an NPC: 
+**On a 7-9**, the faction finds their quarry; they attack them, kidnap them, or confront them at some cost.
+**On a 10+**, they catch the quarry exposed or vulnerable; the faction can act upon the quarry with impunity. 
+**On a miss**, the faction’s attempts to track them down succeed, but their agents make a mess of things and allow the quarry to escape unharmed.
+
+If the quarry is a PC: 
+**On a 7-9**, the faction tracks down their location, but the PC has time to prepare for the limited forces coming their way. 
+**On a 10+**, the tracking faction gets the best of their quarry; they corner the PC with overwhelming force or careful planning that leaves them little room to avoid their pursuers. 
+**On a miss**, someone close to the PC tips them o! early to the faction’s search...and an opportunity or weakness the PC can exploit","__Roll__
+**•** If the faction has a relevant asset, add 1.
+**•** If their quarry is of the same Circle, add 1.
+**•** If the faction is Size-1 or Strength-1, subtract 1.
+**•** If their quarry is actively hiding, subtract 1.
+
+If the quarry is an NPC: 
+**On a 7-9**, the faction finds their quarry; they attack them, kidnap them, or confront them at some cost.
+**On a 10+**, they catch the quarry exposed or vulnerable; the faction can act upon the quarry with impunity. 
+**On a miss**, the faction’s attempts to track them down succeed, but their agents make a mess of things and allow the quarry to escape unharmed.
+
+If the quarry is a PC: 
+**On a 7-9**, the faction tracks down their location, but the PC has time to prepare for the limited forces coming their way. 
+**On a 10+**, the tracking faction gets the best of their quarry; they corner the PC with overwhelming force or careful planning that leaves them little room to avoid their pursuers. 
+**On a miss**, someone close to the PC tips them o! early to the faction’s search...and an opportunity or weakness the PC can exploit"
+blurb_goad,"__Roll with the di!erence between the two factions’ Strengths__
+**On a 10+**, the target takes the bait; the instigating faction strikes a terrible blow, destroys a vulnerable asset, or undermines a key relationship or alliance. 
+**On a 7-9**, the target avoids the worst of the trap, but causes enough trouble to embarrass themselves; they take a -1 ongoing to Strength until they reestablish their reputation. 
+**On a miss**, the target sees through the scheme; someone from the targeted faction comes to one of the PCs for help turning the tables against the instigating faction.","__Roll with the di!erence between the two factions’ Strengths__
+**On a 10+**, the target takes the bait; the instigating faction strikes a terrible blow, destroys a vulnerable asset, or undermines a key relationship or alliance. 
+**On a 7-9**, the target avoids the worst of the trap, but causes enough trouble to embarrass themselves; they take a -1 ongoing to Strength until they reestablish their reputation. 
+**On a miss**, the target sees through the scheme; someone from the targeted faction comes to one of the PCs for help turning the tables against the instigating faction."
+blurb_seize,"__Roll with their Strength__ 
+**On a hit**, they take hold of it; reduce the targeted faction’s appropriate attribute and seize a vulnerable asset. 
+**On a 10+**, all three.
+**On a 7-9**, they choose one:
+**•** they don’t sacrifice an important leader, ally, or asset
+**•** they don’t su!er an immediate, retaliatory attack
+**•** they don’t cause serious collateral damage
+
+**On a miss**, the strike instead results in the utter destruction of the thing the attacking faction attempted to seize; someone comes to one of the PCs looking for help obtaining justice or revenge.","__Roll with their Strength__ 
+**On a hit**, they take hold of it; reduce the targeted faction’s appropriate attribute and seize a vulnerable asset. 
+**On a 10+**, all three.
+**On a 7-9**, they choose one:
+**•** they don’t sacrifice an important leader, ally, or asset
+**•** they don’t su!er an immediate, retaliatory attack
+**•** they don’t cause serious collateral damage
+
+**On a miss**, the strike instead results in the utter destruction of the thing the attacking faction attempted to seize; someone comes to one of the PCs looking for help obtaining justice or revenge."
+blurb_search,"__Roll with their Size__
+**On a hit**, they uncover some crucial details, enough to ask a PC or notable NPC to pursue it further. 
+**On a 10+**, they also pick 1.
+**On a 7-9**, they also pick 2. 
+**•** they attract the attention of a rival faction
+**•** they have to make an asset vulnerable
+**•** they take -1 ongoing until the end of the next faction turn
+
+**On a miss**, a member of the faction who has secured some vital information ends up dead or missing...but not before passing off what they know to one of the PCs.","__Roll with their Size__
+**On a hit**, they uncover some crucial details, enough to ask a PC or notable NPC to pursue it further. 
+**On a 10+**, they also pick 1.
+**On a 7-9**, they also pick 2. 
+**•** they attract the attention of a rival faction
+**•** they have to make an asset vulnerable
+**•** they take -1 ongoing until the end of the next faction turn
+
+**On a miss**, a member of the faction who has secured some vital information ends up dead or missing...but not before passing off what they know to one of the PCs."
+blurb_offer,"__Roll with their Size__ 
+**On a hit**, the way is made clear, no matter who opposes it; choose 1:
+**•** someone exits; they are beyond reach until they choose to return
+**•** someone enters; the faction gains a powerful asset
+
+**On a 7-9**, the passage o!ends a Status-3 NPC who seeks tribute for the trespass; the faction must perform a favor—dedicating a faction move next faction turn—sacrifice an asset, or risk open war. 
+**On a miss**, the passage sparks a conflict between the faction and their own allies before it can be completed; someone comes to one of the PCs seeking help to negotiate a truce.","__Roll with their Size__ 
+**On a hit**, the way is made clear, no matter who opposes it; choose 1:
+**•** someone exits; they are beyond reach until they choose to return
+**•** someone enters; the faction gains a powerful asset
+
+**On a 7-9**, the passage o!ends a Status-3 NPC who seeks tribute for the trespass; the faction must perform a favor—dedicating a faction move next faction turn—sacrifice an asset, or risk open war. 
+**On a miss**, the passage sparks a conflict between the faction and their own allies before it can be completed; someone comes to one of the PCs seeking help to negotiate a truce."

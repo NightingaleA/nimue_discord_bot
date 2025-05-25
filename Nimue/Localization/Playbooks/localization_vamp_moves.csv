@@ -1,0 +1,140 @@
+localization_id,english,español
+name_vamp_hunger,Eternal Hunger,Eternal Hunger
+name_vamp_welcome,Always Welcome,Always Welcome
+name_vamp_cold_blood,Cold-Blooded,Cold-Blooded
+name_vamp_friends_close,Keep your Friends Close,Keep your Friends Close
+name_vamp_terrifying,Terrifying,Terrifying
+name_vamp_neighborhood,In the Neighborhood,In the Neighborhood
+name_vamp_let_out,Let it Out,Let it Out
+name_vamp_end,End Move,End Move
+name_vamp_intimacy,Intimacy,Intimacy
+name_vamp_true_hunter,True Hunter,True Hunter
+name_vamp_pull_back,Pull them back in,Pull them back in
+name_vamp_blood_magic,Blood Magic,Blood Magic
+name_vamp_fake_news,Fake News,Fake News
+trigger_vamp_hunger,"**When you feed on someone,** ","**When you feed on someone,** "
+trigger_vamp_welcome,"**When you attempt to worm your way into a restricted location by manipulating an underling or guard, **","**When you attempt to worm your way into a restricted location by manipulating an underling or guard, **"
+trigger_vamp_cold_blood,"**When you keep your cool by flouting mortal social conventions and expectations,** ","**When you keep your cool by flouting mortal social conventions and expectations,** "
+trigger_vamp_friends_close,"**When you figure someone out by helping them indulge a true hunger,**","**When you figure someone out by helping them indulge a true hunger,**"
+trigger_vamp_terrifying,` `,` `
+trigger_vamp_neighborhood,"**When you hit the streets with someone who owes you a Debt,**","**When you hit the streets with someone who owes you a Debt,**"
+trigger_vamp_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_vamp_end,"**When you die,**","**When you die,**"
+trigger_vamp_intimacy,"**When you share a moment of intimacy—physical or emotional—with another person,**","**When you share a moment of intimacy—physical or emotional—with another person,**"
+trigger_vamp_true_hunter,` `,` `
+trigger_vamp_pull_back,` `,` `
+trigger_vamp_blood_magic,` `,` `
+trigger_vamp_fake_news,"**When you weaken someone’s standing via false rumors,**","**When you weaken someone’s standing via false rumors,**"
+blurb_vamp_hunger,"__Roll with Blood.__ 
+**On a 10+,** all 3. 
+**On a 7-9,** choose 2:
+**•** You heal 1-harm or take +1 forward
+**•** You learn a secret about your prey
+**•** Your prey doesn’t suffer 3-harm (ap)
+
+**On a miss,**  your hunger gets the best of you, and everyone suffers.","__Roll with Blood.__ 
+**On a 10+,** all 3. 
+**On a 7-9,** choose 2:
+**•** You heal 1-harm or take +1 forward
+**•** You learn a secret about your prey
+**•** Your prey doesn’t suffer 3-harm (ap)
+
+**On a miss,**  your hunger gets the best of you, and everyone suffers."
+blurb_vamp_welcome,"__Roll with your Status in their Circle. __
+**On a hit,** they open the way for you, despite their misgivings. 
+**On a 10+,** they promise to try to keep your name out of any trouble that arises as a result. 
+**On a miss,** they stand strong...but inadvertently give you an opening to gain the access you seek through violence.","__Roll with your Status in their Circle. __
+**On a hit,** they open the way for you, despite their misgivings. 
+**On a 10+,** they promise to try to keep your name out of any trouble that arises as a result. 
+**On a miss,** they stand strong...but inadvertently give you an opening to gain the access you seek through violence."
+blurb_vamp_cold_blood,"__Roll with Blood__ instead of Spirit.
+
+**Keep your Cool**
+Tell the MC the situation you want to avoid
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you.","__Roll with Blood__ instead of Spirit.
+
+**Keep your Cool**
+Tell the MC the situation you want to avoid
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you."
+blurb_vamp_friends_close,"Take a 12+ instead of rolling. 
+If they are in your Circle, take +1 ongoing to act on the answers to your questions until time passes.
+
+**Figure Someone Out**
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?","Take a 12+ instead of rolling. 
+If they are in your Circle, take +1 ongoing to act on the answers to your questions until time passes.
+
+**Figure Someone Out**
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?"
+blurb_vamp_terrifying,Take +1 BLOOD (max+3),Take +1 BLOOD (max+3)
+blurb_vamp_neighborhood,"You can cash in the Debt before rolling to __add +3 to your roll. __
+**If you get a hit,** you also catch them in the middle of a compromising or vulnerable situation; take +1 ongoing against them for the scene.
+
+**Hit the Streets**
+Name who you’re going to and __roll with their Circle.__ 
+**On a hit**, they’re available and have the stuff. 
+**On a 7-9**, choose 1:
+
+**•** whoever you’re going to is juggling their own problems
+**•** whatever you need is more costly than anticipated","You can cash in the Debt before rolling to __add +3 to your roll. __
+**If you get a hit,** you also catch them in the middle of a compromising or vulnerable situation; take +1 ongoing against them for the scene.
+
+**Hit the Streets**
+Name who you’re going to and __roll with their Circle.__ 
+**On a hit**, they’re available and have the stuff. 
+**On a 7-9**, choose 1:
+
+**•** whoever you’re going to is juggling their own problems
+**•** whatever you need is more costly than anticipated"
+blurb_vamp_let_out,"Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Create an opportunity to escape, ignoring all mortal bindings
+**•** Perform a fantastic feat of vampiric strength or agility
+**•** Extend your vampiric senses for a short period of time
+**•** Display your dominance; low-Status NPCs flee, PCs must keep their cool","Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** Create an opportunity to escape, ignoring all mortal bindings
+**•** Perform a fantastic feat of vampiric strength or agility
+**•** Extend your vampiric senses for a short period of time
+**•** Display your dominance; low-Status NPCs flee, PCs must keep their cool"
+blurb_vamp_end,Name the person you hold most responsible; your agents and allies relentlessly pursue them until “justice” is served.,Name the person you hold most responsible; your agents and allies relentlessly pursue them until “justice” is served.
+blurb_vamp_intimacy,"Tell them a secret about yourself or owe them a Debt. Either way, they enter your Web and owe you a Debt.","Tell them a secret about yourself or owe them a Debt. Either way, they enter your Web and owe you a Debt."
+blurb_vamp_true_hunter,"Mark corruption when pursuing a human NPC at night. 
+Your prey cannot escape you, no matter where they attempt to flee, and you can prey on them or kill them at will.","Mark corruption when pursuing a human NPC at night. 
+Your prey cannot escape you, no matter where they attempt to flee, and you can prey on them or kill them at will."
+blurb_vamp_pull_back,"When you cash in your last Debt on someone in your Web, mark corruption to keep the Debt and keep them in your Web.","When you cash in your last Debt on someone in your Web, mark corruption to keep the Debt and keep them in your Web."
+blurb_vamp_blood_magic,"Choose 2 Faerie Powers; mark corruption to use one without additional costs. 
+You may take this corruption advance a second time to gain the remaining Faerie Powers.","Choose 2 Faerie Powers; mark corruption to use one without additional costs. 
+You may take this corruption advance a second time to gain the remaining Faerie Powers."
+blurb_vamp_fake_news,"Mark corruption to __roll with Heart__ instead of Status. 
+On a miss, mark corruption to have the trail lead back to an ally, not you.
+
+**Weaken Someones Standing**
+**On a hit**, the rumors take hold; they take -1 ongoing to moves during the faction turn until they find some way to dispel the whispers. 
+**On a 10+**, one of their enemies catches wind of your gossip and approaches you with damaging information about your target’s interests. 
+**On a miss**, your target traces the stories directly back to you...and catches you in a vulnerable spot before you can react.","Mark corruption to __roll with Heart__ instead of Status. 
+On a miss, mark corruption to have the trail lead back to an ally, not you.
+
+**Weaken Someones Standing**
+**On a hit**, the rumors take hold; they take -1 ongoing to moves during the faction turn until they find some way to dispel the whispers. 
+**On a 10+**, one of their enemies catches wind of your gossip and approaches you with damaging information about your target’s interests. 
+**On a miss**, your target traces the stories directly back to you...and catches you in a vulnerable spot before you can react."
