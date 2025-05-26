@@ -28,7 +28,7 @@ command_do_favor,dofavor,hacerfavor,command_debt_move,added
 command_interfere,interfere,interferir,command_debt_move,added
 command_refuse,refuse,rechazar,command_debt_move,added
 command_cash,cash,cobrar,command_debt_move,added
-command_eos_debt,eos,fds,command_debt_move,added
+command_eos_debt,eos_debt,fds_debt,command_debt_move,added
 command_city_move_status_1,cityone,ciudaduno,command_city_move_status_1_list,added
 command_weaken,weaken,debilitar,command_city_move_status_1,added
 command_put_word,putword,avisar,command_city_move_status_1,added
@@ -39,10 +39,10 @@ command_marshall,marshall,reunir,command_city_move_status_2,added
 command_lay_claim,layclaim,reclamar,command_city_move_status_2,added
 command_recruit,recruit,reclutar,command_city_move_status_2,added
 command_city_move_status_3,citythree,ciudadtres,command_city_move_status_3_list,added
-command_claim_status_3,calimstatusthree,pedirestatustres,command_city_move_status_3,added
+command_establish,establish,establecer,command_city_move_status_3,added
 command_faction_move,faction,faccion,command_faction_move_list,added
 command_openly_attack,openlyattack,atacarabiertamente,command_faction_move,added
-command_consolidate,consolidate,consolidar,command_faction_move,added
+command_develope,develope,desarrollar,command_faction_move,added
 command_track,track,rastrear,command_faction_move,added
 command_goad,goad,provocar,command_faction_move,added
 command_seize,seize,tomar,command_faction_move,added

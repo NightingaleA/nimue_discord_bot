@@ -324,30 +324,30 @@ blurb_recruit,"Tell the MC what assistance you require and __roll with Status__
 
 **On a miss**, before you can connect with anyone, someone in your own Circle catches word of your request and spreads rumors of your weakness; take -1 ongoing to your Status until you prove your strength to your own people."
 title_city_move_status_3,Status-3 Moves,Status-3 Moves
-name_claim_status_3,Claiming Status-3,Claiming Status-3
-trigger_claim_status_3,**When you make a claim for Status-3 in the city** ,**When you make a claim for Status-3 in the city** 
-blurb_claim_status_3,"__Roll__
-**•** If you have significant influence over a Size 2+ faction, add 1.
-**•** If you have six Debts over Status-3 NPCs, add 1.
+name_establish,Establish a Faction,Establish a Faction
+trigger_establish,"**When you attempt to establish a new faction,** ","**When you attempt to establish a new faction,** "
+blurb_establish,"__Rol.__
+**•** If you have significant influence over a different Size-2+ faction, add 1.
+**•** If you have six Debts over Status-3 NPCs from at least two different Circles, add 1.
 **•** If you have Status-0 in more than one Circle, subtract 1.
 **•** If you personally control fewer than two assets, subtract 1.
 
-**On a hit**, raise your status to Status-3 and gain control of a relevant faction. 
-**On a 10+**, your rise to power begets new alliances and opportunities; make an additional city move for the next two faction turns. 
-**On a 7-9**, your rise leads to animosity and jealousy within your own ranks; another member of your faction leaves to join another faction, taking an asset of yours with them. 
-**On a miss**, your ascent is blocked by a Status-3 NPC who loathes you and your allies; you cannot make another claim until you win them over... or eliminate them directly.","__Roll__
-**•** If you have significant influence over a Size 2+ faction, add 1.
-**•** If you have six Debts over Status-3 NPCs, add 1.
+**On a hit,** raise your status to Status-3 and work with the MC to create a new faction you lead. 
+**On a 10+,** your rise to power begets new alliances and opportunities; make an additional city move for the next two faction turns. 
+**On a 7-9,** your rise leads to animosity and jealousy within your own ranks; someone you expected to join you instead betrays you, seizing crucial resources for themselves. 
+**On a miss,** a Status-3 NPC disrupts the founding; you cannot try again until you win them over…or eliminate them directly.","__Rol.__
+**•** If you have significant influence over a different Size-2+ faction, add 1.
+**•** If you have six Debts over Status-3 NPCs from at least two different Circles, add 1.
 **•** If you have Status-0 in more than one Circle, subtract 1.
 **•** If you personally control fewer than two assets, subtract 1.
 
-**On a hit**, raise your status to Status-3 and gain control of a relevant faction. 
-**On a 10+**, your rise to power begets new alliances and opportunities; make an additional city move for the next two faction turns. 
-**On a 7-9**, your rise leads to animosity and jealousy within your own ranks; another member of your faction leaves to join another faction, taking an asset of yours with them. 
-**On a miss**, your ascent is blocked by a Status-3 NPC who loathes you and your allies; you cannot make another claim until you win them over... or eliminate them directly."
+**On a hit,** raise your status to Status-3 and work with the MC to create a new faction you lead. 
+**On a 10+,** your rise to power begets new alliances and opportunities; make an additional city move for the next two faction turns. 
+**On a 7-9,** your rise leads to animosity and jealousy within your own ranks; someone you expected to join you instead betrays you, seizing crucial resources for themselves. 
+**On a miss,** a Status-3 NPC disrupts the founding; you cannot try again until you win them over…or eliminate them directly."
 title_faction_move,Faction Moves,Faction Moves
 name_openly_attack,Openly Attack a Faction,Openly Attack a Faction
-name_consolidate,Consolidate Control,Consolidate Control
+name_develope,Develop Infrastructure ,Develop Infrastructure 
 name_track,Track Someone Down,Track Someone Down
 name_goad,Goad an Opponent,Goad an Opponent
 name_seize,Seize by Force,Seize by Force
@@ -356,7 +356,7 @@ name_offer,Offer Passage,Offer Passage
 trigger_openly_attack,"**When a faction openly attacks another faction**
 ","**When a faction openly attacks another faction**
 "
-trigger_consolidate,**When the leaders of a faction consolidate control over their existing forces and assets**,**When the leaders of a faction consolidate control over their existing forces and assets**
+trigger_develope,"**When the leaders of a faction develop infrastructure,**","**When the leaders of a faction develop infrastructure,**"
 trigger_track,**When a faction tries to track a status-1 or status-2 character down within the city**,**When a faction tries to track a status-1 or status-2 character down within the city**
 trigger_goad,**When a faction tries to goad an opponent into making a mistake**,**When a faction tries to goad an opponent into making a mistake**
 trigger_seize,**When a faction seizes something vulnerable by force**,**When a faction seizes something vulnerable by force**
@@ -369,21 +369,21 @@ blurb_openly_attack,"__Roll with the difference between the two factions’ Size
 **On a hit**, the targeted faction sacrifices an appropriate asset or loses a point of Size, their choice. 
 **On a 7-9**, the attacking faction must sacrifice an appropriate asset or lose a point of Size as well. 
 **On a miss**, the target instead springs a clever trap; they capture or destroy an asset or reduce the attacker’s Size, their choice."
-blurb_consolidate,"__Roll with their Strength__
-**On a 10+**, they pick 2. 
-**On a 7-9**, they pick 1:
-**•** they secure new holdings; mark resources
-**•** they seek new members; mark recruitment
-**•** they demand secrecy; cover up another action
+blurb_develope,"commit a secure asset and __roll with their Strength.__
+**On a hit,** the asset becomes vulnerable, and they pick 2:
+**•** they attract new members; mark recruitment 
+**•** they acquire new holdings: mark resources 
+**•** they solidify control: make a vulnerable asset secure
 
-**On a miss**, their efforts lead to internal strife; an authority is dethroned or humiliated, and a rebel coalition within the faction gains momentum—reduce the faction’s Strength.","__Roll with their Strength__
-**On a 10+**, they pick 2. 
-**On a 7-9**, they pick 1:
-**•** they secure new holdings; mark resources
-**•** they seek new members; mark recruitment
-**•** they demand secrecy; cover up another action
+ **On a 10+,** a messy opportunity for growth also arises; if the faction (or its allies) seize it before time passes, they mark recruitment or resources, as appropriate. 
+**On a miss,** their plan for expansion ignites a schism within the faction; all of their assets are considered vulnerable until one side of the conflict seizes full control.","commit a secure asset and __roll with their Strength.__
+**On a hit,** the asset becomes vulnerable, and they pick 2:
+**•** they attract new members; mark recruitment 
+**•** they acquire new holdings: mark resources 
+**•** they solidify control: make a vulnerable asset secure
 
-**On a miss**, their efforts lead to internal strife; an authority is dethroned or humiliated, and a rebel coalition within the faction gains momentum—reduce the faction’s Strength."
+ **On a 10+,** a messy opportunity for growth also arises; if the faction (or its allies) seize it before time passes, they mark recruitment or resources, as appropriate. 
+**On a miss,** their plan for expansion ignites a schism within the faction; all of their assets are considered vulnerable until one side of the conflict seizes full control."
 blurb_track,"__Roll__
 **•** If the faction has a relevant asset, add 1.
 **•** If their quarry is of the same Circle, add 1.
