@@ -1,0 +1,123 @@
+localization_id,english,español
+name_vessel_erase,Erase the Shem,Erase the Shem
+name_vessel_flesh,Only Flesh,Only Flesh
+name_vessel_machinist,Machinist,Machinist
+name_vessel_colossus,Colossus,Colossus
+name_vessel_visage,Hideous Visage,Hideous Visage
+name_vessel_tireless,Tireless,Tireless
+name_vessel_let_out,Let it Out,Let it Out
+name_vessel_end,End,End
+name_vessel_creation,Your Creation,Your Creation
+name_vessel_instincts,Your Instincs,Your Instincs
+name_vessel_inquiries,Your Inquiries,Your Inquiries
+name_vessel_intimacy,Intimacy,Intimacy
+name_vessel_sheep,Among the Sheep,Among the Sheep
+name_vessel_like_them,More Like Them,More Like Them
+name_vessel_heartfelt,Heartfelt,Heartfelt
+name_vessel_absolution,Absolution,Absolution
+trigger_vessel_erase,"**When you suffer enough harm to kill you,**","**When you suffer enough harm to kill you,**"
+trigger_vessel_flesh,"**When you come directly at a target, without concern for your own well-being,**","**When you come directly at a target, without concern for your own well-being,**"
+trigger_vessel_machinist,"**When you commune with a machine,**","**When you commune with a machine,**"
+trigger_vessel_colossus,"**When you fight against a gang,**","**When you fight against a gang,**"
+trigger_vessel_visage,"**When you persuade an NPC by revealing your inhuman nature and threatening their interests,**","**When you persuade an NPC by revealing your inhuman nature and threatening their interests,**"
+trigger_vessel_tireless,"**When you dedicate a city move to helping a faction track someone down or search the city for useful information,**","**When you dedicate a city move to helping a faction track someone down or search the city for useful information,**"
+trigger_vessel_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_vessel_end,"**When you die or retire your character,**","**When you die or retire your character,**"
+trigger_vessel_creation,"**Once per session,**","**Once per session,**"
+trigger_vessel_instincts,**Resisting an opportunity to fulfill your instinct counts as keeping your cool.**,**Resisting an opportunity to fulfill your instinct counts as keeping your cool.**
+trigger_vessel_inquiries,"**At the end of each session,**","**At the end of each session,**"
+trigger_vessel_intimacy,"**When you share a moment of intimacy—physical or emotional—with another person,**","**When you share a moment of intimacy—physical or emotional—with another person,**"
+trigger_vessel_sheep,"**When you try to disappear into a crowd of mortals,**","**When you try to disappear into a crowd of mortals,**"
+trigger_vessel_like_them,"**When you try to figure out a member of Mortalis,**","**When you try to figure out a member of Mortalis,**"
+trigger_vessel_heartfelt,` `,` `
+trigger_vessel_absolution,"**When someone tells you about a serious problem,**","**When someone tells you about a serious problem,**"
+blurb_vessel_erase,"you can choose to shut down instead of marking the harm (or a scar). 
+In this state, you cannot suffer additional harm, nor can anyone detect that you are still alive, even with magical means; you still perceive everything that takes place around your body, and you can reawaken at will. 
+If someone dismembers you or attempts to destroy your body, your flesh will knit itself back together upon revival, even if it has to travel great distances to be reunited.","you can choose to shut down instead of marking the harm (or a scar). 
+In this state, you cannot suffer additional harm, nor can anyone detect that you are still alive, even with magical means; you still perceive everything that takes place around your body, and you can reawaken at will. 
+If someone dismembers you or attempts to destroy your body, your flesh will knit itself back together upon revival, even if it has to travel great distances to be reunited."
+blurb_vessel_flesh,"you get armor-1; if you do so in the service of your instincts, you get armor-2.","you get armor-1; if you do so in the service of your instincts, you get armor-2."
+blurb_vessel_machinist,"__roll with Spirit.__ 
+**On a 10+,** ask 2. 
+**On a 7-9,** ask 1.
+**•** what secrets are hidden here, friend?
+**•** who made you this way, sister?
+**•** what purpose do you serve, brother?
+**•** how could I get you to ______, comrade?
+
+**On a miss,** your prying is unwelcome; the machine betrays you, in whatever way it can.","__roll with Spirit.__ 
+**On a 10+,** ask 2. 
+**On a 7-9,** ask 1.
+**•** what secrets are hidden here, friend?
+**•** who made you this way, sister?
+**•** what purpose do you serve, brother?
+**•** how could I get you to ______, comrade?
+
+**On a miss,** your prying is unwelcome; the machine betrays you, in whatever way it can."
+blurb_vessel_colossus,"you count as a gang of equivalent size. Calculate armor and harm as normal, but ignore any size difference between you and the gang you’re fighting.","you count as a gang of equivalent size. Calculate armor and harm as normal, but ignore any size difference between you and the gang you’re fighting."
+blurb_vessel_visage,"__roll with Spirit instead of Heart.__
+
+**On a hit**, they see your point and do as you ask. 
+**On a 7-9**, they counter your offer or demand payment—a Debt, a favor, resources—before agreeing to follow through. 
+
+If you cash in a Debt with the NPC before you roll, add +3 to your total.","__roll with Spirit instead of Heart.__
+
+**On a hit**, they see your point and do as you ask. 
+**On a 7-9**, they counter your offer or demand payment—a Debt, a favor, resources—before agreeing to follow through. 
+
+If you cash in a Debt with the NPC before you roll, add +3 to your total."
+blurb_vessel_tireless,"you add +3 to the roll [max+4]; if you do so, you’re present when they confront the character or learn the information they sought.","you add +3 to the roll [max+4]; if you do so, you’re present when they confront the character or learn the information they sought."
+blurb_vessel_let_out,"""Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** smash through the scenery to get at something or someone you want
+**•** produce an object or experience of strange beauty for someone else
+**•** draw a mortal close to you, intriguing them with your inhuman form
+**•** steel yourself; ignore the next time you suffer harm in the scene","""Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** smash through the scenery to get at something or someone you want
+**•** produce an object or experience of strange beauty for someone else
+**•** draw a mortal close to you, intriguing them with your inhuman form
+**•** steel yourself; ignore the next time you suffer harm in the scene"
+blurb_vessel_end,"tell the MC which instinct came to matter to you most; the city absorbs that instinct into itself. From that point, any PC can let it out to call upon the city to obey its instinct.","tell the MC which instinct came to matter to you most; the city absorbs that instinct into itself. From that point, any PC can let it out to call upon the city to obey its instinct."
+blurb_vessel_creation,you can heal up to 2-harm by consuming a copious quantity of the materials of which you are made. Anyone who witnesses the consumption sees your true form.,you can heal up to 2-harm by consuming a copious quantity of the materials of which you are made. Anyone who witnesses the consumption sees your true form.
+blurb_vessel_instincts,"If a redemption advance allows you to rewrite an instinct, cross it out and write a new instinct of your own choosing. The old one no longer bothers you.
+__roll with Spirit__
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you.""","If a redemption advance allows you to rewrite an instinct, cross it out and write a new instinct of your own choosing. The old one no longer bothers you.
+__roll with Spirit__
+**On a 10+**, all’s well. 
+**On a 7–9**, the MC will tell you what it’s gonna cost you."""
+blurb_vessel_inquiries,"mark redemption if you sacrificed something in the pursuit of your focus inquiry; if you accomplish a focus, mark a redemption advancement and choose another. 
+You can change your focus whenever time passes.","mark redemption if you sacrificed something in the pursuit of your focus inquiry; if you accomplish a focus, mark a redemption advancement and choose another. 
+You can change your focus whenever time passes."
+blurb_vessel_intimacy,"ask them an invasive question about being human. If they answer the question honestly, mark redemption. If they deflect the inquiry or offer falsehoods, they must give you a Debt.","ask them an invasive question about being human. If they answer the question honestly, mark redemption. If they deflect the inquiry or offer falsehoods, they must give you a Debt."
+blurb_vessel_sheep,"__roll with Spirit __
+**On a 10+,** you vanish without a trace. 
+**On a 7-9,** you are hidden, but your deception is fragile and incomplete. 
+**On a miss,** you’re clearly the wolf among them; even the crowd knows it.","__roll with Spirit __
+**On a 10+,** you vanish without a trace. 
+**On a 7-9,** you are hidden, but your deception is fragile and incomplete. 
+**On a miss,** you’re clearly the wolf among them; even the crowd knows it."
+blurb_vessel_like_them,"__roll with Spirit instead of Mind.__
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?","__roll with Spirit instead of Mind.__
+**On a hit**, ask 2. 
+**On a 7-9**, they ask 1 of you as well. 
+If you’re __in their Circle,__ ask an additional question, **even on a miss**.
+**•** who’s pulling your character’s strings?
+**•** what’s your character’s beef with _____?
+**•** what’s your character hoping to get from _____?
+**•** what does your character worry is going to happen?
+**•** how could I get your character to _____?
+**•** how could I put your character in my Debt?"
+blurb_vessel_heartfelt,"Replace your intimacy move with “...share one of your human experiences as you understand it. If they reciprocate, mark redemption. If they refuse, they must give you a Debt.”","Replace your intimacy move with “...share one of your human experiences as you understand it. If they reciprocate, mark redemption. If they refuse, they must give you a Debt.”"
+blurb_vessel_absolution,"you can promise to take it on as your own; take +1 ongoing to solve it. If you do, mark redemption; if you fail, you owe them a Debt.","you can promise to take it on as your own; take +1 ongoing to solve it. If you do, mark redemption; if you fail, you owe them a Debt."

@@ -1,7 +1,7 @@
 bool,Command Types,status,Sources
 true,command_help_list,added,QUICKSTART 7.0 May 2022
-false,command_info_list,WIP,
-,command_info,wait_list,
+false,command_info_list,WIP,2E Corebook June - 2024
+,command_info,wait_list,Stretche Goals Preview August 2024
 ,command_basic_move_list,,
 ,command_basic_move,,
 ,command_circles_move_list,,

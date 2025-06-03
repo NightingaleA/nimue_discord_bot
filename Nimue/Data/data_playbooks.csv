@@ -1,13 +1,15 @@
 uniqueID,command,name,blurb,source
-playbook_aware,command_aware,name_aware,blurb_aware,QUICKSTART 7.0 May 2022
-playbook_fae,command_fae,name_fae,blurb_fae,QUICKSTART 7.0 May 2022
-playbook_hunter,command_hunter,name_hunter,blurb_hunter,QUICKSTART 7.0 May 2022
-playbook_imp,command_imp,name_imp,blurb_imp,QUICKSTART 7.0 May 2022
-playbook_oracle,command_oracle,name_oracle,blurb_oracle,QUICKSTART 7.0 May 2022
-playbook_spectre,command_spectre,name_spectre,blurb_spectre,QUICKSTART 7.0 May 2022
-playbook_sworn,command_sworn,name_sworn,blurb_sworn,QUICKSTART 7.0 May 2022
-playbook_tainted,command_tainted,name_tainted,blurb_tainted,QUICKSTART 7.0 May 2022
-playbook_vamp,command_vamp,name_vamp,blurb_vamp,QUICKSTART 7.0 May 2022
-playbook_veteran,command_veteran,name_veteran,blurb_veteran,QUICKSTART 7.0 May 2022
-playbook_wizard,command_wizard,name_wizard,blurb_wizard,QUICKSTART 7.0 May 2022
-playbook_wolf,command_wolf,name_wolf,blurb_wolf,QUICKSTART 7.0 May 2022
+playbook_aware,command_aware,name_aware,blurb_aware,2E Corebook June - 2024
+playbook_fae,command_fae,name_fae,blurb_fae,2E Corebook June - 2024
+playbook_hunter,command_hunter,name_hunter,blurb_hunter,2E Corebook June - 2024
+playbook_imp,command_imp,name_imp,blurb_imp,2E Corebook June - 2024
+playbook_oracle,command_oracle,name_oracle,blurb_oracle,2E Corebook June - 2024
+playbook_spectre,command_spectre,name_spectre,blurb_spectre,2E Corebook June - 2024
+playbook_sworn,command_sworn,name_sworn,blurb_sworn,2E Corebook June - 2024
+playbook_tainted,command_tainted,name_tainted,blurb_tainted,2E Corebook June - 2024
+playbook_vamp,command_vamp,name_vamp,blurb_vamp,2E Corebook June - 2024
+playbook_veteran,command_veteran,name_veteran,blurb_veteran,2E Corebook June - 2024
+playbook_wizard,command_wizard,name_wizard,blurb_wizard,2E Corebook June - 2024
+playbook_wolf,command_wolf,name_wolf,blurb_wolf,2E Corebook June - 2024
+playbook_vessel,command_vessel,name_vessel,blurb_vessel,Stretche Goals Preview August 2024
+playbook_revenant,command_revenant,name_revenant,blurb_revenant,Stretche Goals Preview August 2024

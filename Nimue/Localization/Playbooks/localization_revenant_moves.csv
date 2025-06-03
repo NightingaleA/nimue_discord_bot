@@ -1,0 +1,147 @@
+localization_id,english,español
+name_revenant_abashed,Abashed The Devil Stood,Abashed The Devil Stood
+name_revenant_vigilante,Vigilante,Vigilante
+name_revenant_gasoline,Is That Gasoline I Smell?,Is That Gasoline I Smell?
+name_revenant_scare,You Don’t Scare Me,You Don’t Scare Me
+name_revenant_merciful,Merciful,Merciful
+name_revenant_let_out,Let It Out,Let It Out
+name_revenant_end,End,End
+name_revenant_caul,Your Caul,Your Caul
+name_revenant_daemon_battle,Your Daemon,Your Daemon
+name_revenant_daemon_ask,Your Daemon,Your Daemon
+name_revenant_intimacy,Intimacy,Intimacy
+name_revenant_wall,Against The Wall,Against The Wall
+name_revenant_dig,Dig For Answers,Dig For Answers
+name_revenant_haunt,Haunt The Darkness,Haunt The Darkness
+trigger_revenant_abashed,"**When you openly present yourself to your enemies,**","**When you openly present yourself to your enemies,**"
+trigger_revenant_vigilante,"**When you go into a battle,**","**When you go into a battle,**"
+trigger_revenant_gasoline,"**When you search a location for the resources or tools needed to destroy it,**","**When you search a location for the resources or tools needed to destroy it,**"
+trigger_revenant_scare,"**You have a mortal confidante who believes in your cause. When you go to them for solace, comfort, or protection,**","**You have a mortal confidante who believes in your cause. When you go to them for solace, comfort, or protection,**"
+trigger_revenant_merciful,"**When you inflict harm on someone,**","**When you inflict harm on someone,**"
+trigger_revenant_let_out,**When you let out the power within you**,**When you let out the power within you**
+trigger_revenant_end,"**When you die or retire your character,**","**When you die or retire your character,**"
+trigger_revenant_caul,"**When you cross out all the names in your caul,**","**When you cross out all the names in your caul,**"
+trigger_revenant_daemon_battle,"**When your daemon stands with you in battle,**","**When your daemon stands with you in battle,**"
+trigger_revenant_daemon_ask,"**When you ask your daemon to add someone who was involved in your death to your caul,**","**When you ask your daemon to add someone who was involved in your death to your caul,**"
+trigger_revenant_intimacy,**When you share a moment of intimacy— physical or emotional—**,**When you share a moment of intimacy— physical or emotional—**
+trigger_revenant_wall,"**Strike out escape a situation; take +1 Blood (max+4). When you are cornered by your enemies,**",**Strike out escape a situation;**
+trigger_revenant_dig,"**Strike out figure someone out; take +1 Heart When you hurt someone to get information,**",**Strike out figure someone out;**
+trigger_revenant_haunt,"**Strike out mislead, distract or trick; take +1 Spirit. When you terrorize someone from the shadows,**","**Strike out mislead, distract or trick;**"
+blurb_revenant_abashed,"__roll with Spirit. __
+**On a hit,** they choose:
+**•** they scatter or flee before you
+**•** they throw down their weapons and surrender
+**•** they attack you, ignoring your allies
+**On a 10+,** you also take armor+1 against them for the scene. 
+**On a miss,** they reveal you’ve sprung a trap laid by those who wish to avoid your judgment.","__roll with Spirit. __
+**On a hit,** they choose:
+**•** they scatter or flee before you
+**•** they throw down their weapons and surrender
+**•** they attack you, ignoring your allies
+**On a 10+,** you also take armor+1 against them for the scene. 
+**On a miss,** they reveal you’ve sprung a trap laid by those who wish to avoid your judgment."
+blurb_revenant_vigilante,"__roll with Blood. __
+**On a 10+,** hold 3. 
+**On a 7-9,** hold 2. 
+**On a miss,** hold 1 and take -1 forward. During the fight, you can spend your hold 1 for 1 to:
+**•** kill, disable, or disarm (your choice) an NPC within reach
+**•** redirect an attack within reach to another character or to the ground or sky
+**•** cross the distance to any character outside your reach before they can react
+**•** name a character within your reach; you intercept any attack directed at them","__roll with Blood. __
+**On a 10+,** hold 3. 
+**On a 7-9,** hold 2. 
+**On a miss,** hold 1 and take -1 forward. During the fight, you can spend your hold 1 for 1 to:
+**•** kill, disable, or disarm (your choice) an NPC within reach
+**•** redirect an attack within reach to another character or to the ground or sky
+**•** cross the distance to any character outside your reach before they can react
+**•** name a character within your reach; you intercept any attack directed at them"
+blurb_revenant_gasoline,"__roll with Blood. __
+**On a hit,** you find whatever you need to bring the place down around you. 
+**On a 10+,** everything is already arrayed to your liking; all you have to do is light the fuse. 
+**On a miss,** your search leaves you or an ally vulnerable or exposed to your enemies.","__roll with Blood. __
+**On a hit,** you find whatever you need to bring the place down around you. 
+**On a 10+,** everything is already arrayed to your liking; all you have to do is light the fuse. 
+**On a miss,** your search leaves you or an ally vulnerable or exposed to your enemies."
+blurb_revenant_scare,"__roll with Spirit.__ 
+**On a hit,** they tend to your wounds and hide you from your enemies; clear your harm track. 
+**On a 10+,** they have done some digging of their own; they have an opportunity you can use against your enemies. 
+**On a miss,** you learn too late that they have betrayed your confidence trying to help you.","__roll with Spirit.__ 
+**On a hit,** they tend to your wounds and hide you from your enemies; clear your harm track. 
+**On a 10+,** they have done some digging of their own; they have an opportunity you can use against your enemies. 
+**On a miss,** you learn too late that they have betrayed your confidence trying to help you."
+blurb_revenant_merciful,You can choose to inflict s-harm. Decide when you inflict the harm; you need not tell anyone in advance what kind of harm you intend to inflict,You can choose to inflict s-harm. Decide when you inflict the harm; you need not tell anyone in advance what kind of harm you intend to inflict
+blurb_revenant_let_out,"""""""Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** force your way into a fortified position or barricaded location.
+**•** compel your daemon to inflict visions of a person’s mortal sins upon them.
+**•** use the supernatural senses of your daemon as if they were your own.
+**•** cut off the escape route of someone fleeing from you or your allies.","""""""Choose an ability from your playbook and __roll with Spirit.__ 
+**On a hit**, mark corruption and activate the ability; the MC will tell you how the effect is costly, limited, or unstable. 
+**On a 10+**, ignore the corruption or the complications, your choice.
+**•** force your way into a fortified position or barricaded location.
+**•** compel your daemon to inflict visions of a person’s mortal sins upon them.
+**•** use the supernatural senses of your daemon as if they were your own.
+**•** cut off the escape route of someone fleeing from you or your allies."
+blurb_revenant_end,"name who you trusted most; your daemon brings them the token (armor+1) of your old life. If they ever bury it with your body, they clear a corruption advance..","name who you trusted most; your daemon brings them the token (armor+1) of your old life. If they ever bury it with your body, they clear a corruption advance.."
+blurb_revenant_caul,"your connection to the land of the dead is severed. Your daemon returns to the spirit realm, and you become mortal. You can lay your own soul to rest by returning your body to your final resting place.","your connection to the land of the dead is severed. Your daemon returns to the spirit realm, and you become mortal. You can lay your own soul to rest by returning your body to your final resting place."
+blurb_revenant_daemon_battle,take armor+1. Your daemon will only stand with you in the pursuit of your caul or to fulfill a Debt owed to you or another.,take armor+1. Your daemon will only stand with you in the pursuit of your caul or to fulfill a Debt owed to you or another.
+blurb_revenant_daemon_ask,"__roll with Spirit.__ 
+**On a hit,** your daemon acquiesces. 
+**On a 10+,** your daemon also reveals a secret weakness or vulnerability you can use against them. 
+**On a miss,** your deamon is unconvinced...but tells you what you need to get—a confession, physical records, etc.—to add them.","__roll with Spirit.__ 
+**On a hit,** your daemon acquiesces. 
+**On a 10+,** your daemon also reveals a secret weakness or vulnerability you can use against them. 
+**On a miss,** your deamon is unconvinced...but tells you what you need to get—a confession, physical records, etc.—to add them."
+blurb_revenant_intimacy,"ask them if you should be an agent of justice or spirit of vengeance. If they say justice, ask them how to serve that cause and take a +1 ongoing to do it; if they say vengeance, mark corruption.","ask them if you should be an agent of justice or spirit of vengeance. If they say justice, ask them how to serve that cause and take a +1 ongoing to do it; if they say vengeance, mark corruption."
+blurb_revenant_wall,"__roll with Blood.__ 
+**On a hit,** trade harm with your enemies as if you were a small group (3-harm 1-armor) instead of a single person. 
+**On a 10+,** pick 2. 
+**On a 7-9,** pick 1.
+**•** You inflict terrible harm
+**•** You suffer little harm
+**•** You create an opportunity
+**•** You don’t mark corruption
+■ Advance: You trade harm as if you were a medium group (4-harm 2-armor) instead of a small group","__roll with Blood.__ 
+**On a hit,** trade harm with your enemies as if you were a small group (3-harm 1-armor) instead of a single person. 
+**On a 10+,** pick 2. 
+**On a 7-9,** pick 1.
+**•** You inflict terrible harm
+**•** You suffer little harm
+**•** You create an opportunity
+**•** You don’t mark corruption
+■ Advance: You trade harm as if you were a medium group (4-harm 2-armor) instead of a small group"
+blurb_revenant_dig,"__roll with Heart.__ 
+**On a hit,** their resolve breaks and they must answer your questions truthfully. 
+**On a 10+,** ask 2. 
+**On a 7-9, ask 1.** Mark corruption to ask any questions you want, not restrained to this list.
+**•** Are you telling the truth about _______________?
+**•** What do you know about ________________?
+**•** Where can I find _______________?
+**•** How can you bring me closer to vengeance?
+■ Advance: On a 12+, ask 3 from the list or any 1 question—not restrained to this list—without marking corruption.","__roll with Heart.__ 
+**On a hit,** their resolve breaks and they must answer your questions truthfully. 
+**On a 10+,** ask 2. 
+**On a 7-9, ask 1.** Mark corruption to ask any questions you want, not restrained to this list.
+**•** Are you telling the truth about _______________?
+**•** What do you know about ________________?
+**•** Where can I find _______________?
+**•** How can you bring me closer to vengeance?
+■ Advance: On a 12+, ask 3 from the list or any 1 question—not restrained to this list—without marking corruption."
+blurb_revenant_haunt,"__roll with Spirit.__
+**On a hit,** they are frightened, intimidated, or unnerved. 
+**On a 10+,** pick 2. 
+**On a 7-9,** pick 1.
+**•** You create an opportunity
+**•** You inflict 1-harm (ap)
+**•** You remain in the shadows
+**•** You don’t mark corruption
+■ Advance: On a 12+, all four and one for double effect. You cannot avoid marking corruption for double effect.","__roll with Spirit.__
+**On a hit,** they are frightened, intimidated, or unnerved. 
+**On a 10+,** pick 2. 
+**On a 7-9,** pick 1.
+**•** You create an opportunity
+**•** You inflict 1-harm (ap)
+**•** You remain in the shadows
+**•** You don’t mark corruption
+■ Advance: On a 12+, all four and one for double effect. You cannot avoid marking corruption for double effect."
